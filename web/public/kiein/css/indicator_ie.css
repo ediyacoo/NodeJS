@@ -1,0 +1,44 @@
+
+/*****************************************************************************************************************************************************************************************
+ * 	indicator
+ *****************************************************************************************************************************************************************************************/
+/** dialog_indicator */
+#dialog_indicator_content {width:100%;}
+#dialog_indicator_content ul {list-style:none; padding:0px; margin:0px;width:100%;}
+#dialog_indicator_content ul li {width:160px; height:160px; float:left; padding:30px; color:#777777; cursor:pointer; -moz-border-radius:5px; -webkit-border-radius:5px;border-radius:5px;}
+#dialog_indicator_content ul li:hover {color:#000000; background-color:#eeeeee;}
+#dialog_indicator_content ul li img {width:150px;}
+
+#dialog_indicator_title a {text-decoration:underline; font-weight:bold;}
+
+#dialog_indicator_description {}
+
+
+/** info panel */
+#infoPanel {width:99%; height:99.5%; display:block; top:0px; border:0px; background:transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#80000000,endColorstr=#80000000); zoom: 1}
+#infoContent_tabs_layerChart div {float:left; padding:5px;}
+#infoContent_tabs div ul {margin:0px; padding:0px; list-style:none;}
+#infoContent_tabs div ul li {padding:2px;margin:0px;}
+
+#infoContent_tabs_about table td {border:0px;}
+#infoContent_tabs_about table td:first-child {font-weight:bold;}
+#infoContent_tabs_about table td:nth-child(2) {padding:0px 15px 0px 15px;}
+
+
+/** metadata */
+.table-metadata td {border:0px;}
+.table-metadata td:first-child {font-weight:bold;}
+.table-metadata td:nth-child(2) {padding:0px 15px 0px 15px;}
+
+/** chart */
+.chart {border:1px solid #cccccc; margin:10px 0px 10px 0px;}
+
+
+/** searchContent */
+#searchContent {color:#ffffff; width:100%; height:45px; background:transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#80000000,endColorstr=#80000000); zoom: 1}
+#searchContent > label {line-height:45px; left:5px; position:absolute; font-weight:bold;}
+#searchContent div {float:left}
+
+/** ddslick */
+.dd-container {color:#000000; margin:0px 2px 0px 2px; left:125px; }
+.dd-selected {height:22px;}

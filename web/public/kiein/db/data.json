@@ -1,0 +1,60 @@
+{
+"BaseMap": {			
+					"layers":[
+ 								{"name":"Mosque", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:WORSHIPFACILITIES",  "format":"image/png", "transparent": true, "tiled": true}},
+ 								{"name":"School", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:EDUCATIONFACILITIES",  "format":"image/png", "transparent": true, "tiled": true}},
+ 								{"name":"Bus Stops", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:BUS_STATIONS",  "format":"image/png", "transparent": true, "tiled": true}},
+ 								{"name":"Fuel Stations", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:FUEL_STATION",  "format":"image/png", "transparent": true, "tiled": true}},
+ 								{"name":"Main Roads", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:MAJORHIGHWAYS",  "format":"image/png", "transparent": true, "tiled": true}},
+      							{"name":"Boundary", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:BOUNDARIES","format":"image/png", "transparent": true, "tiled": true}},
+      							{"name":"Landuse", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:LANDUSE", "format":"image/png", "transparent": true, "tiled": true}},
+      							{"name":"PowerStation Oil", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:PowerStation_Oil", "format":"image/png", "transparent": true, "tiled": true}}
+					]
+},
+"SolarRadiation": {
+					"layers":[
+								{"name":"GHIrsp @201302 by IDW", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/EnergyCenter/wms", "srs":"EPSG:4326", "param": {"layers":"EnergyCenter:201302_GHIrsp",  "format":"image/png", "transparent": true, "tiled": true}},
+								{"name":"DHI_Contour_Mar2013", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/EnergyCenter/wms", "srs":"EPSG:4326", "param": {"layers":"EnergyCenter:DH_Contour_MAR2013",  "format":"image/png", "transparent": true, "tiled": true}}	
+					]
+},
+"Health": {
+					"layers":[
+								{"name":"BirdFlu_Bird Location", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:4326", "param": {"layers":"KISR:KUWAIT_BIRDS",  "format":"image/png", "transparent": true, "tiled": true}},
+								{"name":"BirdFlu_Migratory", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:4326", "param": {"layers":"KISR:BirdFlu_BirdMigratory",  "format":"image/png", "transparent": true, "tiled": true}},
+								{"name":"BirdFlu_Risk Map", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:32638", "param": {"layers":"KISR:Kuwait_Final_RiskMap",  "format":"image/png", "transparent": true, "tiled": true}},
+								{"name":"Hospitals", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:HEALTHFACILITIES",  "format":"image/png", "transparent": true, "tiled": true}},
+								{"name":"Hospital Accessibility", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:ACC_HEALTH",  "format":"image/png", "transparent": true, "tiled": true}}
+					]
+},
+"Atmosphere": {	
+					"description": "this is a description for the atmosphere",
+					"layers":[
+								{"name":"NO2 Pollutant@2011", "type":"TMS", "source": "NASA", "software": "MapTiler", "url":"maptiles/nasa_no2/2011/", "param":{"minZoom":0, "maxZoom":6}, "slider":{"variable": "time", "values": ["Jan", "July", "Oct"], "labels":["Jan", "July", "Oct"]}, "zoomToExtent":{"zoom":5}}
+					]
+},
+"Hydrology": {		
+					"layers":[
+      				]
+},
+"Marine": {				
+					"layers":[
+								{"name":"Flood Map", "type":"XYZ", "source": "NASA SRTM (90m) & http://flood.firetree.net", "software": "", "url":"http://flood.firetree.net/solidtile/m_${m}/x_${x}/y_${y}/z_${z}", "param":{"minZoom":0, "maxZoom":17}, "slider":{"variable":"${m}", "values":["1","2","3","4","5","6","7","9","13","20","30","40","50","60"], "labels":["1m","2m","3m","4m","5m","6m","7m","9m","13m","20m","30m","40m","50m","60m"]}},
+								{"name":"Flood Map (SRTM30)", "type":"WMS", "source": "NASA SRTM (90m)", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "param":{"layers":"KISR:kuwait_srtm30",  "format":"image/png", "transparent": true}, "slider":{"variable": "styles", "values":["FloodMap_0-1m", "FloodMap_0-2m", "FloodMap_0-3m", "FloodMap_0-4m", "FloodMap_0-5m", "FloodMap_0-10m", "FloodMap_0-15m", "FloodMap_0-20m", "FloodMap_0-30m", "FloodMap_0-40m", "FloodMap_0-50m", "FloodMap_0-60m"], "labels":["1m", "2m", "3m", "4m", "5m", "10m", "15m", "20m", "30m", "40m", "50m", "60m"]}},
+								{"name":"Coastline Sensitivity", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:COASTLINESENSITIVITY",  "format":"image/png", "transparent": true, "tiled": true}},
+      							{"name":"Fisheries", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:FISHERIES", "format":"image/png", "transparent": true, "tiled": true}},
+      							{"name":"Marine Sediment Quality", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:MARINESEDIMENTQUALITY","format":"image/png", "transparent": true, "tiled": true}}
+      				]
+},
+"Terrestrial": {	
+					"layers":[
+      							{"name":"Land Cover", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:LANDCOVER","format":"image/png", "transparent": true, "tiled": true}},
+      							{"name":"Soil", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:SOILCLASSIFICATION","format":"image/png", "transparent": true, "tiled": true}},
+      							{"name":"Vegetation", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:VEGETATION","format":"image/png", "transparent": true, "tiled": true}}
+      				]
+},
+"SocialEconomics": {		
+					"layers":[
+      							{"name":"Leisure Shops", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:SHOPSLEISURE","format":"image/png", "transparent": true, "tiled": true}}
+      				]
+}
+}

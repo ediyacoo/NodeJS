@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>KIEIN GeoPortal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <!--<link type="text/css" href='http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/flick/jquery-ui.css' rel="stylesheet" />-->
+    <link type="text/css" href='css/jquery-ui-1.8.16.custom.css' rel="stylesheet" />
+    <!--<link type="text/css" href='css/bootstrap.css' rel="stylesheet" />-->
+    <link type="text/css" href='css/main.css' rel="stylesheet" />
+    <!--<script src="../js/openlayer/openlayers.js" type="text/javascript"></script>-->
+    <script src="https://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script>
+    <script src="js/jquery-1.6.2.min.js" type="text/javascript"></script>
+    <script src="js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+    <script src="js/gmap_main.js" type="text/javascript"></script>
+  </head>
+  
+  
+  <body>
+  	
+  	
+  	
+  	
+  	
+  	<!-- title content-->
+  	<div id='titleContent' style='width:100%; height:25px; line-height:25px; padding:0px 5px 0px 5px; overflow:hidden; background-color:#000000; color:#eeeeee; '>
+  		<!--title-->
+  		<div style='float:left'><b>KIEIN GeoPortal</b></div>
+  		
+  		<!-- applications-->
+  		<div style='float:left'>
+  			<ul style="list-style:none; padding:0px; margin:0px 0px 0px 10px;float:left">
+  				<li>Data</li>
+  				<li>Indicator</li>
+  				<li>SDSS</li>
+  			</ul>
+  		</div>
+  		
+  		<!-- menu -->
+  		<div style='float:right; padding-right:10px; height:100%; '>
+  			<ul style='list-style:none; margin:auto; padding:1px;'>
+  				<li title='show/hide infoWindow' onclick='showHide("infoPanel")'>InfoWindow</li>
+  				<li title='show/hide menu' onclick='showHide("menuContent")'>Menu</li>
+  				<li title='Links' onclick='showDialog("infoDialog", $("#links").html() ,{modal:true, title:"Links",  height:400, minWidth:500, resizable:false});'>Links</li>
+  				<li title='Help' onclick='showDialog("infoDialog", $("#help").html() ,{modal:true, title:"Help",  height:200, minWidth:500, resizable:false});'>Help</li>
+  				<li title='About' onclick='showDialog("infoDialog", $("#about").html() ,{modal:true, title:"About KIEIN GeoPortal",  height:400, minWidth:600, resizable:false});'>About</li>
+  				<li title='Contact us' onclick='showDialog("infoDialog", $("#contactus").html(),{modal:true, title:"Contact us",  height:300, minWidth:500, resizable:false});'>Contact us</li>
+  			</ul>
+  		</div>
+  	</div>
+  	
+  	
+  	<!-- main content-->
+  	<div id='mainContent' style='width:100%; height:96%;' class='ui-corner-all'>
+
+  		<!-- map content-->
+  		<div id='mapContent' style='float:left; width:80%;height:100%;'>
+  			<!--mapPanel-->
+  			<div id='mapPanel' style='width:100%; height:100%'>
+  				<div id="div_map" style=''></div>
+  			</div>
+  			
+  			<!-- infoPanel-->
+  			<div id='infoPanel' style='padding:2px; width:99.5%; height:30%; border:1px solid #cccccc;display:none; overflow:auto'>
+  				<!-- close button-->
+  				<div style='float:right; position:relative; top:2px; right:2px;'><span class="ui-icon ui-icon-close ui-state-default" style='cursor:pointer' onmouseover='$(this).addClass("ui-state-hover");' onmouseout='$(this).removeClass("ui-state-hover");' onclick='showHide("infoPanel")'></span></div>
+  				
+  				infowindow
+  				<button class="ui-button-primary">Primary</button>
+		        <button class="ui-button-success">Success</button>
+		        <button class="ui-button-error">X</button>
+		        
+	
+			    <!--buttonset-->
+			    <div id="radioset" style=''>
+	  				<input type="radio" id="radio1" name="radio" /><label for="radio1">1</label>
+	  				<input type="radio" id="radio2" name="radio" checked="checked" /><label for="radio2">2</label>
+	  				<input type="radio" id="radio3" name="radio" /><label for="radio3">3</label>
+		       </div>
+  			</div>
+  		</div>
+  		
+  		<!-- menu content-->
+  		<div id='menuContent' style='float:left; width:19.5%; height:90%;padding:2px;' class=''>
+  			<!-- theme title -->
+  			<div style='border-bottom:1px solid #cccccc; padding:2px;margin:2px 0px 2px 0px; height:22px'>
+  				<font size=3 style='padding-left:5px;font-weight:bold' id='theme_title'></font>
+  				<div style='float:right;'><span class="ui-icon ui-icon-close ui-state-default" style='cursor:pointer' onmouseover='$(this).addClass("ui-state-hover");' onmouseout='$(this).removeClass("ui-state-hover");' onclick='showHide("menuContent")'></span></div>
+  			</div>
+  			
+  			<!-- theme description -->
+  			<div id='theme_description' style='border-bottom:1px solid #cccccc; padding:5px;margin:2px 0px 2px 0px; '></div>
+  			
+  			<!-- theme accordion-->
+  			<div id='theme_accordion' style='width:100%; height:;'></div>
+  			
+
+  		</div>
+  	</div>
+  	
+  	
+  	<!-- toolbox content-->
+  	<div id='toolboxContent'  >
+  		<ul style='list-style:none; padding:0px; margin:0px' >
+  			<li><img src='images/1349678026_information.png' onclick='' title='identify'/></li>
+  			<li><img src='images/1349678126_edit-clear.png' onclick='' title='clear all overlays'/></li>
+  			<li><img src='images/1349677992_keyboard_layout.png' onclick='' title='full extent'/></li>
+  			<li><img src='images/1349676745_point_objects.png' onclick='' title='drawing point'/></li>
+  			<li><img src='images/1349676686_line.png' onclick='' title='drawing line'/></li>
+  			<li><img src='images/1349676787_stock_draw-polygon-filled.png' onclick='' title='drawing polygon'/></li>
+  			<li><img src='images/1349676934_pin_sticker.png' onclick='' title='geocoding Address'/></li>
+  			<li><img src='images/1349677182_map.png' onclick='' title='route'/></li>
+  			<li><img src='images/1349677248_length-measure.png' onclick='' title='measure length'/></li>
+  			<li><img src='images/1349677275_measure.png' onclick='' title='measure area'/></li>
+  			<li><img src='images/1323312792_line_chart.png' onclick='' title='show terrain profile'/></li>
+  			<li><img src='images/1321428309_orange_area.png' onclick='' title='buffer'/></li>
+  			<li><img src='images/1349678433_location.png' onclick='' title='coordinates'/></li>
+  		</ul>
+  	</div>
+  	
+  	
+  	<!-- map widget -->
+  	<!-- infoPanelButton-->
+  	<div id="infoPanelButton"  onclick='showHide("infoPanel")' onmouseover="this.style.filter='progid:DXImageTransform.Microsoft.Alpha(Opacity=90)'; this.style.opacity=0.90;" onmouseout="this.style.filter='progid:DXImageTransform.Microsoft.Alpha(Opacity=20)'; this.style.opacity=0.20;" class='ui-corner-all' title='show/hide infoWindow'>InfoWindow</div>
+
+
+    <!-- statusWidget-->
+    <div id='statusWidget' class="ui-state-highlight ui-corner-all" style='width:200px; height:25px; display:none'>
+		<p><span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+		<div id='statusWidget-text'>infowindow</div>
+	</div>
+    
+    <!-- copyright-->
+    <div id='copyright' style='position:relative; bottom:0px;text-align:right;font-size:90%; ' class='imgHover'>
+	  	<img src="images/GeoInformatics_blue_29.12.2011.png" height=30px style='cursor:pointer;' onclick='window.open("http://kiein.kisr.edu.kw/");' />
+	</div>
+	
+	<!-- menuWidget-->
+	<div id='themeWidget' style=''></div>
+    
+    
+    
+    <!-- information dialog-->
+    <div id='infoDialog' style='display:none'></div>
+    
+    
+    <!-- about -->
+    <div id='about' style='display:none'> 
+    	KIEIN data is organized and stored in one unified central database, which is the “geo-environmental” database.The geo-environmental database achieves integration of KISR spatial data, through simultaneous access by several users; this is done by utilizing the versioning capability of multi-user geodatabases.
+ 		<p></p>All datasets of the Geo-Environmental database were grouped under environment-related data domains, according to the common standard data definitions. Altogether, six data domains have been identified in order to group the different datasets available in KISR.  The KIEIN data domains are: “Basemap”, “Atmospheric”, “Hydrology”, “Marine”, “Terrestrial” and “Socio-Economic” domains.
+     	<p></p>The KIEIN Desktop Application provides the user with the capabilities to manage, search, analyze, update and present the geo-environmental database. A set of GIS modules are built to provide the user with such capabilities. The different modules that compose the KIEIN desktop application are: “Data Manager”, “Inquiry”, “Analyzer”, “Indicators”, “SDSS”, “Update”, and “Reporting” Modules.           
+     	<p></p>The web-based application makes spatial datasets (and information) available on KISR Intranet. In order to make spatial information accessible to all the research community, a selected collection of spatial datasets are published over the Internet. The web-based application also offers some GIS tools to enable the user to reach the desired information. These tools vary between analysis procedures, search techniques, metadata, etc.
+	</div>
+	
+	
+	<!-- contact us -->
+    <div id='contactus' style='display:none' class='imgHover'> 
+    	<b>Dr. Hamdy El-Gamily</b><br>
+    	Director of the GIS Center Kuwait Institute for Scientific Research (KISR)<p></p>
+    	Tel.      : +965 498 9316<br>
+    	Fax      : +965 498 9359<br>
+    	E-Mail      : <a href="mailto:hgamily@kisr.edu.kw">hgamily@kisr.edu.kw</a><P></P>
+    	<img src="images/GeoInformatics_blue_29.12.2011.png" width=300px style='cursor:pointer;' onclick='window.open("http://kiein.kisr.edu.kw/");' />
+	</div>
+	
+	
+	<!-- help -->
+    <div id='help' style='display:none'> 
+    	User Guide: <a href="http://kiein.kisr.edu.kw/KIEIN/Help.aspx" target=_blank>PDF</a>
+	</div>
+	
+	
+	<!-- links -->
+	<div id='links' style='display:none'> 
+    	<b>UNDP Kuwait</b><br>
+    	<a href="http://www.undp-kuwait.org/" target="_blank">http://www.undp-kuwait.org/</a><p></p>
+		<b>Environmental Systems Research Institute (ESRI)</b><br>
+    	<a href="http://www.esri.com/" target="_blank">http://www.esri.com/</a><p></p>
+    	<b>United States Geological Survey (USGS)</b><br>
+    	<a href="http://www.usgs.gov/" target="_blank">http://www.usgs.gov/</a><p></p>
+    	<b>Geography Network</b><br>
+    	<a href="http://www.geographynetwork.com/" target="_blank">http://www.geographynetwork.com/</a><p></p>
+    	<b>United Nations Environment Programme</b><br>
+    	<a href="http://www.na.unep.net/" target="_blank">http://www.na.unep.net/</a><p></p>
+	</div>
+	
+	
+	
+	
+  </body>
+</html>

@@ -1,0 +1,128 @@
+
+/*****************************************************************************************************************************************************************************************
+ * 	indicator
+ *****************************************************************************************************************************************************************************************/
+/** dialog_indicator */
+#dialog_indicator_content {width:100%;}
+#dialog_indicator_content ul {list-style:none; padding:0px; margin:0px;width:100%;}
+#dialog_indicator_content ul li {width:160px; height:160px; float:left; padding:30px; color:#777777; cursor:pointer; -moz-border-radius:5px; -webkit-border-radius:5px;border-radius:5px;}
+#dialog_indicator_content ul li:hover {color:#000000; background-color:#eeeeee;}
+#dialog_indicator_content ul li img {width:150px;}
+
+#dialog_indicator_title a {text-decoration:underline; font-weight:bold;}
+
+#dialog_indicator_description {}
+
+
+/** info panel */
+#infoPanel {width:99%; height:99.5%; display:block; top:0px; border:0px; background:rgba(0,0,0,0.7)}
+#infoContent_tabs_layerChart div {float:left; padding:5px;}
+#infoContent_tabs_layer ul {margin:0px; padding:0px; list-style:none;}
+#infoContent_tabs_layer ul li {padding:2px;margin:0px;}
+#infoContent_tabs > div {}
+#infoContent_tabs_about table td {border:0px; padding:5px; vertical-align:text-top; border-bottom:1px solid #cfcfcf;}
+#infoContent_tabs_about table td:first-child {font-weight:bold;}
+#infoContent_tabs_about table td:nth-child(2) {padding:10px 15px 10px 15px;}
+#infoContent_tabs_about table td ul {margin:0px; padding:0px 0px 0px 17px;}
+#infoContent_tabs_about table td ul li {padding:0px;}
+
+
+/** chart */
+.chart {border:1px solid #cccccc; margin:10px 0px 10px 0px;}
+
+
+/** searchContent */
+#searchContent {background:rgba(0,0,0,0.7); color:#ffffff; width:100%; height:45px; }
+#searchContent > label {line-height:45px; left:5px; position:absolute; font-weight:bold;}
+#searchContent div {float:left}
+
+/** ddslick */
+.dd-container {color:#000000; margin:0px 2px 0px 2px; left:125px; }
+.dd-selected {height:22px;}
+
+
+/** timeslider */
+#infoContent_tabs_timeslideLabel div {float:left; text-align:center}
+#infoContent_tabs_timeslideLabel div:first-child {text-align:left;}
+#infoContent_tabs_timeslideLabel div:last-child {text-align:right;}
+
+
+/** legend */
+#legend {background:rgba(255,255,255,0.5); border:1px solid #cccccc; z-index:1001; position:absolute; left:5px; bottom:50px; display:none; -moz-border-radius:5px; -webkit-border-radius:5px;border-radius:5px;}
+#legend ul {list-style:none;padding:0px; margin:0px;}
+#legend ul li {padding:5px; margin:0px;}
+
+
+/** tooltip */
+/**#tooltip {display:none; background:rgba(0,0,0,0.7); color:#eeeeee;z-index:1000;position:absolute;width:110px; height:50px;left:0px; bottom:30px;padding:10px;font-size:90%;}
+*/
+.infobox-container {
+    position: absolute;
+    z-index:1000;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+.infobox {
+    width: 100px;
+    padding: 10px 5px 5px 5px;
+    margin:10px;
+    position: relative;
+    z-index: 90;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.55);
+    -moz-box-shadow: 0px 0px 3px rgba(0,0,0,0.55);
+    box-shadow: 0px 0px 3px rgba(0,0,0,0.55);
+    background: #424242;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#6a6b6b), to(#424242));
+    background-image: -moz-linear-gradient(top,#6a6a6a,#424242);
+    color: #fff;
+    font-size: 90%;
+}
+.infobox h3 {
+    position: relative;
+    width: 100px;
+    color: #fff;
+    padding: 5px;
+    margin: 0px;
+    top: -10px;
+    left: -5px;
+    z-index: 100;
+    -webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.55);
+    -moz-box-shadow: 0px 0px 3px rgba(0,0,0,0.55);
+    box-shadow: 0px 0px 3px rgba(0,0,0,0.55);
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background: #3198dd;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#33acfc), to(#3198dd));
+    background-image: -moz-linear-gradient(top,#33acfc,#3198dd);
+    font-size: 100%;
+    text-align: center;
+    text-shadow: #2187c8 0 -1px 1px;
+    font-weight: bold;
+}
+.infobox-container .infobox-triangle{
+	border-color: #424242 transparent transparent transparent;
+    border-style:solid;
+    border-width:13px;
+    height:0;
+    width:0;
+    position: absolute;
+    left: 50px;
+    bottom: -13px;
+    z-index: 0; /* displayed under infobox */
+}
+
+.infobox a {
+    color: #35b0ff;
+    text-decoration: none;
+    border-bottom: 1px dotted transparent;
+}
+.infobox a:hover, .infobox a:focus {
+    text-decoration: none;
+    border-bottom: 1px dotted #35b0ff;
+}

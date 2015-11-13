@@ -1,0 +1,24 @@
+{
+"Education": {
+					"layers":[
+ 								{"name":"Higher Education", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/GESR/wms", "srs":"EPSG:31900", "param": {"layers":"GESR:WGS84_university_GCC",  "format":"image/png", "transparent": true, "tiled": true}},
+								{"name":"Public School", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/GESR/wms", "srs":"EPSG:999991", "param": {"layers":"GESR:Kuwait_PublicSchool",  "format":"image/png", "transparent": true, "tiled": true}},
+								{"name":"Private School", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/GESR/wms", "srs":"EPSG:999991", "param": {"layers":"GESR:Kuwait_PrivateSchool","format":"image/png", "transparent": true, "tiled": true}}
+					]
+},
+"Library": {
+					"layers":[
+ 								{"name":"Library", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/GESR/wms", "srs":"EPSG:999991", "param": {"layers":"GESR:Kuwait_Library",  "format":"image/png", "transparent": true, "tiled": true}}
+					]
+},
+"Population": {
+					"layers":[
+								{"name":"Population @ 2013", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/GESR/wms", "srs":"EPSG:999991", "param": {"layers":"GESR:GCC_countries",  "format":"image/png", "transparent": true, "tiled": true}, "opacity":0.75}
+					]
+},
+"BaseMap": {
+					"layers":[
+								{"name":"Boundary", "type":"WMS", "source": "KISR", "software": "GeoServer", "url":"http://sgis.kisr.edu.kw/geoserver/KISR/wms", "srs":"EPSG:31900", "param": {"layers":"KISR:BOUNDARIES","format":"image/png", "transparent": true, "tiled": true}}
+					]
+}
+}

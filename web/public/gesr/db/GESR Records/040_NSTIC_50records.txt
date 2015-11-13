@@ -1,0 +1,1765 @@
+Record# 1: 
+LDR 00767nom a2200229uu 4500
+001 vtls000000196
+003 GCC
+005 20080129100700.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300086
+039  9 \a 200801291007 \b taleb \c 200711111346 \d sameera \y 200610181045 \z 
+       taleb
+040    \a NSTIC
+245    \a Spectrum Analyzer : \k Equipment File.
+260    \a Fax 4840801 : \b Technical Electronic Instruments Supply. \f HP.
+500    \a Institute: KISR.
+590    \a Active At User Department.
+591    \a Dr. Mirza Umair Beg;  mbeg@kisr.edu.kw.
+594    \a Dr. Mirza Umair Beg; Environmental Science Dept.
+949    \t EQUIPMENT
+954    \a 19-Nov-96
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 2: 
+LDR 00812nom a2200241uu 4500
+001 vtls000000197
+003 GCC
+005 20080129100700.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300173
+039  9 \a 200801291007 \b taleb \c 200710161201 \d sameera \c 200710161116 \d 
+       sameera \y 200610181049 \z sameera
+040    \a NSTIC
+245 10 \a Accelated Weathering Chamber : \k Equipment File.
+260    \b Technical Electronic Instruments Supply \f QUV.
+500    \a Institute: KISR.
+590    \a Active At User Department.
+591    \a Ali Mohammed A. Abduljalil.
+594    \a Mukherjee Tarun Kumar;Building & Energy Technologies.
+949    \t EQUIPMENT
+951    \a 18-Jan-99
+954    \a 19-Jan-98
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9510*9540*
+       9991
+
+Record# 3: 
+LDR 00834nom a2200241uu 4500
+001 vtls000000198
+003 GCC
+005 20080129100800.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300087
+039  9 \a 200801291008 \b taleb \c 200710161123 \d sameera \y 200610181050 \z 
+       taleb
+040    \a NSTIC
+245 10 \a Accelated Weathering Chamber : \k Equipment File.
+260    \a Fax 4840801 : \b Technical Electronic Instruments Supply. \f QUV.
+500    \a Institute: KISR.
+590    \a Active At User Department.
+591    \a Ali Mohammed A. Abduljalil; aabduljalil@kisr.edu.kw.
+594    \a Ali Mohammed A. Abduljalil; Building & Energy Technologies.
+949    \t EQUIPMENT
+951    \a 18-Jan-99
+954    \a 19-Jan-98
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9510*9540*
+       9991
+
+Record# 4: 
+LDR 02426nam a2200277 a 4500
+001 vtls000003192
+003 GCC
+005 20090223113300.0
+008 090126t2006                  000 0 eng d
+035    \a GCC09303367
+039  9 \a 200902231133 \b sameera \c 200902121333 \d sameera \c 200901261359
+        \d sameera \y 200901261354 \z sameera
+040    \a NSTIC
+090    \a IN-PROCESS
+100 1  \a Shalaby, H.M.
+245 10 \a On the mechanism of formation of hot spots in boiler tubes : \k Arti
+       cle File / \c H. M. Shalaby.
+260    \a [S.I. : \b s.n.], \c 2006.
+520    \a Through a careful failure investigation of boiler tubes that suffere
+       d from corrosion due to hot spot formation, an attempt was made to clar
+       ify some ambiguities about the sequence of events that take place durin
+       g this corrosion phenomenon. In addition, the role of copper compounds 
+       was critically assessed. It is argued that the root cause of hot spot f
+       ormation is the localized excessive heat flux. The localized overheatin
+       g and resultant growth of nonprotective magnetite (Fe3O4) scale were co
+       nsidered the primary factors in the initiation of hot spots. On the oth
+       er hand, caustic attack was assumed to contribute to further growth of 
+       the scale and sustained development of the hot spot at later stages. Th
+       is contribution was proposed to occur via localized attack of the nonpr
+       otective magnetite scale, leading to an increased pore size and, in tur
+       n, an increased rate of diffusion of oxygen-bearing species. A previous
+        conclusion that elemental copper diffuses to the metal grain boundarie
+       s and causes galvanic corrosion was discounted. This was based on the f
+       act that copper was not detected at the grain boundaries whereas copper
+        oxide was observed in all tube surfaces separated from the metal subst
+       rate by magnetite layers. The hot spot formation process was judged to 
+       be autocatalytic as the build up of local, concentrated solutions throu
+       gh wick-type boiling required the presence of a nonprotective porous ma
+       gnetite layer. © 2006, NACE International.
+653    \a Boiler tubes.
+653    \a Caustic attack.
+653    \a Hot spots.
+653    \a Power stations.
+773    \t Corrosion \g vol. 62, issue 10 (2006), p. 930-941
+
+856 40 \u http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-3414722155
+       9&partnerID=40
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*0900*1000*2450*2600*5200*6530*6531*6532*6533*
+       7730*8560*9490*9991
+
+Record# 5: 
+LDR 00765nom a2200229uu 4500
+001 vtls000000199
+003 GCC
+005 20080129100800.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300174
+039  9 \a 200801291008 \b taleb \c 200711111346 \d sameera \y 200610181053 \z 
+       sameera
+040    \a NSTIC
+245 10 \a Clip Aerial with Tripod : \k Equipment File.
+260    \b Technical Electronic Instruments Supply \f Chase EMC.
+500    \a Institute: KISR.
+590    \a Active At User Department.
+591    \a Dr. Mirza Umair Beg; mbeg@kisr.edu.kw.
+594    \a Dr. Mirza Umair Beg; Environmental Science Dept.
+949    \t EQUIPMENT
+954    \a 19-Nov-96
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 6: 
+LDR 00807nom a2200241uu 4500
+001 vtls000000200
+003 GCC
+005 20080129100800.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300088
+039  9 \a 200801291008 \b taleb \c 200711111347 \d sameera \y 200610181055 \z 
+       taleb
+040    \a NSTIC
+245 10 \a Analyser Clinical : \k Equipment File.
+260    \a Fax 4840801 : \b Technical Electronic Instruments Supply. \f Humalyz
+       er.
+500    \a Institiute: KISR.
+590    \a Active At User Department.
+591    \a Dr. Mirza Umair Beg;  mbeg@kisr.edu.kw.
+594    \a Dr. Mirza Umair Beg;  Environmental Science Dept.
+949    \t EQUIPMENT
+951    \a 20-May-98
+954    \a 21-May-97
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9510*9540*
+       9991
+
+Record# 7: 
+LDR 03710nam a2200349   4500
+001 vtls000001714
+003 GCC
+005 20080416090700.0
+008 061209s1992    ku            000 0 eng d
+035    \a GCC07301872
+039  9 \a 200804160907 \b taleb \c 200801081401 \d fadhela \y 200701210854 \z 
+       waleed
+040    \a NSTIC
+091    \a Water \b 1 \b KISR \b 4176
+110 20 \a Water Resources Division. \b Hydrology Department.
+245 10 \a Assessment of the impact of the crisis on groundwater pollution from
+        massive oil spillage from damaged oil wells : \k Research File / \c Hy
+       drology Department, Water Resources Division, Groundwater Project Depar
+       tment, Ministry of Electricity and Water.
+260    \a Kuwait : \b KISR, \c 1992.
+300    \a xi, 175 leaves ; \c 28 cm.
+500    \a Project Code: Water-1.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: November 1992.
+500    \a Contributers: J. Al-Sulaimi, M. N. Viswanathan, F. Szekely, A. Al-Su
+       mait and Y. Senay.
+504    \a Bibliography: p. 174-175.
+506    \a Confidential.
+520    \a This study assessed the magnitude of groundwater pollution emanating
+        from direct infiltration of pollutants from oil lakes and contaminated
+        seawater used for fire fighting. In addition, the study examined the p
+       ossibility of contamination due to infiltrating rainwater and subsurfac
+       e contamination from damaged oil well casings during the period of stud
+       y. Water fields of Raudhatain, Umm Al-Aish, Umm Gudair, Wafra and Sulai
+       biyah were considered in this study. The groundwater pollution study wa
+       s subjected t o several constraints including access, mines, and mechan
+       ical and electrical problems of wells, which hindered the precise evalu
+       ation of contaminant levels of groundwater. The major conclusions drawn
+        from the present study are: (a) direct infiltration o f oil from oil l
+       akes is limited to a depth of about 2 m in the Raudhatain and Umm AI-Ai
+       sh areas; (b) water samples collected from certain wells in heavily con
+       taminated areas of Raudhatain and Umm AI-Aish show fluctuations in poll
+       utant concentration levels, but samples collected during July-October 1
+       992 indicate very minor pollution, the present levels of which are insi
+       gnificant and may be neglected for all practical purposes; and (c) wate
+       r samples collected from other monitoring wells in different water fiel
+       ds do not show any levels of pollution as a result of the crisis. Howev
+       er, nondetection of pollution at selected monitoring wells does not nec
+       essarily mean no actual pollution of groundwater.
+520    \a At Raudhatain and Umm AI-Aish, groundwater pollution emanating from 
+       the infiltration of either rainwater leaching out surface pollutants or
+        contaminated water used for fire fighting might have reached the water
+        table level but not the intake sections of wells, which are about 5-10
+        m below water table levels. Similarly, at Wafra and Umm Gudair, the le
+       akage from damaged well casings might exist but not have yet reached mo
+       nitoring wells during this study period. Hence, recognizing the importa
+       nce of freshwater fields at Raudhatain and Umm AI-Aish, the assessment 
+       of the expected long-term pollution of these areas by undertaking compr
+       ehensive studies is strongly recommended.
+699    \a Hydrocarbons. Heavy metals. Infiltration. Rainwater. Mathematical mo
+       dels.
+710 20 \a Kuwait Institute for Scientific Research. \b Water Resources Divisio
+       n. \b Hydrology Department.
+710 20 \a Ministry of Electricity and Water. \b Groundwater Project Department
+       .
+930    \a 941030
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1100*2450*2600*3000*5000*5001*5002*5003*
+       5040*5060*5200*5201*6990*7100*7101*9300*9490*9991
+
+Record# 8: 
+LDR 04593nam a2200385   4500
+001 vtls000001871
+003 GCC
+005 20130509114600.0
+008 061209s1986    ku            000 0 eng d
+035    \a GCC07302031
+039  9 \a 201305091146 \b yasera \c 200801131426 \d fadhela \y 200701230836
+        \z waleed
+040    \a NSTIC
+091    \a AG \b 51 \b KISR \b 2164D
+100 10 \a Omar, S. A.
+245 10 \a Criteria for development and management of Kuwait's first national p
+       ark / nature reserve, Vol. III, Summary and recommendations. : \k Resea
+       rch File / \c A. S. Omar...[et al.]., Agro-Production Department, Food 
+       Resources Division, Environmental and Earth Sciences Division, Kuwait U
+       niversity.
+260    \a Kuwait : \b KISR, \c 1986.
+300    \a iii, 25 ; \c 28 cm.
+500    \a Submitted to Kuwait Municipality.
+500    \a Project Code: AG-51.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: March 1986.
+506    \a Restricted.
+520    \a The natural environment comprises complex relationships between livi
+       ng organisms (animals, plants and microorganisms) and their physical en
+       vironment (water, soil and climate). Nature conservation seeks to estab
+       lish a harmonious relationship between human activity and other living 
+       things and the physical environment. The establishment of National Park
+       s/Nature Reserves not only c an preserve the natural ecological system 
+       within the parks, but can also positively contribute to a regional ecol
+       ogical balance, natural climatic patterns, scientific research, histori
+       c preservation, recreational opportunity and international tourism (IUC
+       N and UNEP, 1984; UNESCO, 1984; Batisse, 1982; UNESCO and UNEP, 1984). 
+       In Kuwait, natural renewable resources have been utili sed heavily, whi
+       ch has often resulted in their rapid deterioration. The misuse of resou
+       rces through uncontrolled activities, e.g., overgrazing, uprooting wood
+       y shrubs, hunting reptiles and birds, off-route use of vehicles, has re
+       sulted in many negative impacts and, in many cases, irreversible losses
+        of flora, fauna, and potential recreational grounds. In spite of this 
+       situation and until 1980, Kuwait had no protected or managed area where
+        the potential for desert parks and the protection and improvement of n
+       atural resources could be explored. In response to this situation, the 
+       Kuwait Municipality designated areas in its land u se master plan, Kuwa
+       it Master Plan, Review 2 (KMPR2), for national parks/nature reserves. A
+       lso in 1980, Kuwait Institute for
+520    \a Scientific Research (KISR) was requested by Kuwait Municipality to u
+       ndertake a feasibility study on establishing national parks/nature rese
+       rves. This preliminary study identified an area in the Northeast of Kuw
+       ait that combines a variety of animal and plant species with significan
+       t landscape features. It is a large area of diverse plant and animal li
+       fe with interesting physiographic features, good accessibility, and eas
+       e of protection (Taha and Omar, 1982). To promote an 'action plan' for 
+       the development of this area, Kuwait Municipality collected detailed sc
+       ientific information on the ecological components of the designated par
+       k and assessed and proposed concrete management and administration plan
+       s for the envisaged park. The second phase of the project, Select ion a
+       nd Criteria for Establishment of National Parks/Nature Reserves in Kuwa
+       it, was initiated early in 1984 for 22 months (Omar et al., 1984). The 
+       major emphasis was on identifying area sizes and uses within the design
+       ated area, ensuring the legality of using the site for national park/na
+       ture reserve purposes for the present and future, and making appropriat
+       e recommendations for the management plan. KISR was requested to undert
+       ake the following tasks: 1 . Investigate protection measures for the pa
+       rk area 2 . Assess zoning of the park area 3 . Determine suitable plant
+       s, wildlife and habitats 4 . Recommend
+699    \a National park. Nature reserve. Flora. Fauna. Soil. Groundwater. Zoni
+       ng. Protection measures. Landuse assessment. Kuwait's desert ecosytem.
+700 10 \a Hamdan, L.
+700 10 \a Al Bakri, D.
+700 10 \a Al Shuaibi, F.
+710 20 \a Kuwait Institute for scientific Research. \b Food Resources Division
+       . \b Agro-Production Department.
+710 20 \a Kuwait Institute for Scientific Research. \b Environmental and Earth
+        Sciences Division.
+710 20 \a Kuwait Municipality.
+930    \a 950320
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1000*2450*2600*3000*5000*5001*5002*5003*
+       5060*5200*5201*6990*7000*7001*7002*7100*7101*7102*9300*9490*9992
+
+Record# 9: 
+LDR 01893nam a2200361   4500
+001 vtls000001883
+003 GCC
+005 20080116103800.0
+008 061209s1981    ku            000 0 eng d
+035    \a GCC07302043
+039  9 \a 200801161038 \b fadhela \y 200701230907 \z waleed
+040    \a NSTIC
+091    \a EES \b 11-f \b KISR \b 168
+100 10 \a Jacob, P. G.
+245 10 \a Physical and chemical oceanography of Kuwait coastal waters (Decembe
+       r-May 1980). : \k Research File / \c P. G. Jacob...[et al.]., Environme
+       ntal Sciences Department, Environmental and Earth Sciences Division.
+260    \a Kuwait : \b KISR, \c 1981.
+300    \a iii, 70 leaves ; \c 28 cm.
+500    \a Project Title: Marine pollution environmental assessment programme.
+500    \a Project Code: EES-11-F.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: January 1981.
+504    \a Bibliography: p. 12-15.
+506    \a General.
+520    \a .Physical and chemical oceanographic observations in surface waters 
+       were made at 158 stations in three regions of Kuwait's territorial wate
+       rs between December 1979 and May 1980. Data for the range of temperatur
+       e, conductivity, salinity, pH, dissolved oxygen, turbidity, ammonia, ni
+       trate, nitrite, phosphate, silicate and sulphate observed during this s
+       tudy are presented and their distribution discussed.
+699    \a R. V. Abhath. Oceanography data project. MPEAP. Physical chemical oc
+       eanography. Kwaiti waters.
+700 10 \a Anderlini, P. G.
+700 10 \a Mohammad, O. S.
+700 10 \a Zarba, M. A.
+710 20 \a Kuwait Institute for Scientific Research. \b Environmental and Earth
+        Sciences Division. \b Environmental Sciences Department.
+930    \a 950408
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1000*2450*2600*3000*5000*5001*5002*5003*
+       5040*5060*5200*6990*7000*7001*7002*7100*9300*9490*9991
+
+Record# 10: 
+LDR 04464nam a2200457   4500
+001 vtls000001903
+003 GCC
+005 20130516084400.0
+008 061209s1995    ku            000 0 eng d
+035    \a GCC07302063
+039  9 \a 201305160844 \b yasera \c 201305091123 \d yasera \c 201305061332 \d 
+       yasera \c 201305061319 \d yasera \y 200701230956 \z waleed
+040    \a NSTIC
+091    \a BM \b 25 \b KISR \b 4610a
+100 10 \a Al Mutairi, N.
+245 10 \a Waterproofing of building basements in Kuwait, Vol. I. : \k Research
+        File / \c N. Al-Mutairi...[et al.]., Civil and Building Department, En
+       gineering Division.
+260    \a Kuwait : \b KISR, \c 1995.
+300    \a xxi, 125 leaves ; \c 28 cm.
+500    \a Submitted to Kuwait Municipality.
+500    \a Submitted to Kuwait Foundation for the Advancement of Sciences.
+500    \a Project Code: BM-25.
+500    \a Type of Publication: Final Report
+500    \a Date of Publication: May 1995.
+504    \a Bibliography: p. 81-82.
+506    \a Restricted.
+520    \a The project was undertaken to develop national guidelines for waterp
+       roofing of building basements. In developing the guidelines, background
+        data was obtained on local conditions with respect to waterproofing ma
+       terials, construction practices and leakage. The project also covered t
+       he characterisation of soil and water in different parts of Kuwait, the
+        evaluation of physical properties of locally available water-proofing 
+       materials, and the evaluation of water drainage control methods suitabl
+       e for local conditions. Information obtained from the soil and water ch
+       aracterization, with regard to the concentration and distribution o f c
+       hemical substances that are harmful to waterproofing materials, will be
+        useful in specifying appropriate materials for new construction as wel
+       l as for the repair of existing basements. Evaluation of physical prope
+       rties of the locally available waterproofing materials provided informa
+       tion for determining, the suitability of the materials for use under lo
+       cal conditions. Wit h the large number of waterproofing materials avail
+       able in the local market, minimum performance criteria were established
+        for use in selecting suitable materials for specific applications. The
+        evaluation of water drainage control methods for their suitability to 
+       the local soil and site conditions resulted sidelines on effective drai
+       nage control methods for local conditions. T he information developed i
+       n the four parts of this study (Part 1: Overview on Barrier Systems and
+        Local Conditions,
+520    \a Part ll: Chemical Concentrations and Distribution in the Soil and Gr
+       oundwater, Part IH- Testing and Evaluation of waterproofing Materials, 
+       and Part 1V: Water Drainage Control Methods) was utilising the developm
+       ent of a national guide for waterproofing covering both new basements a
+       nd remedial measures for existing basements, This final report is compo
+       sed of two volumes.  Volume I includes an overview of the project, wate
+       rproofing, system design considerations, waterproofing, of new basement
+       s and remedial measures for existing basements, while Volume 11 include
+       s a draft national waterproofing, guide.  The guide includes detailed a
+       nd complete specifications of construction methods for suitable waterpr
+       oofing, materials to improve the handling and installation procedures o
+       n construction sites.  Procedures to remedy existing leaking basements 
+       were identified.  The national guide for waterproofing covers all aspec
+       ts of waterproofing to insure a watertight structure and to correct exi
+       sting problems.
+699    \a Basement construction. Bituminous membranes. Cementitious materials.
+        Chlorides. Dewatering. Groundwater. Joints. Leaking basements. Liquid 
+       applied materials. Soil. Sulphates. Water leakage. Water table. Waterpr
+       oofing materials. Waterproofing guide.
+700 10 \a Attiogbe, E.
+700 10 \a Eid, W.
+700 10 \a Awny, R.
+700 10 \a Al Shaleh, M. S.
+700 10 \a Al Bahar, Saud.
+700 10 \a Al Mesfer, E.
+700 10 \a Abdel Jaleel, Ali.
+710 20 \a Kuwait Institute for Scientific Research. \b Engineering Division.
+        \b Civil and Building Department.
+710 20 \a Kuwait Municipality.
+710 20 \a Kuwait Foundation for the Advancement of Sciences.
+930    \a 950913
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1000*2450*2600*3000*5000*5001*5002*5003*
+       5004*5040*5060*5200*5201*6990*7000*7001*7002*7003*7004*7005*7006*7100*7
+       101*7102*9300*9490*9992
+
+Record# 11: 
+LDR 04824nam a2200349   4500
+001 vtls000001920
+003 GCC
+005 20080113141200.0
+008 061209s1979    ku            000 0 eng d
+035    \a GCC07302080
+039  9 \a 200801131412 \b fadhela \y 200701231018 \z waleed
+040    \a NSTIC
+091    \a AG \b 24 \b KISR \b PPI150 \b FRA-RF \b R-7908
+100 10 \a Kamel, B.
+245 10 \a Composition of food consumed in Kuwait, Phase I. : \k Research File 
+       / \c B. Kamel and M. Allam, Agriculture Department, Food Resourses Divi
+       sion.
+260    \a Kuwait : \b KISR, \c 1979.
+300    \a iii, 28 leaves : \b ill. ; \c 28 cm.
+500    \a Project code: AG-24.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: September 1979.
+504    \a Bibliography: p. 28.
+506    \a Confidential.
+520    \a The existing interrelationships between nutrition and other quality 
+       attributes of food have been emphasized in recent years. However, curre
+       nt interest, rhetoric and emphasis on nutrition have exceeded scientist
+        ability to respond from an adequate factual base. One of the key resea
+       rch needs is an updating of information on the nutritional composition 
+       of foods. This currently is receiving a great deal of attention because
+        of the regulatory nutrition labelling proposals for foods. The bioavai
+       lability or utilizability of nutrients in food in relation to human hea
+       lth and the nutrient stability during processing and distribution are o
+       ther areas in which research is needed. But the most important, however
+       , is encouragement and support to provide reliable scientific informati
+       on to consumers, legislative leaders and all members of our society. Ma
+       lnutrition, which means that the body i s not supplied with a sufficien
+       t amount of each nutrient, contributes to health problems. Malnourishme
+       nt can be caused by not having enough food to supply the needed nutrien
+       ts or by not eating the combination of foods that will supply the neede
+       d nutrients., A person can be overweight because he is consuming foods 
+       containing too many calories and yet be malnourished because he is not 
+       getting the nutrients needed for optimal building or repairing of tissu
+       es and for regulation of body processes. There are more people malnouri
+       shed because of nutritional ignorance and misinformation than because o
+       f poverty. Many facts of good nutrition for humans are well known. Why 
+       are some of us ill fed? Indifference, ignorance, careless habits such a
+       s
+520    \a skipping breakfast or lunch, omitting the four basic foods, indulgin
+       g in food faddism and setting poor dietary examples for children are im
+       portant reasons why many people are poorly nourished. Our income does d
+       etermine the amount and kinds of food we ca n buy, but the more we know
+        about nutrients, their food sources, how our body uses them and how we
+        can cook food so that nutrients are not wasted, the better we can feed
+        our families. The need for the education of food buyers in all income 
+       groups is important since using a variety of foods prepared in a variet
+       y of ways provides one of the best guarantees of an adequate diet. All 
+       homemakers should know about nutrition so that they will be able to sel
+       ect and prepare foods that will keep them and their families in good he
+       alth. The report of the FAO (1962) expressed concern about the lack of 
+       national food composition tables and st ressed the importance of establ
+       ishing such tables without delay. A suggestion was made that a regional
+        table should be compiled based on analyses already carried out in diff
+       erent countries. The importance of such information has also been recog
+       nised by workers who have prepared tables based on the limited data ava
+       ilable in their own countries. These include the Tables by Abdou (1970)
+        and Abdulnabi et aL (1961 and 1962). Most of these tables were incompl
+       ete or of limited scope. Furthermore, since many foods are common to se
+       veral countries in the Middle East, there was an obvious need for more 
+       comprehensive data on the entire area. The need for a set of tables for
+        a particular region or area is a question often raised. For the Middle
+        East, the answer seems quite
+520    \a clear. Many fruits and vegetables and leafy plants are consumed in s
+       ignificant quantities that are not normally eaten in other areas. If th
+       e contribution of such foods is not included in the calculations of nut
+       rient intake, erroneous estimates may be obtained.
+699    \a Food Consumption. Food components. Nutrition. Diet. Toxic. Malnutrit
+       ion.
+700 10 \a Allam, M.
+710 20 \a Kuwait Institute for Scientific Research. \b Food Resources Division
+       . \b Agriculture Department.
+930    \a 950927
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1000*2450*2600*3000*5000*5001*5002*5040*
+       5060*5200*5201*5202*6990*7000*7100*9300*9490*9991
+
+Record# 12: 
+LDR 01805nam a2200313   4500
+001 vtls000001931
+003 GCC
+005 20080103110800.0
+008 061209s1989    ku            000 0 eng d
+035    \a GCC07302091
+039  9 \a 200801031108 \b muhammad \y 200701231030 \z waleed
+040    \a NSTIC
+091    \a EES \b 126 \b KISR \b 2969
+100 10 \a Lo, J. M.
+245 10 \a Air bubble barriers effect on jelly fish movement. : \k Research Fil
+       e / \c J. M. Lo, Hydraulics and Coastal Engineering Group, Environmenta
+       l and Earth Sciences Division.
+260    \a Kuwait : \b KISR, \c 1988.
+300    \a iv, 40 leaves ; \c 28 cm.
+500    \a Project code: EES-126.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: March 1989.
+504    \a Bibliography: p. 39-40.
+506    \a Restricted.
+520    \a Laboratory experiments were carried out to study water kinematics in
+       duced by air bubble barriers, to evaluate their effectiveness in protec
+       ting water intakes from jellyfish attack.  The experiments were perform
+       ed in a re-circulating wave flume under various water depths, unidirect
+       ional currents, air discharge rates and wave conditions.  Neutrally buo
+       yant floats were used to simulate jellyfish movement.  It was found tha
+       t an air bubble barrier alone is not adequate protection, and a net is 
+       recommended downstream of the barrier to stop jellyfish moving towards 
+       the intakes.
+699    \a Water intakes. Water kinematics. Air bubble barriers. Jelly fish.
+710 20 \a Kuwait Institute for Scientific Research. \b Environmental and Earth
+        Sciences Division. \b Hydraulics and Coastal Engineering Group.
+930    \a 951008
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1000*2450*2600*3000*5000*5001*5002*5040*
+       5060*5200*6990*7100*9300*9490*9991
+
+Record# 13: 
+LDR 01899nam a2200397   4500
+001 vtls000001433
+003 GCC
+005 20130516103000.0
+008 061209s1987    ku            000 0 eng d
+035    \a GCC06301590
+039  9 \a 201305161030 \b yasera \c 201305160957 \d yasera \c 201305140925 \d 
+       yasera \c 201305071148 \d yasera \y 200612250846 \z waleed
+040    \a NSTIC
+091    \a EES \b 80 \b KISR \b 2455
+100 10 \a Al Sudairawi, Manea.
+245 10 \a Inspection of smoke emitted from diesel bus and truck exhausts : \K 
+       Research File / \c M. Al-Sudairawi...[et al.]., Environmental Sciences 
+       Department, Environmental and Earth Sciences Division.
+260    \a Kuwait : \b KISR, \c 1987.
+300    \a v, 268 leaves ; \c 28 cm.
+500    \a Submitted to Environmental Protection Council.
+500    \a Project Code: EES-80 (Formerly RFP-99).
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: October 1987.
+504    \a Bibliography: p. 267-268.
+506    \a Confidential.
+520    \a The Kuwait Institute for Scientific Research, under contract with th
+       e Environmental Protection Council, and with the co-operation of the Mi
+       nistry of Interior and Kuwait Transport Co. studied smoke emission from
+        diesel bus and truck exhausts.
+699    \a Smoke intensity measurement. Smoke meter. Free acceleration test. Di
+       esel vehicles.
+700 10 \a Al Mazidi, Salah Mohammad.
+700 10 \a Al Ammar, J.
+700 10 \a Abdal, Y.
+700 10 \a Ali, M.
+700 10 \a Abu Seil, M.
+710 20 \a Kuwait Institute for Scientific Research. \b Environmental and Earth
+        Sciences Division. \b Environmental Sciences Department.
+710 20 \a Environmental Protection Council.
+930    \a 940601
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1000*2450*2600*3000*5000*5001*5002*5003*
+       5040*5060*5200*6990*7000*7001*7002*7003*7004*7100*7101*9300*9490*9992
+
+Record# 14: 
+LDR 01821nam a2200325   4500
+001 vtls000001443
+003 GCC
+005 20080413084700.0
+008 061209s1985    ku            000 0 eng d
+035    \a GCC06301600
+039  9 \a 200804130847 \b taleb \c 200801131415 \d fadhela \c 200701171140 \d 
+       waleed \y 200612250857 \z waleed
+040    \a NSTIC
+091    \a ED \b 7 \b KISR \b 1711
+100 10 \a Hosni, D.
+245 11 \a A conceptual framework for estimating labor demand by the energy sec
+       tor in Arab Countries : \K Research File / \c D. Hosni, I. Sirageldin, 
+       Economics Department, Techno-Economics Division.
+260    \a Kuwait : \b KISR, \c 1985.
+300    \a ii, 62 leaves ; \c 28 cm.
+500    \a Submitted to Arab Petroleum Training Institute (APTI), Baghdad, Iraq
+       .
+500    \a Project Code: ED-7.
+500    \a Type of Publication: Final report.
+500    \a Date of Publication: May 1985.
+506    \a General.
+520    \a Using the employer survey technique, the estimation of the demand fo
+       r labor in the energy sector in Arab countries stems directly from the 
+       corporate plans of the organizations. Based on the current stocks of ma
+       npower categories, the forecast focuses on the changes in the energy ma
+       nning levels needed in the future. The key parameters are turnover and 
+       growth. The study outlines the appropriate methodology, presents a case
+        study analysis of Kuwait and offers a comprehensive bibliography on th
+       e topic.
+699    \a Labor demand. Manpower planning. Energy manpower. Arab World.
+700 10 \a Sirageldin, I.
+710 20 \a Kuwait Institute for Scientific Research. \b Techno-Economics Divisi
+       on. \b Economics Department.
+930    \a 940601
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1000*2450*2600*3000*5000*5001*5002*5003*
+       5060*5200*6990*7000*7100*9300*9490*9991
+
+Record# 15: 
+LDR 01771nam a2200301   4500
+001 vtls000001448
+003 GCC
+005 20080413084800.0
+008 061209s1983    ku            000 0 eng d
+035    \a GCC06301605
+039  9 \a 200804130848 \b taleb \c 200801141111 \d fadhela \c 200701171136 \d 
+       waleed \y 200612250917 \z waleed
+040    \a NSTIC
+091    \a ASD \b 3 \b KISR \b 1182
+100 10 \a Ibrahim, L. R.
+245 10 \a Energy information system for the organization of Arab Petroleum Exp
+       orting Countries. Vol. l : \K Research File / \c L. R. Ibrahim, Applied
+        Systems Department, Techno-Economics Division.
+260    \a Kuwait : \b KISR, \c 1983.
+300    \a 3v. ; \c 28 cm.
+500    \a Project Code: ASD-3.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: October 1983.
+506    \a Confidential.
+520    \a This report describes the computer-based Energy Information System t
+       hat was developed to support OAPEC staff member's in the management and
+        analysis of time-series socioeconomic and energy data. The system is S
+       AS-based and resides on the central computing facility at Kuwait Instit
+       ute for Scientific Research (IBM 4341 operating with VM/SP), with remot
+       e on-line access from OAPEC premises. A full system description, includ
+       ing data base elements, system conventions and standards, program docum
+       entation, user guidelines, for examples, is provided.
+699    \a Energy data base. Economic database. Energy information system. SAS-
+       based systems.
+710 20 \a Kuwait Institute for Scientific Research. \b Techno-Economics Divisi
+       on. \b Applied Systems Department.
+930    \a 940601
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1000*2450*2600*3000*5000*5001*5002*5060*
+       5200*6990*7100*9300*9490*9991
+
+Record# 16: 
+LDR 00822nom a2200229uu 4500
+001 vtls000000082
+003 GCC
+005 20080127120600.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300039
+039  9 \a 200801271206 \b taleb \c 200711111119 \d sameera \c 200612100947 \d 
+       sameera \y 200610110927 \z taleb
+040    \a NSTIC
+245 00 \a Blender Stomacher : \k Equipment File.
+260    \b Unknown : \b Stomachee.
+500    \a Institute: KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in charge: Dr. Hani Mansour Al-Mazeedi; szenki@kisr.edu.kw.
+594    \a Trainees name: Dr. Sameer Fahed Al-Zenki; Bio Technology Department.
+949    \t EQUIPMENT
+954    \a Operation date: 7-Dec-91
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 17: 
+LDR 00878nom a2200241uu 4500
+001 vtls000000083
+003 GCC
+005 20080127120700.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300123
+039  9 \a 200801271207 \b taleb \c 200710171027 \d sameera \c 200612100947 \d 
+       sameera \c 200610111024 \y 200610110940 \z sameera
+040    \a NSTIC
+245 00 \a Analyzer Impedance : \k Equipment File.
+260    \b Yousuf Ibrahim AL-Ghanim Co. \f EG&G.
+500    \a Institute: KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in charge: Dr. Abdulhameed A. Al-Hashem.
+594    \a Trainee name: Abdulmajeed Y. Abdullah; Petroleum Production Dept.
+949    \t EQUIPMENT
+951    \a Delivery date: 13-May-95
+954    \a Operation date: 14-May-94
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9510*9540*
+       9991
+
+Record# 18: 
+LDR 00881nom a2200241uu 4500
+001 vtls000000084
+003 GCC
+005 20080127120800.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300040
+039  9 \a 200801271208 \b taleb \c 200711111119 \d sameera \c 200612100949 \d 
+       sameera \y 200610111019 \z taleb
+040    \a NSTIC
+245 00 \a Reactor Tubulator : \k Equipment File.
+260    \b Yousuf Ibrahim AL-Ghanim Co.
+500    \a Institute: KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in charge: Dr. Abdulazeem M. Jawad Marafi; aotaibi@prsc.kisr
+       .edu.kw.
+594    \a Trainees name: Ahmad Mohammed Al-Otaibi; Petroleum Refining Dept.
+949    \t EQUIPMENT
+951    \a Delivery date: 14-Dec-02
+954    \a Operation date: 2-Jan-02
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9510*9540*
+       9991
+
+Record# 19: 
+LDR 00860nom a2200241uu 4500
+001 vtls000000086
+003 GCC
+005 20080127120900.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300041
+039  9 \a 200801271209 \b taleb \c 200711111120 \d sameera \c 200612100955 \d 
+       sameera \y 200610111030 \z taleb
+040    \a NSTIC
+245 00 \a Controller : \k Equipment File.
+260    \b Yousuf Ibrahim AL-Ghanim Co.
+500    \a Institute: KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in charge: Dr. Bondi Nyuma Gevao; bgeveo@kisr.edu.kw.
+594    \a Trainees name: Dr. Bondi Nyuma Gevao; Environmental Science Dept.
+949    \t EQUIPMENT
+951    \a Delivert date: 19-Dec-03
+954    \a Operation date: 20-Sep-03
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9510*9540*
+       9991
+
+Record# 20: 
+LDR 00872nom a2200241uu 4500
+001 vtls000000087
+003 GCC
+005 20080127120900.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300042
+039  9 \a 200801271209 \b taleb \c 200711111120 \d sameera \c 200612100956 \d 
+       sameera \y 200610111043 \z taleb
+040    \a NSTIC
+245 00 \a Pump Turbo Molecular : \k Equipment File.
+260    \b Yousuf Ibrahim AL-Ghanim Co.
+500    \a Institute: KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in charge: Dr. Bondi Nyuma Gevao; bgeveo@kisr.edu.kw.
+594    \a Trainees name:  Dr. Bondi Nyuma Gevao; Environmental Science Dept.
+949    \t EQUIPMENT
+951    \a Delivery date: 19-Dec-03
+954    \a Operation date:  20-Sep-03
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9510*9540*
+       9991
+
+Record# 21: 
+LDR 00843nom a2200229uu 4500
+001 vtls000000088
+003 GCC
+005 20080127121000.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300043
+039  9 \a 200801271210 \b taleb \c 200710181131 \d sameera \c 200612100956 \d 
+       sameera \y 200610111057 \z taleb
+040    \a NSTIC
+245 00 \a Liquid-Chromatograph Pump : \k Equipment File.
+260    \b Yousuf Ibrahim AL-Ghanim Co. : \b Shimadzu.
+500    \a Institute: KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in charge: Nisar Ahmed M. Ahmed; nahmed@kisr.edu.kw.
+594    \a Trainees name: Nisar Ahmed M. Ahmed; Central Analytical Laboratory.
+949    \t EQUIPMENT
+954    \a Operation date: 31-Oct-92
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 22: 
+LDR 00858nom a2200229uu 4500
+001 vtls000000089
+003 GCC
+005 20080127121000.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300044
+039  9 \a 200801271210 \b taleb \c 200711111120 \d sameera \c 200612101001 \d 
+       sameera \c 200612101001 \y 200610111103 \z taleb
+040 00 \a NSTIC
+245    \a Gas Chromatograph : \k Equipment File.
+260    \b Yousuf Ibrahim AL-Ghanim Co. : \b Shimadzu.
+500    \a Institute: KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in cahrge: Tahani Kalaf Al-Sharrah;  tsharrah@kisr.edu.kw.
+594    \a Trainees name: Tahani Kalaf Al-Sharrah; Central Analytical Laborator
+       y.
+949    \t EQUIPMENT
+954    \a Operation date: 28-Jun-93
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 23: 
+LDR 00838nom a2200229uu 4500
+001 vtls000000090
+003 GCC
+005 20080127121100.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300045
+039  9 \a 200801271211 \b taleb \c 200711111121 \d sameera \c 200612101006 \d 
+       sameera \c 200612101002 \y 200610111116 \z taleb
+040    \a NSTIC
+245 00 \a Gas Chromatograph : \k Equipment File.
+260    \b Yousuf Ibrahim AL-Ghanim Co. : \b Shimadzu.
+500    \a Institute: KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in charge: Tahani Kalaf Al-Sharrah;  nahmed@kisr.edu.kw.
+594    \a Nisar Ahmed M. Ahmed; Central Analytical Laboratory.
+949    \t EQUIPMENT
+954    \a Operation date: 28-Jun-93
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 24: 
+LDR 00796nom a2200241uu 4500
+001 vtls000000201
+003 GCC
+005 20080129100900.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300175
+039  9 \a 200801291009 \b taleb \c 200711111347 \d sameera \y 200610181058 \z 
+       sameera
+040    \a NSTIC
+245 10 \a Microscope Sterio : \k Equipment File.
+260    \b Technical Electronic Instruments Supply \f Zeiss.
+500    \a Institute: KISR.
+590    \a Active At User Department.
+591    \a Waleed Mahdei Al-Qalaf; smomen@kisr.edu.kw.
+594    \a Dr. Sabah Hassan Al-Momin; Bio Technology Department.
+949    \t EQUIPMENT
+951    \a 23-Mar-98
+954    \a 24-Mar-97
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9510*9540*
+       9991
+
+Record# 25: 
+LDR 00793nom a2200229uu 4500
+001 vtls000000202
+003 GCC
+005 20080129100900.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300089
+039  9 \a 200801291009 \b taleb \c 200711111347 \d sameera \y 200610181101 \z 
+       taleb
+040    \a NSTIC
+245 10 \a Photomicrography : \k Equipment File.
+260    \a Fax 4840801 : \b Technical Electronic Instruments Supply. \f Tectron
+       .
+500    \a Institiute: KISR.
+590    \a Active At User Department.
+591    \a Dr. Abdullah Khadher Al-Enezi; adousari@kisr.edu.kw.
+594    \a Dr. Ali Mohammad Al-Dousari; Coasts & Air Pollution Dept.
+949    \t EQUIPMENT
+954    \a 2-May-94
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 26: 
+LDR 00777nom a2200229uu 4500
+001 vtls000000203
+003 GCC
+005 20080129100900.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300176
+039  9 \a 200801291009 \b taleb \c 200711111347 \d sameera \y 200610181104 \z 
+       sameera
+040    \a NSTIC
+245 10 \a Photomicroscope : \k Equiipment File.
+260    \b Technical Electronic Instruments Supply \f Tectron.
+500    \a Institute: KISR.
+590    \a Active At User Department
+591    \a Dr. Abdullah Khadher Al-Enezi; adousari@kisr.edu.kw.
+594    \a Dr. Ali Mohammad Al-Dousari; Coasts & Air Pollution Dept.
+949    \t EQUIPMENT
+954    \a 2-May-94
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 27: 
+LDR 00779nom a2200229uu 4500
+001 vtls000000204
+003 GCC
+005 20080129100900.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300090
+039  9 \a 200801291009 \b taleb \c 200711111348 \d sameera \y 200610181105 \z 
+       taleb
+040    \a NSTIC
+245 10 \a Gas Portioning Unit : \k Equipment File.
+260    \a Fax 4840801 : \b Technical Electronic Instruments Supply \f Witt.
+500    \a Institute: KISR.
+590    \a Active At User Department.
+591    \a Dr. Hani Mansour Al-Mazeedi;  jotaibi@kisr.edu.kw.
+594    \a Jamla Ali Al-Otibi; Bio Technology Department.
+949    \t EQUIPMENT
+954    \a 21-Jul-92
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 28: 
+LDR 00742nom a2200229uu 4500
+001 vtls000000206
+003 GCC
+005 20080129101300.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300177
+039  9 \a 200801291013 \b taleb \c 200710181041 \d sameera \y 200610181113 \z 
+       sameera
+040    \a NSTIC
+245 10 \a Detector-Fluoroscence : \k Equipment File.
+260    \b Tareq Co. \f Thermo Sep.
+500    \a Institute: KISR.
+590    \a Active At User Department.
+591    \a Nisar Ahmed M. Ahmed;  nahmed@kisr.edu.kw.
+594    \a Nisar Ahmed M. Ahmed; Central Analytical Laboratory.
+949    \t EQUIPMENT
+954    \a 19-Jul-94
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 29: 
+LDR 00768nom a2200241uu 4500
+001 vtls000000207
+003 GCC
+005 20080129101300.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300178
+039  9 \a 200801291013 \b taleb \c 200711111348 \d sameera \y 200610181119 \z 
+       sameera
+040    \a NSTIC
+245 10 \a Auto Sampler : \k Equipment File.
+260    \b Tareq Co.
+500    \a Institute: KISR.
+590    \a Active At User Department.
+591    \a Dr. Mamun Mohammad Absi-Halabi;  adashti@prsc.kisr.edu.kw.
+594    \a Abdullatif Mohammad Dashti;  Petroleum Refining Dept.
+949    \t EQUIPMENT
+951    \a 24-Mar-02
+954    \a 25-Mar-01
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9510*9540*
+       9991
+
+Record# 30: 
+LDR 02367nam a2200337   4500
+001 vtls000001886
+003 GCC
+005 20130507131700.0
+008 061209s1985    ku            000 0 eng d
+035    \a GCC07302046
+039  9 \a 201305071317 \b yasera \c 201305071205 \d yasera \c 201305061355 \d 
+       yasera \c 200801131419 \d fadhela \y 200701230925 \z waleed
+040    \a NSTIC
+091    \a SE \b 54 \b KISR \b 1733
+100 10 \a Suri, R. K.
+245 10 \a Cool storage assessment study in Kuwait. : \k Research File / \c R. 
+       K. Surri...[et al.]., Energy Department, Engineering Division.
+260    \a Kuwait : \b KISR, \c 1985.
+300    \a 37 leaves ; \c 28 cm.
+500    \a Project code: SE-54.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: May 1985.
+506    \a General.
+520    \a Use of cool storage conventional air-conditioning plants has a poten
+       tial for reducing peak power demand on utilities.  A unit cooling cost 
+       in fils/kWhc, representing the combined result of technical and economi
+       c analyses, has been developed and applied to the study of the cost-ben
+       efit of using, cool storage.  Residential and non-residential buildings
+       , having different types of conventional air-conditioning systems, were
+        analyzed on the basis of unit cooling capacity along with a few select
+       ed buildings as example cases.  The results show that for all types of 
+       buildings and air-conditioning systems using chilled water for cooling 
+       distribution, using cool storage is economically highly viable.  For th
+       e direct expansion systems, the advantages are limited.  In Kuwait, the
+        availability of heavily subsidized electricity, offers very little ben
+       efit to the user from adopting cool storage and its major beneficiary i
+       s the government.  Changes in tariff structure for energy and power hav
+       e been recommended to promote large scale use of cool storage as an eff
+       ective tool for energy and power management in Kuwait.
+653    \a Cool storage. Peak power shaving. Unit cooling cost.
+700 10 \a Maheshwari, G. P.
+700 10 \a Al Madani, K.
+700 10 \a Abu Rashid, H.
+710 20 \a Kuwait Institute for Scientific Research. \b Engineering Division.
+        \b Energy Department.
+930    \a 950422
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1000*2450*2600*3000*5000*5001*5002*5060*
+       5200*6530*7000*7001*7002*7100*9300*9490*9992
+
+Record# 31: 
+LDR 06907nam a2200409   4500
+001 vtls000001941
+003 GCC
+005 20080116101200.0
+008 061209s1995    ku            000 0 eng d
+035    \a GCC07302101
+039  9 \a 200801161012 \b fadhela \y 200701231053 \z waleed
+040    \a NSTIC
+091    \a AG \b 67 \b KISR \b 4615
+110 20 \a Food resources Division. \b Aridland Agriculture Department.
+245 10 \a Master plan for development of Kuwait's agricultural sector (1995-20
+       15). : \k Research File / \c Aridland Agriculture Department, Food Reso
+       urces Department.
+260    \a Kuwait : \b KISR, \c 1995.
+300    \a xvi, 164 leaves ; \c 28 cm.
+500    \a Submitted to Public Authority for Agricultural Affairs and Fish Reso
+       urces.
+500    \a Submitted to Kuwait Foundation for the Advancenment of Sciences.
+500    \a Project code: Ag-67.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: April 1995.
+506    \a Bibliography: p. 159-164.
+506    \a Restricted.
+520    \a This Development Study-Agricultural Master Plan has been made possib
+       le by the initiative from PAAFR, with partial support from KFAS, which 
+       together commissioned KISR to carry out a detailed Development Study an
+       d prepare this long-term Master Plan. The Master Plan as contained here
+       in, is supported by back-up detailed information in separate documents.
+        i.e. Appendix I and II, and Task Reports and Specialised Study Documen
+       ts. The goal of the Master Plan is to guide the development of a sustai
+       nable agricul ture. The objectives are to: (1) increase crop and animal
+        yields and productivity in ways that will, assure reasonable economic 
+       returns, conserve water and labour per unit of output, and minimise adv
+       erse environmental effects, and (2) establish an effective marketing sy
+       stem. Supporting objectives are to: (3) increase the human resource and
+        organisational effectiveness of the agricultural sector, with more foc
+       us on education and management, so as to better absorb the infusion of 
+       advanced technology and better manage the intricacies of Plan implement
+       ation, and (4) implement financial incentives that will both attract th
+       e private sector to agricultural investment, and also assure reasonable
+        and suitable economic returns to the participants, while maintaining a
+       dvantageous cost/benefit implications for the public sector. The genera
+       l strategies for fulfilling the objectives are to reduce the number of 
+       priority commodities (to 11); establish quantitative and qualitative ta
+       rgets for production of each; transfer and adapt modern production prac
+       tices and know-how; detail the other interventions needed to achieve th
+       e targets;
+520    \a emphasise reliance on the private sector; assure the financial and e
+       conomic viability of the production operations; organise the implementa
+       tion of the plan; and, schedule, budget and analyse the Plan in its ent
+       irety. The specific strategies for fulfilling the objectives are to:
+520    \a employ technology that will conserve the land and minimise adverse i
+       mpacts on the environment, contribute to agricultu ral education and ex
+       tension expertise on the part of all interested Kuwaitis and positively
+        influence the social benefits of jobs, careers, and economic diversifi
+       cation, develop the infrastructure to levels that will ensure sustainab
+       ility, and focus the plan to yield returns that are high enough for Kuw
+       aiti owners, yet not unreasonable from a cost standpoint for the public
+        sector. The interventions to be used are of five types: technology tra
+       nsfer costs haring grants, capital projects, appli ed research interven
+       tions, institutional strengthening interventions and financial incentiv
+       e interventions. Over-all the farme rs will be provided incentives to i
+       nfuse quality enhancing, yield-improving, labour-saving, and water-cons
+       erving advanced technologies into their operations. Private sector inve
+       stments in technology will increase by KD 88 million over the plan peri
+       od, and gross revenues will be increased annually by KD 140 million, wi
+       th a financial rate of return of 31% and a pay-back of 6.2 years, by th
+       e end of plan period. Production will be increased 6 fold and labour pr
+       oductivity by 2-5 fold,
+520    \a with 20-200% improvements in water use efficiency. The plan will yie
+       ld 60% self -sufficiency in the priority commodities, even with a proje
+       cted 2.3 fold increase in population. Yield improvements will result fr
+       om achievement of international standards i n productivity, and will be
+        achievable on only 69% of the already allocated land. The transfer of 
+       the technology, the use of model farms, and the retrofitting of existin
+       g operations will "jump-start" these improvements. Phasing out income s
+       upport subsidies and shifting to emphasis on quality will bring produce
+       r competition to the market place. Over the plan period, the public c o
+       sts will equalise with baseline costs, but with major benefits to the c
+       ountry. All public sector and private sector inflows and outflows have 
+       been calculated. All commodity plans are financially, administratively 
+       and technically feasible. Achievement of the targets can not occur thro
+       ugh piece-meal development, hence the absolute need for the plan. Most 
+       of the implementation/co-ordination action will take place within the f
+       irst 10 year period of this time horizon. Budgetary increases within th
+       e first 10-year period will constitute major national level initiatives
+       , which collectively provide large net gains for the country. Each of t
+       he Master Plan implementation phases have been structured to reflect th
+       e objectives, interventions and strategies. Priorities have been addres
+       sed among the sub-sectors, each with definite "milestones" or certifica
+       tions to ensure that the scheduled initiatives, actions or steps, will 
+       be accomplished in accord with the required schedule.
+520    \a The main phases of implementation, i.e. involve review and approval 
+       (8 months) and Phases 1-4. The 8-month review, approval and establishme
+       nt phase will also involve establishment of the Master Plan Implementat
+       ion Office (with Director and 1st. year Work Plan) . The Phases show th
+       e intervention applications and the outcomes in,2, 3, 5 and 10-year per
+       iods.
+699    \a Agricultural development master plan. Crop production. Animal produc
+       tion. Range resource assessment. Food demands. Farms. Projections. Prio
+       rity commodities. Interventions. Cost-benefit. Marketing.
+710 20 \a Kuwait Institute for Scientific Research. \b Food Resources Division
+       . \b Aridland Agricultural Department.
+710 20 \a Public Authority for Agricultural Affairs and Fish Resources.
+710 20 \a Kuwait Foundation for the Advancement of Sciences.
+930    \a 951009
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1100*2450*2600*3000*5000*5001*5002*5003*
+       5004*5060*5061*5200*5201*5202*5203*5204*6990*7100*7101*7102*9300*9490*9
+       991
+
+Record# 32: 
+LDR 03702nam a2200373   4500
+001 vtls000001952
+003 GCC
+005 20080116100800.0
+008 061209s1995    ku            00000 eng d
+035    \a GCC07302113
+039  9 \a 200801161008 \b fadhela \y 200701231108 \z waleed
+040    \a NSTIC
+091    \a AG \b 67 \b KISR \b 4615
+110 1  \a Food resources Division. \b Aridland Agriculture Department.
+245 10 \a Master plan for development of Kuwait's agricultural sector (1995-20
+       15), Appendix III, Task report, Volume 4, Resources : \b Land/soil, wat
+       er, environment and range. : \k Research File / \c Aridland Agricultura
+       l Department, Food Resources Division.
+260    \a Kuwait : \b KISR, \c 1995.
+300    \a 1v. (various pagings) ; \c 28 cm.
+500    \a Project Title: Development study for the Agricultural sector (plant 
+       and animal production) in Kuwait.
+500    \a Submitted to Public Authority for Agricultural Affairs and Fish Reso
+       urces.
+500    \a Submitted to Kuwait Foundation for the Advancement of Sciences.
+500    \a Project Code: AG-67.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: April 1995.
+506    \a Restricted.
+520    \a In Volume 4 of these Task Reports, the studies on the assessments of
+        land/soil, water, environment and rangeland resources were compiled. I
+       n-depth review studies were carried out on various past soil surveys of
+        Kuwait. The existing status of soil of Kuwait and the impact of the Gu
+       lf war on land/soil were investigated. Assessments were also made of th
+       e contamination of agricultural areas by the oil fires. Landuse charact
+       eristics were also characterised for Kuwait's Wafra agricultural area. 
+       Recommendations were made for soil management, reclamation and conserva
+       tion. Water resources were evaluated in assessing their availability fo
+       r agricultural purposes. Various sources of water were considered, i.e.
+       , underground brackish water, desalinated water, treated municipal and 
+       industrial wastewater. Inventories were made of the water supplies (qua
+       lities and quantity) that are available.Meteorological and climatologic
+       al assessment included wind speed, temperature, relative humidity, and 
+       rainfall in the agricul tural areas. Assessments were made of the geogr
+       aphical distribution and classification of aeolian land features of Kuw
+       ait. The sand dunes and sand movements in the agricultural areas were a
+       ddressed. The measures needed to protect agricultural areas from sand e
+       ncroachment were recommended. The studies previously conducted on range
+        development in Kuwait were evaluated. The adver se effects of the Gulf
+        war on rangeland resources were also assessed.
+520    \a In this report, rehabilitation and management of Kuwait's rangelands
+        were addressed so as to contribute to maximization of livestock produc
+       tion, while controlling desertification. A proposal is also included to
+        evaluate pre and post-war factors underlying the rangeland deteriorati
+       on and to develop a Master Strategic Plan that will advance rangelands 
+       towards sustainable resource development.
+699    \a Food nutrients. Diets. Vitamins. Minerals. Demands. Agriculture. Pla
+       nt. Crops. Animals. Sheep. Dairy. Vegetable. Range. Economics. Arid. Ku
+       wait.
+710 20 \a Kuwait Institute for Scientific Research. \b Food Resources Division
+       . \b Aridland Agricultural Department.
+710 10 \a Public Authority for Agicultural Affairs and Fish Resources.
+710 20 \a Kuwait Foundation for the Advancement of Sciences.
+930    \a 951105
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1100*2450*2600*3000*5000*5001*5002*5003*
+       5004*5005*5060*5200*5201*6990*7100*7101*7102*9300*9490*9991
+
+Record# 33: 
+LDR 01303nam a2200337 a 4500
+001 vtls000001033
+003 GCC
+005 20130516093400.0
+008 060904t2006    ku a     b    000 0 eng d
+035    \a GCC0600008
+039  9 \a 201305160934 \b yasera \c 200803161416 \d sameera \c 200609241018
+        \d sameera \c 200609050223 \d muhammad \y 200609041137 \z sameera
+040    \a NSTIC
+041    \a engara
+090    \a In-Process
+100 1  \a Al Shayji, Naiema.
+245 1  \a Science and technology and the environmnet  / \c Naima Al-Shayji and
+        Samira Omar. \k Conference File.
+246    \a علوم وتكنولوجيا والبيئة.
+260    \a Kuwait : \b KISR, \c 2006.
+300    \a 29  leaves : \b ill.  ; \c 28 cm.
+500    \a Includes bibliographical references.
+506    \a General paper.
+546    \a English with abstract in Arabic.
+699    \a Environmental research.
+699    \a Environmental science.
+699    \a Industrial development.
+700 1  \a Omar, Samira.
+710 2  \a Kuwait Institute for Scientific Research.
+711    \a Kuwait National Symposium on Sceince & Technology for Development
+        \n (1st. : \c Kuwait : \d 2005).
+949    \t CONFERENCE
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*0410*0900*1000*2450*2460*2600*3000*5000*5060*
+       5460*6990*6991*6992*7000*7100*7110*9490*9992
+
+Record# 34: 
+LDR 00954nas a2200277 a 4500
+001 vtls000001034
+003 GCC
+005 20090524105500.0
+008 060904c        ku mr1       l0    0eng d
+035    \a GCC0600009
+039  9 \a 200905241055 \b sameera \c 200905241053 \d sameera \c 200902081035
+        \d sameera \c 200803031228 \y 200609041156 \z sameera
+040    \a NSTIC
+245 00 \a Science and technology : \k Periodical File.
+246 13 \a علوم وتكنولوجيا : \k ملف الدوريات.
+260    \a Kuwait : \b KISR,
+300    \a v. : \b col. ill. ; \c 27 cm.
+310    \a Monthly.
+506    \a General
+653    \a Science.
+653    \a Technology.
+710 2  \a Kuwiat Institute for Scientific Research.
+710 2  \a معهدالكويت للأبحاث العلمية.
+856 40 \u http://www1.kisr.edu.kw/science/
+949    \t SERIAL
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2460*2600*3000*3100*5060*6530*6531*7100*
+       7101*8560*9490*9991
+
+Record# 35: 
+LDR 00648nam a2200205 a 4500
+001 vtls000000027
+003 GCC
+005 20111122192000.0
+008 060614                       000 0 eng d
+035    \a GCC06000004
+035    \a (Kkr)vtls000027447
+039  9 \a 201111221920 \b muhammad \c 200609050221 \d muhammad \c 200609050214
+        \d muhammad \c 200609050213 \d muhammad \y 200606141141 \z taleb
+040    \a NSTIC
+095    \a [In-process]
+110 2  \a University of Qatar.
+245 10 \a University of Qatar
+270    \a P.O.Box 2713 \b Dafina \c Doha \d Qatar.
+949    \t ORGANIZATION
+999    \a VIRTUA40
+999    \a VTLSSORT0080*0350*0351*0400*0950*1100*2450*2700*9490*9992
+
+Record# 36: 
+LDR 00915nam a2200265 a 4500
+001 vtls000001035
+003 GCC
+005 20111122130400.0
+008 060906t2006    ba           s000 0 eng d
+035    \a GCC06000010
+039  9 \a 201111221304 \b muhammad \c 201111171259 \d muhammad \c 200609111354
+        \d sameera \c 200609101118 \d sameera \y 200609061029 \z sameera
+040    \a NSTIC
+041    \a araeng
+043    \a a-ba - - -
+110 2  \a Univesity of Bahrain Libraries.
+245 10 \a University of Bahrain Libraries : \k Organization File.
+270    \a P.O. Box 32038 \b Sakir \d Kingdom of Bahrain.
+500    \a Sub-type: Academic Library.
+546    \a Arabic and English.
+699    \a Academic libraries \z Bahrain.
+699    \a Information centers \z Bahrain.
+945    \a Type: Government.
+949    \t ORGANIZATION
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*0410*0430*1100*2450*2700*5000*5460*6990*6991*
+       9450*9490*9992
+
+Record# 37: 
+LDR 01922nam a2200361   4500
+001 vtls000001450
+003 GCC
+005 20130508102500.0
+008 061209s1987    ku            000 0 eng d
+035    \a GCC06301607
+039  9 \a 201305081025 \b yasera \c 201305081025 \d yasera \c 200804130908 \d 
+       taleb \c 200801081424 \d fadhela \y 200612250920 \z waleed
+040    \a NSTIC
+091    \a BT \b 22 \b KISR \b 2370
+100 10 \a Banat, I. M.
+245 10 \a Biosurfactant use for oil tank sludge cleaning. Voll. l (task lll) :
+        \K Research File / \c I. M. Banat...[et al.], Biotechnology Department
+       , Food Resources Division.
+260    \a Kuwait : \b KISR, \c 1987.
+300    \a ii, 11 [2] leaves ; \c 28 cm.
+500    \a Submitted to Kuwait Consulting and Investment Company.
+500    \a Project Code: BT-22 (Formerly RFP-145).
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: November 1987.
+506    \a Restricted.
+520    \a A cleanup demonstration test was carried out by Cargo Fleet Chemical
+       s Co. (UK) on oil storage tank No. 12, South Ahmadi Farm (KOC). Two ton
+       s of biosurfactant produced at KISR were used to remove and clean the s
+       ludge bottom of the oil storage tank. The cleaning-up process continued
+        for 45 days and was successful in removing the sludge from the oil sto
+       rage tank bottom and allowed the recovery of nearly 90% of the hydrocar
+       bons trapped in the sludge for reuse as crude oil.
+699    \a Sluge removal. Pet 1006. Oil recovery.
+700 10 \a Horne, R.
+700 10 \a Al Ali, Amani Ali.
+700 10 \a Rizner, J.
+710 20 \a Kuwait Institute for Scientific Research. \b Food Resources Division
+       . \b Biotechnology Department.
+710 20 \a Kuwait Consulting and Investment Company.
+930    \a 940601
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1000*2450*2600*3000*5000*5001*5002*5003*
+       5060*5200*6990*7000*7001*7002*7100*7101*9300*9490*9992
+
+Record# 38: 
+LDR 00813nom a2200229uu 4500
+001 vtls000000075
+003 GCC
+005 20080127112100.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300021
+039  9 \a 200801271121 \b taleb \c 200710181131 \d sameera \c 200612091154 \d 
+       sameera \y 200610081008 \z taleb
+040    \a NSTIC
+245 00 \a Cromatograph HPLC : \k Equipment File.
+260    \b Jeol Ltd. \f HP.
+500    \a Institute:  KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in charge: Dr. Ali Saleh Al-Omair;  nahmed@kisr.edu.kw.
+594    \a Trainees name: Nisar Ahmed M. Ahmed;  Central Analytical Laboratory.
+949    \t EQUIPMENT
+954    \a Operation date: 11-Jun-95
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 39: 
+LDR 04608nam a2200361   4500
+001 vtls000001217
+003 GCC
+005 20080303111700.0
+008 061209s1984    ku            000 0 eng d
+035    \a GCC06301291
+039  9 \a 200803031117 \b taleb \c 200801161056 \d fadhela \y 200612171236 \z 
+       salma
+040    \a NSTIC
+091    \a MB \b 48 \b KISR \b 1366
+100 10 \a Mathews, C. P.
+245 10 \a Proceedings shrimp and fin fisheries management workshop, 9-11 Octob
+       er 1983. Vol. l : /k Research File  / \c C. P. Mathews, Mariculture and
+        Fisheries Department, Food Resources Division.
+260    \a Kuwait : \b KISR, \c 1984
+300    \a 2 v. ; \c 28 cm.
+500    \a Project Code: MB-48.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: June 1984.
+506    \a General.
+520    \a The physical, chemical and biological variations in the marine envir
+       onment affect the migration, breeding period and fishing grounds of com
+       mercially important fish and shrimp. Numerous other marine organisms ar
+       e also directly or indirectly affected by such physical and chemical pa
+       rameters of the water as movement of water masses, temperatures, salini
+       ties, and nutrient levels. M arine organisms have evolved within a narr
+       ow range of variations in physical and chemical parameters. Living orga
+       nisms are very vulnerable even to minor variations. Drastic changes may
+        result from industrial activities or from the growth of human populati
+       on living near the sea. In many parts of the world, it is now accepted 
+       that precise and accurate oceanographic information is extremely import
+       ant, not only for biological studies but also for engineering, commerci
+       al development and environmental studies. Socio-economic planning, the 
+       establishment of industrial complexes and sound fisheries management, a
+       ll require a precise kno wledge of the physical, chemical and biologica
+       l characteristics of the local hydrosphere, particularly those areas of
+        the sea enclosed by land. This is particularly true of such an area as
+        Kuwait waters, which have already been exposed to major coastal develo
+       pment, because of the presence of an important fishery.
+520    \a A good deal of marine research has been conducted in the Gulf during
+        the last century, but its strategic importance, together with the inte
+       rest stimulated by the importance of the harvests of fish, shrimp and p
+       earl-oysters, has caused greater interest in certain disciplines than i
+       n others. For instance, land-based meteorology has been conducted on a 
+       semi-regular basis for some time; routine reports have been collected o
+       ver a series of years, often with interruption in some areas, with peri
+       odic publications of data.
+520    \a Hydrographic surveys and observations have been carried out from tim
+       e to time in the Arabian Gulf; the most interesting include studies by 
+       Barlow (1932 a, b, c), Curries et al. (1973), Dubach (1964), Defant (19
+       61), Emery (1956), Grasshoff (1975, 1976), the Hydrographic Office (194
+       2, 1943), La Violette and Frontenac (1967); Sonu (1979) and Von Trepka 
+       (1970). Recently, Brewer et al. (1978) reported the results of a major 
+       oceanographic cruise covering the Iranian (eastern) portion of the Gulf
+       , including all of the basic physical, chemical and biological paramete
+       rs normally studied by oceanographers. Most of the studies covered fair
+       ly short periods, however, and included mostly physical parameters such
+        as temperature and salinity.
+520    \a The most useful of these may be the studies of Grasshoff (1976), Dub
+       ach and Wehe (1954) and La Violette and Frontenac (1967). Very few incl
+       ude any work on currents; most work reported on currents is based on su
+       rface current observations carried out by vessls of opportunity.
+520    \a Therefore, the primary aims of this study were to extend the knowled
+       ge of oceanographic characteristics, to provide marine environmental da
+       ta for the Fisheries Management Project and to carry out systematic oce
+       anographic investigations in Kuwait waters. It was planned to identify 
+       oceanographic phenomena by dealing with as many parameters as possible.
+        Nutrient surveys were not included, but are planned for future years.
+699    \a Workshop. Shrimp. Fish. Fisheries management.
+710 20 \a Kuwait Institute for Scientific Research. \b Food Resources Division
+       . \b Mariculture and Fisheries Department.
+740 01 \a 1983 shrimp and fin fisheries management workshop.
+930    \a 940530
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1000*2450*2600*3000*5000*5001*5002*5060*
+       5200*5201*5202*5203*5204*6990*7100*7400*9300*9490*9991
+
+Record# 40: 
+LDR 01986nam a2200325   4500
+001 vtls000001228
+003 GCC
+005 20130519091900.0
+008 061209s1993    ku            00000 eng d
+035    \a GCC06301302
+039  9 \a 201305190919 \b yasera \c 201305190918 \d yasera \c 201305131201 \d 
+       yasera \c 200803190952 \d taleb \y 200612171358 \z salma
+040    \a NSTIC
+091    \a MB \b 78 \b KISR \b 4227
+100 10 \a Teng, S. K.
+245 10 \a Alteration of the spawning season of sobaity (acanthopagrus curveri)
+        by manipulation of phtoperiod and/or water temperature : \k Research F
+       ile \c A preliminary study / \c S. K. Teng, A. Al-Marzouk, C. El-Zhar, 
+       Mariculture and Fisheries Department, Food Resources Division.
+260    \a Kuwait : \b KISR, \c 1993.
+300    \a vii, 82 leaves ; \c 28 cm.
+500    \a Project Code: MB-78.
+500    \a Type of publication: Final Report.
+500    \a Date of Publication: April 1993.
+506    \a General.
+520    \a Three-year-old sobaity (Acanthopagrus cuvleri) were subjected to man
+       ipulations of (a) water temperatures which were changed to a cycle of 1
+       8-22C compared to natural cycle of 14-31C; the changed temperature cycl
+       e was tested In combination of a simulated natural photo period by fluo
+       rescent lights, (b) photo period at a constant range of 12 h light/d pl
+       us natural water-temperature cycle, and simulated natural photo period 
+       cycle plus natural water-temperature cycle served as control. Effects o
+       f the manipulations on altering the spawning period of the fish were st
+       udied.
+699    \a Water temperature cycle. Photo period. Fecundities. Spawning period.
+700 10 \a Al Marzouk, Ahmad Ibrahim Ahmad.
+700 10 \a Al Zahr, C. R.
+710 20 \a Kuwait Institute for Scientific Research. \b Food Resources Departme
+       nt. \b Mariculture and Fisheries Department.
+930    \a 940530
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0400*0910*1000*2450*2600*3000*5000*5001*5002*5060*
+       5200*6990*7000*7001*7100*9300*9490*9992
+
+Record# 41: 
+LDR 00799nom a2200229uu 4500
+001 vtls000000077
+003 GCC
+005 20080127113000.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300022
+039  9 \a 200801271130 \b taleb \c 200711111117 \d sameera \c 200612091156 \d 
+       sameera \y 200610081050 \z taleb
+040    \a NSTIC
+245 00 \a Spectrometer 2nd Mass : \k Equipment File.
+260    \b Ltd. \f Jeol.
+500    \a Institute: KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in charge: Dr. Ali Saleh Al-Omair; aomair@kisr.edu.kw.
+594    \a Dr. Ali Saleh Al-Omair;  Central Analytical Laboratory.
+949    \t EQUIPMENT
+954    \a Operation date: 11-Jun-95
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 42: 
+LDR 00859nom a2200229uu 4500
+001 vtls000000091
+003 GCC
+005 20080127121100.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300046
+039  9 \a 200801271211 \b taleb \c 200711111121 \d sameera \c 200612101003 \d 
+       sameera \c 200612101002 \y 200610111121 \z taleb
+040    \a NSTIC
+245 00 \a Gas Chromatograph : \k Equipment File.
+260    \b Yousuf Ibrahim AL-Ghanim Co. : \b Shimadzu.
+500    \a Institute: KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in charge: Tahani Kalaf Al-Sharrah; tsharrah@kisr.edu.kw.
+594    \a Trainees name: Tahani Kalaf Al-Sharrah ; Central Analytical Laborato
+       ry.
+949    \t EQUIPMENT
+954    \a Operation date:  28-Jun-93
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 43: 
+LDR 00837nom a2200229uu 4500
+001 vtls000000092
+003 GCC
+005 20080127121200.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300047
+039  9 \a 200801271212 \b taleb \c 200711111121 \d sameera \c 200612101004 \d 
+       sameera \c 200610140901 \y 200610111127 \z taleb
+040    \a NSTIC
+245 00 \a Gas Chromatograph : \k Equipment File.
+260    \b Yousuf Ibrahim AL-Ghanim Co. : \b Shimadzu.
+500    \a Institute: KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in charge: Tahani Kalaf Al-Sharrah; nahmed@kisr.edu.kw.
+594    \a Nisar Ahmed M. Ahmed; Central Analytical Laboratory.
+949    \t EQUIPMENT
+954    \a Operation date: 28-Jun-93
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 44: 
+LDR 01835nam a2200325 a 4500
+001 vtls000003155
+003 GCC
+005 20130519101000.0
+008 090120t2002                  000 0 eng d
+035    \a GCC09303339
+039  9 \a 201305191010 \b yasera \c 201305191009 \d yasera \c 200902231118 \d 
+       sameera \c 200901201001 \d sameera \y 200901200959 \z sameera
+040    \a NSTIC
+043    \a a-ku---
+090    \a IN-PROCESS
+245 00 \a Trigger synchronization of a streak camera in a laser fluorosensor s
+       ystem : \k Article File / \c Q. Alemeddine, M. F.  Quinn, A. Qabazard, 
+       A.  Alhusaini.
+260    \a [S.I. : \b s.n.], \c 2002.
+520    \a Due to detrimental effects of the relative vertical motion of a lase
+       r Fluorosensor system and an oil spill on the sea surface during airbor
+       ne operations, it was necessary to develop a trigger synchronization pr
+       ocedure which was independent of the motion. This was accomplished by u
+       sing the laser radiation scattered from the oil spill to start the trig
+       gering process. To compensate for unavoidable electronic delays, it was
+        necessary to delay the fluorescence pulses accompanying the scatter by
+        passing them through an optical fiber. An analysis was carried out to 
+       investigate the pulse broadening effects arising from the use of the fi
+       ber.
+653    \a Deconvolution.
+653    \a Fiber (Kuwait).
+653    \a Laser.
+653    \a Kuwait.
+700 1  \a Alam Al Din, O.
+700 1  \a Quinn, M. F.
+700 1  \a Qabazard, A.
+700 1  \a Al Husaini, A.
+773    \t Kuwait Journal of Science and Engineering \g vol. 29. issue 2 (2002)
+        p. 41-56
+
+856 40 \u http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-0036993316
+       &partnerID=40
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*0430*0900*2450*2600*5200*6530*6531*6532*6533*
+       7000*7001*7002*7003*7730*8560*9490*9992
+
+Record# 45: 
+LDR 00858nom a2200229uu 4500
+001 vtls000000093
+003 GCC
+005 20080127122100.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300048
+039  9 \a 200801271221 \b taleb \c 200710181043 \d sameera \c 200612101007 \d 
+       sameera \c 200610140908 \y 200610140907 \z taleb
+040    \a NSTIC
+245  0 \a "Detector, ECD Nitrogen" : \k Equipment File.
+260    \b Yousuf Ibrahim AL-Ghanim Co. : \b Tremetrks.
+500    \a Institute: KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in charge: Nisar Ahmed M. Ahmed; nahmed@kisr.edu.kw.
+594    \a Trainees name:  Nisar Ahmed M. Ahmed; Central Analytical Laboratory.
+949    \t EQUIPMENT
+954    \a Operation date: 16-Jun-93
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 46: 
+LDR 00841nom a2200229uu 4500
+001 vtls000000094
+003 GCC
+005 20080127122100.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300049
+039  9 \a 200801271221 \b taleb \c 200710181130 \d sameera \c 200612101008 \d 
+       sameera \y 200610140916 \z taleb
+040    \a NSTIC
+245 00 \a Detector, ECD Chlorine : \k Equipment File.
+260    \b Yousuf Ibrahim AL-Ghanim Co. : \b Tremetrks.
+500    \a Institute: KISR.
+590    \a Status: Active At User Department.
+591    \a Officer in charge: Nisar Ahmed M. Ahmed; nahmed@kisr.edu.kw.
+594    \a Trainees name: Nisar Ahmed M. Ahmed; Central Analytical Laboratory.
+949    \t EQUIPMENT
+954    \a Operation date: 16-Jun-93
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9540*9991
+
+Record# 47: 
+LDR 01962nam a2200337   4500
+001 vtls000001273
+003 GCC
+005 20080325100000.0
+008 061209s1989    ku            000 0 eng d
+035    \a GCC06301248
+035    \a (GCC)vtls000001273
+039  9 \a 200803251000 \b taleb \c 200801031129 \d muhammad \c 200612161500
+        \d salma \y 200612131104 \z salma
+040    \a NSTIC
+091    \a MS \b 67 \b KISR \b 3152
+100 10 \a Qamhiyah, Z.
+245 10 \a Beach well seawater intake : \k Research File  / \c Z. Qamhiyah, Mat
+       erials Application Department, Petroleum, Petrochemicals and Materials 
+       Division.
+260    \a Kuwait : \b KISR, \c 1989.
+300    \a v, 146 leaves \c 28 cm.
+500    \a Submitted to Ministry of Electricity and Water.
+500    \a Project Code: MS-67 (Formerly RFP-143).
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: September 1989.
+506    \a Restricted.
+520    \a Seawater reverse osmosis (R0) units are usually fed with conventiona
+       lly pretreated surface seawater.  Surface seawater is pretreated to pre
+       vent membrane fouling which reduces the membrane's efficiency and neces
+       sitates expensive periodic shut-downs and cleaning of the membranes.  C
+       onventional pretreatment is costly, space-consuming and, after starting
+       , requires considerable time to give a filtrate of acceptable quality. 
+        The performance of conventional pretreatment systems is usually unsati
+       sfactory and filtrate quality and quantity are not steady.
+699    \a Pretreatment. RO desalination. Seawater intake. Membrance. Water qua
+       lity. Cost.
+710 20 \a Kuwait Institute for Scientific Research. \b Petroleum, Petrochemica
+       ls and Materials Division. \b Materials Application Department.
+710 10 \a Kuwait. \b Ministry of Electricity and Water.
+930    \a 940531
+949    \t RESEARCH
+999    \a VIRTUA50
+999    \a VTLSSORT0080*0350*0351*0400*0910*1000*2450*2600*3000*5000*5001*5002*
+       5003*5060*5200*6990*7100*7101*9300*9490*9991
+
+Record# 48: 
+LDR 00754nom a2200241uu 4500
+001 vtls000000223
+003 GCC
+005 20080129103300.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300191
+039  9 \a 200801291033 \b taleb \c 200710171109 \d sameera \y 200610211125 \z 
+       sameera
+040    \a NSTIC
+245 10 \a Washer For Glass Ware.
+260    \b Tareq Co. \f Smeg.
+500    \a Institue: KISR.
+590    \a Active At User Department.
+591    \a Dr. Mohammed Abdur Razzaque; eebrahim@kisr.edu.kw.
+594    \a Ebrahim Khalil Ebrahim; Aridland Agriculture Dept.
+949    \t EQUIPMENT
+951    \a 19-Mar-03
+954    \a 23-Mar-02
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9510*9540*
+       9991
+
+Record# 49: 
+LDR 00780nom a2200241uu 4500
+001 vtls000000211
+003 GCC
+005 20080129101600.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300095
+039  9 \a 200801291016 \b taleb \c 200710171127 \d sameera \y 200610280818 \z 
+       taleb
+040    \a NSTIC
+245 10 \a Thermostating Bath : \k Equipment File.
+260    \b Tareq Co. \f Lauda.
+500    \a Institiute: KISR.
+590    \a Active At User Department.
+591    \a Dr. Mamun Mohammad Absi-Halabi; adashti@prsc.kisr.edu.kw.
+594    \a Abdullatif Mohammad Dashti;  Petroleum Refining Dept.
+949    \t EQUIPMENT
+951    \a 24-Mar-02
+954    \a 25-Mar-01
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9510*9540*
+       9991
+
+Record# 50: 
+LDR 00776nom a2200241uu 4500
+001 vtls000000224
+003 GCC
+005 20080129103400.0
+008       s2006    ku     d     ff        d 
+035    \a GCC06300192
+039  9 \a 200801291034 \b taleb \c 200710171109 \d sameera \y 200610280819 \z 
+       sameera
+040    \a NSTIC
+245 10 \a Washer For Glass Ware : \k Equipment File.
+260    \b Tareq Co. \f Smeg.
+500    \a Institute: KISR.
+590    \a Active At User Department.
+591    \a Dr. Mohammed Abdur Razzaque; hkhalifa@kisr.edu.kw.
+594    \a Hanan Sulaiman Al-Khalifa; Aridland Agriculture Dept.
+949    \t EQUIPMENT
+951    \a 19-Mar-03
+954    \a 23-Mar-02
+999    \a VIRTUA
+999    \a VTLSSORT0080*0350*0400*2450*2600*5000*5900*5910*5940*9490*9510*9540*
+       9991
+

@@ -1,0 +1,121 @@
+{"Atmosphere": {	
+					"description": "<img src='images/theme/atmosphere.jpg' width='100%'>",
+					"General":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						   "indicators":[
+      						   ]},
+      				"Issue1":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						  "indicators":[
+      						   ]}
+},
+"Hydrology": {		
+					"description": "this is description",
+					"General":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						   "indicators":[
+      						   ]},
+      				"Issue1":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						  "indicators":[
+      						   ]}
+},
+"BaseMap": {			
+					"description": "this is description",
+					"General":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						   "indicators":[
+      						   ]},
+      				"Issue1":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						  "indicators":[
+      						   ]}
+},
+"Marine": {				
+					"description": "this is description",
+					"General":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						   "indicators":[
+      						   ]},
+      				"Issue1":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						  "indicators":[
+      						   ]}
+},
+"Terrestrial": {		
+					"description": "this is description",
+					"General":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						   "indicators":[
+      						   ]},
+      				"Issue1":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						  "indicators":[
+      						   ]}
+},
+"SocialEconomics": {		
+						"description": "this is description",
+						"General":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						   "indicators":[
+      						   ]},
+      					"Issue1":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						  "indicators":[
+      						   ]}
+},
+"SeaWater": {			
+					"description": "this is description",
+					"General":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						   "indicators":[
+      						   ]},
+      				"Issue1":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						  "indicators":[
+      						   ]}
+},
+"AirQuality": {			
+					"description": "this is description",
+					"General":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						   "indicators":[
+      						   ]},
+      				"Issue1":{"layers":[
+      							{"name":"Boundary", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:KIEIN_ADMIN.BOUNDARIES&styles=&bbox=-2434042.1816,-186329.1686,2029764.6133,4408746.0767&width=497&height=512&srs=EPSG:4326&format=image/png"},
+      							{"name":"Landuse", "type":"WMS", "url":"http://pc095066:8080/geoserver/KISR/wms?service=WMS&version=1.1.0&request=GetMap&layers=KISR:Landuse&styles=&bbox=464066.53529999964,3202897.0503000002,517130.2243999999,3251820.8776999996&width=512&height=472&srs=EPSG:4326&format=image%2Fpng"}
+      						   ],
+      						  "indicators":[
+      						   ]}
+}
+}

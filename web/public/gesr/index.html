@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Gulf Electronic Scientific Research (GESR)@KISR</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" charset="utf-8">
+	<link type="text/css" href='css/Aristo/Aristo.css' rel="stylesheet" />
+	<link type="text/css" href='css/google.control.css' rel="stylesheet" />
+    <!--[if IE]><link type="text/css" href='css/main_ie.css' rel="stylesheet" /><![endif]-->
+	<!--[if !IE]><!--><link type="text/css" href='css/main.css' rel="stylesheet" /><!--<![endif]-->
+	
+    <!--core-->
+    <script src="js/jquery-1.6.2.min.js" type="text/javascript"></script>
+    <script src="js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+    <script src="js/openlayers/openlayers.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script>
+    <script src="js/google.chart.js" type="text/javascript"></script>
+
+
+
+    <!-- proj4s-->
+    <script src="js/openlayers/proj4js.min.js" type="text/javascript"></script>
+    <script src="js/epsg/31900.js" type="text/javascript"></script>
+    <script src="js/epsg/31901.js" type="text/javascript"></script>
+
+ 
+    <!-- openlayer -->
+    <script src="js/main.js" type="text/javascript"></script>
+    <script src="js/loadData.js" type="text/javascript"></script>
+    <!-- google analyst -->
+    <script type="text/javascript">
+      //google analyst
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-40519138-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+    </script>
+  </head>
+  
+  
+  
+  <body>
+
+  	<!-- title content-->
+  	<div id='titleContent' style='width:100%; height:25px; line-height:25px; padding:0px 5px 0px 5px; overflow:hidden; background-color:#000000; color:#eeeeee; '>
+  		<!--title-->
+  		<div style='float:left'><b>Gulf Electronic Scientific Research (GESR) @ Kuwait Institute for Scientific Research (KISR)</b></div>
+  		
+  		<!-- applications-->
+  		<div style='float:left' id='subtitle'></div>
+  		
+  		<div style='float:right'>
+  			<ul style="list-style:none; padding:0px; margin:0px 0px 0px 10px;float:left">
+  				<li title='GESR Official Website' onclick='window.open("http://161.252.9.43:8088/")'>GESR</li>
+  			</ul>
+		</div>	
+  	</div>
+  	
+  	
+  	<!-- main content-->
+  	<div id='mainContent' style='width:100%; height:97%;' class=''>
+
+		<!--search -->
+		<div id='searchBar'>
+			 <input type='text' id='searchInput' value='Kuwait'/>
+			 <!--<select id='searchType'>
+			  	<option value='LIBRARY'>Library</option>
+			  	<option value='GEODATABASE'>GeoDatabase</option>
+			 </select>-->
+			 <input type='button'  value='search' id='searchButton' onclick="doSearch($('#searchInput').val(), 'LIBRARY')"/>
+			 <div id='btn_advancedSearch'><a href='#' onclick='advancedSearch()'>Advanced Search</a></div>
+		</div>
+				
+				
+  		<!-- map content-->
+  		<div id='mapContent' style='float:left; width:100%;height:100%;'>
+  			<!--mapPanel-->
+  			<div id='mapPanel' style='width:100%; height:100%; position:relative;'>
+  				
+  				<!-- statusWidget-->
+			    <div id='statusWidget' class="ui-state-highlight ui-corner-all" style=''>
+					<span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+					<div id='statusWidget-text'>infowindow</div>
+				</div>
+  				
+  				<!-- menu button-->
+  				<!-- menuWidget-->
+				<!--<div id='menuWidget' style='' onclick='' class='ui-corner-all' onmouseover="this.style.filter='progid:DXImageTransform.Microsoft.Alpha(Opacity=90)'; this.style.opacity=0.90;" onmouseout="this.style.filter='progid:DXImageTransform.Microsoft.Alpha(Opacity=20)'; this.style.opacity=0.20;">MENU</div>
+    			-->
+  				
+  				
+  				<!-- copyright-->
+			    <div id='copyright' style='position:absolute; bottom:5px; left:5px; text-align:right;font-size:90%;z-index:1002 ' class='imgHover'>
+				  	<img src="images/GeoInformatics_blue_29.12.2011.png" height=35px style='cursor:pointer;' onclick='window.open("http://kiein.kisr.edu.kw/");' />&nbsp;&nbsp;
+				  	<!--<img src="images/UNDP_Logo.jpg" height=30px style='cursor:pointer;' onclick='window.open("http://www.undp.org/content/undp/en/home.html");' />&nbsp;&nbsp;
+				  	<img src="images/kiein.png" height=35px style='cursor:pointer;' onclick='window.open("http://kiein.kisr.edu.kw/");' />-->
+				</div>
+				
+
+				
+				<!-- base map switch -->
+				<div id='baseMapSwitch' style="position:absolute; top:0px; right:0px; z-index:1000;"></div>
+				
+				
+				<!-- menu content-->
+		  		<div id='menuWidget'>
+		  			<!-- toolbox content-->
+					<div id='toolboxContent'  >
+						  	<ul style='list-style:none; padding:0px; margin:0px' >
+						  			<li title='show/hide map' onclick='showhideMap("auto");_gaq.push(["_trackEvent", "DATA-Toolbox", "show/hide map"]);'><img id='img_showhidemenu' src='images/1369841297_Map-Marker-Marker-Inside-Chartreuse.png'  /></li>
+						  	</ul>
+					</div>
+					
+					<!-- menu content-->
+					<div id='menuContent' style='display:block;' class='tabs'>
+						<!--<div style='float:right;'><span class="ui-icon ui-icon-close ui-state-default" style='cursor:pointer' onmouseover='$(this).addClass("ui-state-hover");' onmouseout='$(this).removeClass("ui-state-hover");' onclick='app.main.showHide("menuContent")'></span></div>-->
+
+			  			<!-- intro-->
+			  			<div id='intro'>
+			  				<div id='title'><img src='images/gcc_logo.png' /><h1>Gulf Electronic Scientific Research (GESR)</h1></div><P></P>
+				  			During the third meeting of the technical team responsible for establishing a database for the universities, higher-education institutions, and national research centers, held on 5-6 of July 2005 in Manama, Bahrain, Kuwait Institute for Scientific Research (KISR) was selected to be the hosting party for the GCC database project, which was later on officially named "Gulf Electronic Scientific Research (GESR)".
+							An agreement was reached for GESR to include the following components:
+							Organizations database: containing universities, higher-education institutions, and national research centers.
+							Experts-manpower database: containing academics, researchers, and specialists in academic and research work.
+							Research database: containing research, periodicals, articles, and conferences proceedings.
+							Scientific-equipments database: containing lab equipments used for scientific research.
+				  		</div>
+				  			
+				  			
+				  		<!--search result-->
+				  		<div id='searchResult' class='ui-corner-all'>
+				  			
+				  			<!--library searchResult-->
+				  			<div id='searchResult_library' class='searchResult'>
+				  				<!-- searchResult list-->
+					  			<div id='searchResult_listContent'>
+					  				<div id='searchResult_filter'></div>
+					  				<div id='searchResult_itemList'>
+					  					<div id='searchResult_searchTerm'></div>
+					  					<div id='searchResult_count'></div>
+					  					<div id='searchResult_list'></div>
+					  					<div id='searchResult_pageLink'></div>
+					  				</div>
+					  			</div>
+					  				
+					  			<!-- searchResult detail-->
+					  			<div id='searchResult_ltemDetail' style='display:none'>item detail</div>
+					  			
+					  			<!--advanced Search -->
+					  			<div id='searchResult_advancedSearch' style='display:none'>Advanced Search</div>
+				  			</div> 
+				  			
+				  			
+				  			<!-- geodatabase search Result-->
+				  			<div id='searchResult_geodatabase' class='searchResult tabs'>
+				  				<ul>
+				  					<li><a href="#layer">Layer</a></li>
+				  					<li><a href="#legend">Legend</a></li>
+								    <li><a href="#wikipedia">Wikipedia</a></li>
+								    <!--<li><a href="#dbpedia">DBpedia</a></li>-->
+								    
+								</ul>
+								 
+								<!-- wikipedia-->  
+								<div id='wikipedia'>
+									<iframe id='iframe_wikipedia' class='iframe' width=100%; height=100%:  src=''></iframe>
+								</div>
+								
+								
+								<!-- dbpedia-->  
+								<!--<div id='dbpedia'>
+									<iframe id='iframe_dbpedia' class='iframe' width=100%; height=100%:  src=''></iframe>
+								</div>-->
+								 
+								
+								<!-- layer-->
+								<div id='layer'>
+									<div id='layers' style='height:95%; overflow:auto;'><div id='layersAccordion' style='height:95%;'></div></div>
+								</div>
+								
+								<!-- legend-->
+								<div id='legend'><ul></ul></div>
+				  				
+				  			</div>
+				  			
+				  		</div>
+			  				
+			  			
+			  			<!--
+			  			<ul>
+			  				<li><a href='#layers'>Layers</a></li>
+			  				<li><a href='#legend'>Legend</a></li>
+			  			</ul>
+			  			-->
+			  			
+			  			<!-- layers-->
+			  			<!---->
+			  			
+			  			<!-- legend-->
+			  			<!--<div id='legend' style='overflow:auto; height:95%'><ul style='list-style:none; padding:0px; margin:0px'></ul></div>-->
+			  			
+			  		
+		  			</div>
+				</div>
+				
+				
+				
+				
+				
+				<!-- map-->
+  				<div id="div_map" style=''></div>
+  			</div>
+  			
+  			
+  		</div>
+  	</div>
+  	
+  	
+  	
+
+	
+  	
+  	
+  	
+  	
+  	<!-- context menu-->
+  	<div id='contextmenu' style='display:none;font-size:85%;' class='contextMenu'>
+  		<ul style="margin:5px; padding:0px;">
+  			<li onclick="" style="margin:0px; padding:3px 2px 3px 2px;"><span>Name :</span><label id='contextmenu_name'></label></li>
+  			<li onclick="" style="margin:0px; padding:3px 2px 3px 2px;"><span>Type :</span><label id='contextmenu_servicetype'></label></li>
+  			<li onclick="" style="margin:0px; padding:3px 2px 3px 2px;"><span>Software :</span><label id='contextmenu_software'></label></li>
+  			<li onclick="" style="margin:0px; padding:3px 2px 3px 2px;"><span>Duration :</span><label id='contextmenu_loading'></label></li>
+  			<li onclick="" style="margin:0px; padding:3px 2px 3px 2px;"><span>Average :</span><label id='contextmenu_avgloading'></label></li>
+  			<li onclick="" style="margin:0px; padding:3px 2px 3px 2px;"><hr></li>
+  			<li onclick="" style="margin:0px; padding:3px 2px 3px 2px;"><div id='contextmenu_transparency'>Transparency<br><label style='float:left'>0%</label><label style='float:right'>100%</label><br><div id="slider_transparency"></div></div></li>
+  			<li onclick="" style="margin:0px; padding:3px 2px 3px 2px;"><hr></li>
+  			<li onclick="" style="margin:0px; padding:3px 2px 3px 2px;" id='contextmenu_zoomtoextent'>Zoom To Extent</li>
+  			<li onclick="" style="margin:0px; padding:3px 2px 3px 2px;"><hr></li>
+  			<li onclick="" style="margin:0px; padding:3px 2px 3px 2px;" id='contextmenu_properties'>Properties</li>
+  		</ul>
+  	</div>
+	
+
+	<!-- menuWidget-->
+	<div id='themeWidget' style='display:none'></div>
+    
+    
+    <!-- information dialog-->
+    <div id='infoDialog' style='display:none'></div>
+    
+    
+    
+    <!-- layer properties dialog -->
+    <div id='layerProperties' style='display:none'>
+    	<!-- image -->
+    	<div id='layerProperties_image' style='width:40%; padding:0px; text-align:center'></div>
+    	
+    	<!-- metadata -->
+    	<div id='layerProperties_metadata' style='width:55%'></div>
+    	
+    	<!-- legend -->
+    	<div id='layerProperties_legend' style='width:100%'></div>
+    </div>
+    
+    
+    
+    
+    <!-- attributes-->
+	<div id='attributes' style='overflow:auto; height:95%'>
+		<div id='attributes_features'><ul>Please use the identify funtion to identify a feature on the map first.</ul></div>			  			
+		<div id='attributes_content'></div>
+	</div>
+    
+    
+    <!-- time slider -->
+	<div id='layersliderWidget'>
+		<div style='width:5%; float:left;'>
+			<img id='layerslider_img' src="images/1356526192_sq_next.png" title='autoplay' width=25px; style='cursor:pointer;' onclick="app.main.sliderAutoplay('on','layerslider', 'layerslider_img', app.timeInterval.layerslider.msec)" />
+		</div>
+		<div style='width:90%;; float:left; padding-left:20px;'>
+			<div id='layerslider_label'></div><br>
+			<div id='layerslider'></div>
+		</div>
+	</div>
+    
+    
+
+	
+  </body>
+</html>

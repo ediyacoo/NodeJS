@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>臺北市政府交通局CCTV</name>
+  <description><![CDATA[臺北市政府交通局CCTV]]></description>
+  
+  <Style id="CCTV">
+    <IconStyle>
+	  <Icon>
+		<href>http://www.makoci.com/images/iSDSS/cctv.png</href>
+	  </Icon>
+	</IconStyle>
+  </Style>
+  
+  <Placemark>
+    <name>信義基隆路口東側</name>
+    <Snippet>信義基隆路口東側</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=1"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.55949354171753,25.032970889180912</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>信義松智路口</name>
+    <Snippet>信義松智路口</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=2"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.56540513038635,25.032932005107344</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>信義路-松仁路</name>
+    <Snippet>信義路-松仁路</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=3"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.56832337379455,25.032766747657255</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>松壽松仁路口東側</name>
+    <Snippet>松壽松仁路口東側</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=4"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.56833410263061,25.035809393262674</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>松仁 - 松高1</name>
+    <Snippet>松仁 - 松高1</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=6"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.56844139099121,25.039026933192133</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>忠孝基隆路口北側</name>
+    <Snippet>忠孝基隆路口北側</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=7"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.56443953514099,25.041272356672298</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>仁愛光復路口北側</name>
+    <Snippet>仁愛光復路口北側</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=8"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.55757308006286,25.03774381560381</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>忠孝松山路口東側</name>
+    <Snippet>忠孝松山路口東側</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=9"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.57782912254333,25.040825219343926</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>基隆光復路口西南</name>
+    <Snippet>基隆光復路口西南</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=10"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.55742287635803,25.02974346913942</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>仁愛路四段往西　仁愛路四段敦化南路一段</name>
+    <Snippet>仁愛路四段往西　仁愛路四段敦化南路一段</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=11"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.54968738555908,25.037802139421732</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>敦化南路一段往北　仁愛路四段敦化南路一段</name>
+    <Snippet>敦化南路一段往北　仁愛路四段敦化南路一段</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=12"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.54885053634643,25.037102251776154</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>仁愛路四段往東　仁愛路四段敦化南路一段</name>
+    <Snippet>仁愛路四段往東　仁愛路四段敦化南路一段</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=13"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.54788494110107,25.03778269815216</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>基隆樂業街口</name>
+    <Snippet>基隆樂業街口</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=14"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.55023992061615,25.022340496802066</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>基隆敦化南路口</name>
+    <Snippet>基隆敦化南路口</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=15"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.5487539768219,25.021052343729068</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>基隆路-辛亥路</name>
+    <Snippet>基隆路-辛亥路</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=16"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.54667258262634,25.019185713025962</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>基隆辛亥路匝道口</name>
+    <Snippet>基隆辛亥路匝道口</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=17"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.54167428612709,25.01490791061635</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>羅斯福路四段基隆路口四段(往西)</name>
+    <Snippet>羅斯福路四段基隆路口四段(往西)</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=18"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.53757184743881,25.011735921126533</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>基隆路-羅斯福路</name>
+    <Snippet>基隆路-羅斯福路</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=19"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.53552532196045,25.01066398891447</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>羅斯福路四段基隆路口四段(往東)</name>
+    <Snippet>羅斯福路四段基隆路口四段(往東)</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=20"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.53671622276306,25.010948380005043</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>羅斯福路四段基隆路口四段(往北)</name>
+    <Snippet>羅斯福路四段基隆路口四段(往北)</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=21"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.53732240200043,25.010829276124174</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>羅斯福路四段基隆路口四段(往南)</name>
+    <Snippet>羅斯福路四段基隆路口四段(往南)</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=22"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.5367403626442,25.011536605641034</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>辛亥地下道-汀洲路</name>
+    <Snippet>辛亥地下道-汀洲路</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=23"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.52605175971985,25.02006556072179</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>建國南路-辛亥路</name>
+    <Snippet>建國南路-辛亥路</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=24"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.53689861297607,25.022593264875113</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>水源快道-福和橋</name>
+    <Snippet>水源快道-福和橋</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=25"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.53192579746246,25.008554126753886</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>水源快道-永福橋</name>
+    <Snippet>水源快道-永福橋</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=26"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.52777910232544,25.011281384120217</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>辛亥高架-新生南路</name>
+    <Snippet>辛亥高架-新生南路</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=27"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.53431832790375,25.02251062921618</coordinates>
+    </Point>
+  </Placemark>
+  
+  <Placemark>
+    <name>辛亥地下道-泰順街</name>
+    <Snippet>辛亥地下道-泰順街</Snippet>
+    <description><![CDATA[<iframe height="240" frameborder="0" width="365" scrolling="no" marginheight="0" marginwidth="0" src="http://211.21.33.110:8080/WSN/streetVedio.aspx?sid=28"></iframe>]]></description>
+    <styleUrl>#CCTV</styleUrl>
+    <Point>
+      <coordinates>121.52984708547592,25.020235696288946</coordinates>
+    </Point>
+  </Placemark>
+  
+</Document>
+</kml>

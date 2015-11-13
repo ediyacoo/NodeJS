@@ -1,0 +1,1920 @@
+Record# 1: 
+LDR 01978nam a2200265uu 4500
+001 vtls000004745
+003 GCC
+005 20130514101500.0
+035    \a GCC09305790
+039  9 \a 201305141015 \b yasera \c 201305060855 \d yasera \c 201305060855 \d 
+       yasera \y 200910080932 \z waleed
+040    \a SQU
+100 1  \a Hago, Abdel Wahed.
+245    \a Effect of the Fineness of Artificial Pozzolana (Sarooj) on the Prope
+       rties of Lime-Pozzolana Mixes : \k Article File
+260    \c 2002
+520    \a "Strength development of lime-pozzolana mortars is affected by the f
+       ineness of the pozzolan. This paper examines the effect of the fineness
+        of artofocoal pozzolana on the strength development of lime-pozzolana 
+       mixtures. An artificial pozzolana produced by calcining clays from Oman
+        was used in this study. The artificial pozzolana is locally known as "
+       "Sarooj"", and is currently being used in a big project for the restora
+       tion of historical monuments undertaken by the Omani Ministry of Nation
+       al Heritage and Culture. The artificial pozzolana was ground to various
+        degrees of fineness, blended with hydrated lime with a ration of 3:1, 
+       and the resulting mortar was used to make hardened mortar cubes. Streng
+       th of mortar cubes was measured at ages of 7, 14, 28 and 90 days of cas
+       ting. The experimental results show that good artificial pozzolanas sho
+       w a linear correlation between the Blaine fineness of the artificial po
+       zzolana and the compressive strength, but such relationship does not ex
+       ists for weak type pozzolanas. The fineness of the artificial pozzolana
+        has its most significant effect on delayed strength gain, with more pr
+       onounced effect for good type pozzolan."
+653    \a Pozzolana.
+653    \a Sarooj.
+653    \a Cement.
+653    \a Strength Tests.
+653    \a Chemical Tests.
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.7, Issue 2"
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*6531*6532*6533*6534*7730*
+       7731*9490*9992
+
+Record# 2: 
+LDR 02244nam a2200217uu 4500
+001 vtls000004786
+003 GCC
+005 20091008112000.0
+035    \a GCC09305831
+039  9 \y 200910081120 \z waleed
+040    \a SQU
+100    \a Naso S. Qhraman
+245    \a "Evaluation of Seminal Fluid Parameters, Reproductive Hormones and T
+       esticular Biopsy for non-obstructive Azoospermic Patients with Sertoli 
+       cell only Syndrome" : \k Article File
+260    \c 2006
+520    \a "The aims of this study were (i) to determine the seminal fluid para
+       meters, levels of serum reproductive hormones, testicular size and diam
+       eter of seminiferous tubules depending on multiple testicular biopsies 
+       from non-obstructive azoospermic (NOA) patients, and (ii) to assess the
+        effect of smoking on concentrations of serum reproductive hormones. Th
+       irty four NOA patients were involved in the present study. The selectio
+       n of patients was based on an average of 2 pelleting semonal analysis, 
+       reproductive hormones profile and diagnostic testicular biopsy. A detai
+       led questionnaire was used to obtain a thorough history from the patien
+       ts. The results of this study showed that the mean age of NOA patients 
+       with Sertoli cell only syndrome (SCOS) was 33.875 years, and 47.05% of 
+       NOA patients have had 2-4 years duration of infertility. Macroscopic ex
+       amination of seminal fluid appeared to have normal values as reported b
+       y WHO. Non-significant (P>0.05) difference was observed for testicular 
+       size and diameter of seminiferous tubules between right and left testis
+       . High and abnormal concentrations of serum FSH were registered for NOA
+        patients with SCOS. However, non-significant (P>0.05) differences were
+        reported for concentrations of serum reproductive hormones between smo
+       kers and non smokers. In conclusion, testicular biopsy is the useful an
+       d predictable diagnostic tool for NOA patients with SCOS. Further studi
+       es are needed to explain the etiology, management and prognosis of NOA 
+       patients with SCOS."
+653    \a "Azoospermia, sertoli cell, hormones, testicular biopsy."
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.11, Issue December"
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9991
+
+Record# 3: 
+LDR 02927nam a2200217uu 4500
+001 vtls000004787
+003 GCC
+005 20091008112000.0
+035    \a GCC09305832
+039  9 \y 200910081120 \z waleed
+040    \a SQU
+100    \a Mohammed A. Al-Wosabi
+245    \a Investigation of Facies Types and Associations of Kuhlan Red Bed For
+       mation in NW Yemen: A New Hypothesis for Origin and Depositional Enviro
+       nment : \k Article File
+260    \c 2006
+520    \a "Varieties of thirteen facies types were recognized in the Kuhlan Fo
+       rmation represented by red bed siliciclastic sequences of argillaceous 
+       sediments. Examination of the Kuhlan stratigraphic column included sequ
+       ence relationships, lithology, sedimentary characters, structures and p
+       etrography of the dominant rock types. These facies types are grouped i
+       n three distinct associations of facies. The lower init A comprises ass
+       ociation of facies (Distal turbidites) represented by altenates of turb
+       idity sequences including sandstone, siltstone and thick shale beds. Th
+       ese facies types confirm a regressive depositional environment in deep 
+       marine shelf conditions. There are three facies types which are identif
+       ied as massive sandstone, cross-bedded sndstone and pebbly sandstone fa
+       cies. The middle unit B association of facies (Proximal turbedites) rep
+       resents glaciomarine sequences displaying high latral and vertical faci
+       es changes of glacioturbidite sediment alternates with diamictites and 
+       tillite beds. The sequences are affected by eustatic and eustatism of t
+       he glacial advance and retreat. This unit B includes eight types of fac
+       ies. These are identified as; tillite, massive diamictites, stratified 
+       diamictites, laminated siltstone/shale, deformed siltstone/mudstone, gr
+       aded rhythmic siltstone, massive conglomerate and cross-stratified sand
+       y conglomerate facies. The upper unit C association of facies is repres
+       ented by shallow marine shelf sequences displaying very thick massive a
+       nd locally cross-bedded sand bar sandstone overlying the laminated silt
+       stone/shale interbeds. The upward gradual changes in mineralogical comp
+       osition and color confirms the start of marine transgression and later 
+       deposited platform Amran Group.  Mineralogical composition of Kuhlan sa
+       ndstone displays impure dirty rocks consisting of more than 30% of argi
+       llaceous matrix, 50% of cristobalite and quartz grains, more than 10% o
+       f ferruginous cement and 10% of detrital iron oxide grains, potash feld
+       spar, igneous rock fragments and carbonate cement. It is classified as 
+       quartz greywacke type in the lower and middle parts and as quartz areni
+       te with subarkoses in the upper part."
+653    \a "Kuhlan Formation, siliciclastics, red beds, facies, glacioturbidite
+       s, Diamictites, Yemen."
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.11, Issue December"
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9991
+
+Record# 4: 
+LDR 01492nam a2200217uu 4500
+001 vtls000004690
+003 GCC
+003 SQU
+005 20130509111900.0
+035    \a GCC09305735
+039  9 \a 201305091119 \b yasera \c 201305061340 \d yasera \c 201305061340 \d 
+       yasera \c 200910080916 \d waleed \y 200910080823 \z waleed
+040    \a SQU
+100 1  \a Al Badi, Abdallah Hamed.
+245    \a Evolution of Axial-Field Electrical Machines : \k Article File / \c 
+       "Abdullah Al-Badi.
+260    \c 2000
+520    \a "This paper is a review of axial-field electrical machines, which we
+       re at the origin of the invention of electrical machines such as the fa
+       mous Faraday's disk. The different configurations of the axial-field ma
+       chines are presented along with their advantageous key steady state cha
+       racteristics such as high efficiency and high power to weight ratio. Th
+       e differences between axial-field machines and conventional radial-fiel
+       d machines are discussed. The disc-type axial-f1eld electrical machines
+        with permanent-magnet excitation seem to be among the best designs in 
+       terms of compactness, suitable shape, robustness, and electric characte
+       ristics. Axial-field machines are expected to be used in a large number
+        of applications in the future owing to their special features and dist
+       inct advantages compared to conventional radial-field machines."
+653    \a Axial-Field.
+773    \t SCIENTIFIC RESEARCH
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*9490*9992
+
+Record# 5: 
+LDR 01459nam a2200265uu 4500
+001 vtls000014700
+003 GCC
+005 20091026100500.0
+035    \a GCC09306112
+039  9 \a 200910261005 \b waleed \c 200910251220 \d waleed \y 200910240116 \z 
+       VLOAD
+040    \a SQU
+095    \a IG/ART/GEOG/99/01
+100    \c Salah Abdulla Al Eofei
+245    \a الأطلس الجامعي لسلطنة عمان : \k Research File
+246    \a The Sultanate of Oman University Atlas
+260    \a College of Arts and Social Sciences
+500    \a Three Years
+506    \a Completed
+515    \a 1999
+520    \a "The project is to produce a University Atlas for Oman.  The Atlas w
+       ill include:  physical and socio-economic maps, and related air-photos 
+       and s. images.  Each map will be analysed on the page facing it."
+520    \a "يهدف البحث إصدار أطلس جامعي لسلطنة ع
+       مان ، ويشمل مجموعة من الخرائط الطبيعية 
+       والاقتصادية والاجتماعية ، كذلك يحتوي ع
+       لى الصور الجوية والفضائية ذات العلاقة. 
+        ويتم تصميم وصياغة هذه الخرائط بواسطة ا
+       لأساتذة المشاركين كل حسب تخصصه كذلك سي
+       رافق كل خارطه شرح لمحتواها"
+536    \a Sultan Qaboos University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 6: 
+LDR 01791nam a2200265uu 4500
+001 vtls000015014
+003 GCC
+005 20091026141100.0
+035    \a GCC09306294
+039  9 \a 200910261411 \b waleed \c 200910261346 \d waleed \y 200910240136 \z 
+       VLOAD
+040    \a SQU
+095    \a CL/SQU/UAEU/03/02
+100    \c Norbert Nowotny
+245    \a التوصيف الجزيئي لمجموعة من الفيروسات
+        (الحمآت) التي تصيب الإنسان و الحيوان وع
+       لى الأخص الفيروسات الحديثة الظهور في ا
+       لإمارات العربية المتحدة و سلطنة عُمان :
+        \k Research File
+246    \a Characterization of selected zoonotic and emerging viruses in the UA
+       E and in Oman
+260    \a College of Medicine and Health Sciences
+500    \a Three Years
+506    \a Active
+515    \a 2003
+520    \a "In the UAE and in Oman several important zoonotic and emerging viru
+       s infections are present. Most of the causative viruses have not yet be
+       en characterized molecularly. In this research co-operation we shall fo
+       cus on two important viral infections: Rabies,"
+520    \a ان الطبيعة الجغرافية لسلطنة عمان و ال
+       إمارات العربية المتحدة المجاورة جعل هذ
+       ه المنطقة تشترك بوجود فيروسات تصيب الح
+       يوان أولا ثم الإنسان ثانيا وحتى تلك الف
+       يروسات الحديثة الظهور في منطقة الخليج. 
+       إن ما يتوفر من معلومات عن تلك الفيروسات
+        و عزلاتها  في هذين البلد
+536    \a Sultan Qaboos University & UAE University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 7: 
+LDR 01827nam a2200265uu 4500
+001 vtls000015049
+003 GCC
+005 20091026145900.0
+035    \a GCC09306326
+039  9 \a 200910261459 \b waleed \c 200910261438 \d waleed \y 200910240136 \z 
+       VLOAD
+040    \a SQU
+095    \a IG/ENG/MIED/03/01
+100    \c Amer Al Yahmadi
+245    \a "الاستدلال في الانظمة متعددة العناصر 
+       في ظل عدم موثوقية المعلومات باستخدام ا
+       لمنطق الممغمغ ""تطوير نظام تحكم لاول فر
+       يق كرة قدم عماني مكون من مجموعة من الرب
+       وتات الصغيرة""" : \k Research File
+246    \a handling reasoning under uncertainty in multi - agent systems using 
+       fuzzy logic development of a robot soccer team
+260    \a College of Engineering
+500    \a Three Years
+506    \a Completed
+515    \a 2003
+520    \a "This project will investigate “The use of fuzzy logic for handlin
+       g reasoning under uncertainty in multi-agent systems”. The project wi
+       ll use a standard problem, namely Robot Soccer as a vehicle to study an
+       d test the use of fuzzy logic for handling reasoni"
+520    \a هذا المشروع يقترح دراسة استخدام المن
+       طق الممغمغ للإستدلال وكألية لإتخاذ الق
+       رار في الأنظمة متعددة العناصر  في ظل عد
+       م موثوقية المعلومات. المشروع يقترح اشك
+       الية التحكم في مجموعة من الروبوتات الص
+       غيرة تمثل فريقا لكرة القدم كمحك اختبار 
+       لفكرة استخدام المنطق الممغم
+536    \a Sultan Qaboos University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 8: 
+LDR 01768nam a2200265uu 4500
+001 vtls000015059
+003 GCC
+005 20091027130500.0
+035    \a GCC09306333
+039  9 \a 200910271305 \b waleed \c 200910270919 \d waleed \y 200910240136 \z 
+       VLOAD
+040    \a SQU
+095    \a IG/MED/OPTH/03/01
+100    \c Radha Shenoy
+245    \a تأثير التخدير تحت اللسان على عمل العص
+       ب البصري والنطق للقيام بقياس إمكانية  ا
+       لإثارة البصرية والتصوير المقطعي للشبك
+       ة وقياس سريان الليزر : \k Research File
+246    \a effects of subtenons anesthesia on optic nerve function and morpholo
+       gy as measured by visual evoked potentials (VEP) confocal retinal tomog
+       rpahy and laser doppler flowmetry (HRT/F)
+260    \a College of Medicine and Health Sciences
+500    \a Three Years
+506    \a Completed
+515    \a 2003
+520    \a To study the effect of subtenon’s on the pattern visually evoked p
+       otentials and the nerve fiber layers and optic disks of patients underg
+       oing panretinal photocoagulation for proliferative diabetic retinopathy
+       .Plan of Investigation:100 patients attending o
+520    \a "سيخضع 100 مريض من اللذين لديهم مشاكل ف
+       ى الشبكية والناتجة عن مرض السكرى .. والل
+       ذين لديهم حدة النظر المصححة 0.1  أو افضل 
+       من ذلك ، واللذين يحتاجون الى التخثر الض
+       وئى بالليزر سيخضعونه الى فحوصات تفصيلي
+       ة تضم قياس حدة النظر  - ف"
+536    \a Sultan Qaboos University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 9: 
+LDR 01605nam a2200265uu 4500
+001 vtls000014694
+003 GCC
+005 20091026100400.0
+035    \a GCC09306106
+039  9 \a 200910261004 \b waleed \c 200910251206 \d waleed \y 200910240116 \z 
+       VLOAD
+040    \a SQU
+095    \a IG/AGR/PLNT/99/03
+100    \c Michael Leonard Deadman
+245    \a إستدامة زراعة البيوت المحمية ومكافحة
+        أمراضها بسلطنة عمان : \k Research File
+246    \a Sustainability & the control of diseases in greenhouse crops in Oman
+260    \a College of Agricultural and Marine Sciences
+500    \a Three Years
+506    \a Completed
+515    \a 1999
+520    \a The vegetable sector is one of the principal crop production sectors
+        in the Sultanate.  The Ministry of Agriculture and Fisheries has ident
+       ified the greenhouse vegetable production sector as a priority for expa
+       nsion.  Soil borne diseases represent the sin
+520    \a يعتبر قطاع الخضراوات من أهم قطاعات ال
+       إنتاج الزراعي الرئيسي بالسلطنة. وقد وض
+       عت وزارة الزراعة والثروة السمكية إنتاج
+        الخضراوات في البيوت المحمية في الأولو
+       ية من حيث التوسع. لكن الأمراض الكامنة ب
+       التربة تمثل المعوق الأكبر للإنتاج الحا
+       لي والخطر الاوحد والأكبر لل
+536    \a Sultan Qaboos University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 10: 
+LDR 01769nam a2200265uu 4500
+001 vtls000015204
+003 GCC
+005 20091027134600.0
+035    \a GCC09306432
+039  9 \a 200910271346 \b waleed \c 200910271346 \d waleed \c 200910271102 \d 
+       waleed \y 200910240333 \z VLOAD
+040    \a SQU
+095    \a IG/SCI/PHYS/99/04
+100    \c Azzouz Sellai
+245    \a استقصاء الخسائر والكفاية في الكاشفات
+        غير المتجانسة على غرار شوتكي ومواصلة ا
+       لاستقصاء ليشمل الخلايا الشمسية MS وMIS  ذ
+       ات الملمس الباتر : \k Research File
+246    \a Investigation of Losses and Efficiency in Inhomogeneous Schottky Bas
+       ed Detectors with Extension to Grating Textured MS and MIS solar Cells.
+260    \a College of Science
+500    \a Three Years
+506    \a Completed
+515    \a 1999
+520    \a Continue to develop an understanding of the reasons of efficiency li
+       mitations in Metal/Si and Silicide/Si visible and infrared detectors th
+       rough the modelling of the yield in these detectors Investigating possi
+       ble ways for improving the yield. The ex
+520    \a الاستمرار في صياغة فهم لأسباب كوابح ا
+       لكفاية في مكشاف المعدن SI /السلسايد SI ال
+       ذي يعمل بالإضاءة دون الحمراء والمرئي م
+       ن خلال تشكيل المردود في هذين المكشافين.
+        استقصاء الطرق الممكنة لتحسين المردود 
+       مواصلة هذا الاستقصاء باتجاه حالة الخلا
+       يا الشمسية MSوMIS
+536    \a Sultan Qaboos University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 11: 
+LDR 00921nam a2200253uu 4500
+001 vtls000013673
+003 GCC
+005 20091112130900.0
+035    \a GCC09306954
+039  9 \a 200911121309 \b waleed \c 200911080853 \d waleed \y 200910230313 \z 
+       VLOAD
+040    \a SQU
+100    \c سميره بنت سعيد بن محمد العجيلي
+246    \a Environmental Studies on Man-Made Mountain Reservoirs in The Jabal A
+       khdar Area With Special Referevce to water Quality : \k Thesis File
+260    \c 1997
+500    \c Dr. Riginald Victor
+502    \a College of Science
+502    \a Sultan Qaboos University
+502    \a Oman
+502    \a Muscat
+502    \a MS.c.
+520    \a Environmental Studies on Man-Made Mountain Reservoirs in The Jabal A
+       khdar Area With Special Referevce to water Quality
+949    \t THESIS
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2460*5000*2600*5020*5021*5022*5023*5024*5200*
+       9490*9991
+
+Record# 12: 
+LDR 02523nam a2200301uu 4500
+001 vtls000004498
+003 GCC
+005 20130506144500.0
+035    \a GCC09306038
+039  9 \a 201305061445 \b yasera \c 201305061117 \d yasera \c 201305061116 \d 
+       yasera \y 200910150927 \z waleed
+040    \a SQU
+100 1  \a Al Jabri, Ali Abdallah.
+245    \a How does HIV-1 Infect a Susceptible Human Cell? : Current thinking :
+        \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2003.
+506    \a Review Article
+520    \a "To insure its survival, the human immunodeficiency virus (HIV), the
+        causative agent of acquired immunodeficiency syndrome (AIDS), utilises
+        more than one gate to enter a target cell. This strategy makes it more
+        difficult for the immune system to defeat the virus. This has also mad
+       e it difficult for scientists working in the HIV research to understand
+        how exactly HIV infects a susceptible human cell. Such understanding w
+       ill no doubt open many gates for scientists to vanquish the virus by de
+       signing agents that can block HIV entry into target cells, thus renderi
+       ng the virus vulnerable to immune destruction. This will also help in u
+       nderstanding the replication of the virus and the pathogenesis of the d
+       isease. The present article briefly describes the past and current thin
+       king of how HIV-1 infects a susceptible human cell, and the dilemma sci
+       entists are facing when studying the infectivity of this virus and appl
+       ying current knowledge to design agents that can block HIVs entering ta
+       rget cells. In the context of our own experience with HIV infectivity i
+       n vitro, the present article will also address the behaviour of differe
+       nt HIV isolates, both laboratory-adopted and clinical (primary) isolate
+       s in culture and the difficulties in performing HIV infectivity testing
+       . Moreover, our experience of peripheral blood mononuclear cells� (PBMC
+       s) susceptibility to HIVs infection in vitro is discussed. Key words: H
+       IV, AIDS, infection, immune, virus, susceptible cell"
+653    \a HIV-1, Infect, Susceptible, Human, Cell.
+653    \a Infect.
+653    \a Susceptible.
+653    \a Human Cell.
+710 2  \b Sultan Qaboos University.
+740    \a Sultan Qaboos University Medical Journal.
+773    \t Sultan Qaboos University Medical Journal.
+773    \g Vol.5 Issue 1
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=15
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*6531*6532*6533*7100*5060*5200*6530*
+       7400*7730*7731*8560*9490*9992
+
+Record# 13: 
+LDR 01827nam a2200265uu 4500
+001 vtls000014735
+003 GCC
+005 20091026101000.0
+035    \a GCC09306146
+039  9 \a 200910261010 \b waleed \c 200910251339 \d waleed \y 200910240116 \z 
+       VLOAD
+040    \a SQU
+095    \a IG/MED/BIOC/99/02
+100    \c Said Ali Al- Yahyaee
+245    \a تقدير علامات الأخطار الحيوكيميائية و
+       الجينية لدى مرضى داء السكري غير المعتم
+       د على الانسولين من بين الذين يعانون وغي
+       رهم من لا يعانون من داء القلب التاجي. :
+        \k Research File
+246    \a Assessment of Biochemical & Genetic Risk Markers in Non-insulin Depe
+       ndent Diabetes Mellitus (NIDDM) Patients With & Without Coronary Heart 
+       Disease.
+260    \a College of Medicine and Health Sciences
+500    \a Three Years
+506    \a Completed
+515    \a 1999
+520    \a "Non-insulin dependent diabetes (NIDDM) is a worldwide problem with 
+       high prevalence in some countries especially in Asia.  In Oman NIDDM is
+        a highly prevalent disease and with prevalence increasing with ageing,
+        NIDDM will have a serious impact in morbidity"
+520    \a "إن داء السكري غير المعتمد على الأنسو
+       لين ( N I D D M ) مشكلة عالمية النطاق ، وذات 
+       انتشار واسع في بعض البلدان ، وخاصة في ق
+       ارة آسيا . وفي سلطنة عمان ، نجد أن داء ال
+       سكري غير المعتمد على الانسولين، مرض وا
+       سع الانتشار الى جانب زيادة انتشاره مع ا
+       لتقدم بالسن .   و"
+536    \a Sultan Qaboos University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 14: 
+LDR 01817nam a2200265uu 4500
+001 vtls000014760
+003 GCC
+005 20091026105000.0
+035    \a GCC09306169
+039  9 \a 200910261050 \b waleed \c 200910261016 \d waleed \c 200910261013 \d 
+       waleed \c 200910260843 \d waleed \y 200910240116 \z VLOAD
+040    \a SQU
+095    \a IG/AGR/ANSC/00/01
+100    \c Eugene Harper Johnson
+245    \a " تأثير نقص فيتامين بي 12 في الماعز الع
+       مانية: نسبة إنتشار المرض، الأعراض اض ال
+       سريرية و التحاليل الكيمياء حيوية و الم
+       ناعية للمرض" : \k Research File
+246    \a "Characterization of vitamin B12 deficiency in Omani goats: an epide
+       miological, clinical, serum biochemical and immunological analysis"
+260    \a College of Agricultural and Marine Sciences
+500    \a Three Years
+506    \a Completed
+515    \a 2000
+520    \a Based on recently published findings from our laboratory that hepati
+       c lipidosis is widespread and strongly associated with cobalt (vitamin 
+       B12) deficiency and our field observations that goats with a chronic wa
+       sting disorder respond to ruminal implantatio
+520    \a استناداً إلى الاكتشافات والبحوث الجا
+       رية مؤخراً في مختبراتنا في قسم علوم الح
+       يوان والبيطرة   اتضح أن داء تشمع الكبدLIV
+       ER LIPIDOSES)) واسع الانتشار وله علاقة قوية ب
+       عنصر الكوبالت أو ما يسمى بنقص فيتامين B1
+       2. كما هو واضح من استجابة الحيوانات للعل
+       اج عند إعطائها
+536    \a Sultan Qaboos University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 15: 
+LDR 01776nam a2200265uu 4500
+001 vtls000004741
+003 GCC
+005 20130507133100.0
+035    \a GCC09305786
+039  9 \a 201305071331 \b yasera \y 200910080929 \z waleed
+040    \a SQU
+100 1  \a Farah, Ahcene.
+245    \a Neural-Network-Based fuzzy Logic Navigation Control for Intelligent 
+       Vehicles : \k Article File
+260    \c 2002
+520    \a "This paper proposes a Neural-Network-Based Fuzzy logic system for n
+       avigation control of intelligent vehicles. First, the use of Neural-Net
+       works and Fuzzy Logic to provide intelligent vehicles with more autonom
+       y and intelligence is discussed. Second, the system for the obstacle av
+       oidance behavior is developed. Fuzzy Logic improves Neural Network (NN)
+        obstacle avoidance approach by handling imprecision and rule-based app
+       roximate reasoning. This system must make the vehicle able, after super
+       vised learning, to achieve two tasks; 1- to make one's way towards its 
+       target by a NN, and 2-to avoid static or dynamic obstacle by a Fuzzy NN
+        capturing the behavior of a human expert. Afterwards, two association 
+       phases between each task and the appropriate actions are carried out by
+        Trail and Error learning and their coordination allows to decide the a
+       ppropriate action. Finally, the simulation results display the generati
+       on and adaptation abilities of the system by testing it in new unexplor
+       ed environments.    "
+653    \a Neural Network.
+653    \a Fuzzy Logic.
+653    \a Navigation Control.
+653    \a Intelligent Vehicales.
+700 1  \a Chohra, Amine.
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.7, Issue 1"
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*6531*6532*6533*7000*7730*
+       7731*9490*9992
+
+Record# 16: 
+LDR 01767nam a2200265uu 4500
+001 vtls000014761
+003 GCC
+005 20091026104200.0
+035    \a GCC09306170
+039  9 \a 200910261042 \b waleed \c 200910261016 \d waleed \c 200910261013 \d 
+       waleed \c 200910260843 \d waleed \y 200910240116 \z VLOAD
+040    \a SQU
+095    \a IG/AGR/ANSC/00/02
+100    \c Anandarajah Srikoundakumar
+245    \a تأثير هرمون النمو البقري على إنتاجية 
+       الحليب و الصحة و التناسل في أبقار الحلي
+       ب الدراة في عمان. : \k Research File
+246    \a "Effect of bovine somatotropin (bST) on milk production, health and 
+       reproduction in lactating dairy cows in Oman"
+260    \a College of Agricultural and Marine Sciences
+500    \a Three Years
+506    \a Completed
+515    \a 2000
+520    \a Dairy cows at Sultan Qaboos University Agricultural Experiment Stati
+       on (AES) calve from September through December. This is due to the bree
+       ding policy at AES where the animals are being bred during the cooler m
+       onths of the year from December through March
+520    \a "يــقع مـوسـم الولادات في قـطيع أبقـا
+       ر الحـليـب في محــطة الـتجـارب الـزراع
+       يـة بـجامـعـة الـسـلطان قـابوس بين شهر
+       ي سـبتمـبر وديـسـمبر, نتيجـة لـبرنـامج
+        الـتربيـة المـتبع في المحطـة ، حيث تـل
+       قح الأبقـار خــلال الـشـهور الأقــل در
+       جــة حـرارة بين ديـسـمبر وما"
+536    \a Sultan Qaboos University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 17: 
+LDR 01823nam a2200265uu 4500
+001 vtls000014767
+003 GCC
+005 20091026105000.0
+035    \a GCC09306176
+039  9 \a 200910261050 \b waleed \c 200910261017 \d waleed \c 200910261014 \d 
+       waleed \c 200910260847 \d waleed \y 200910240116 \z VLOAD
+040    \a SQU
+095    \a IG/AGR/FOOD/00/01
+100    \c Stefan Kasapis
+245    \a "تطوير المنتجات السمكية للتصدير و الس
+       وق المحلي: برنامج استراتيجي للطزاجة ، ض
+       بط الجودة ، ميكروبيولوجيا و تصنيع السم
+       ك" : \k Research File
+246    \a "Fish product development for export and the local market: a strateg
+       ic programme of fresheness, quality control, microbiology and processin
+       g of fish"
+260    \a College of Agricultural and Marine Sciences
+500    \a Three Years
+506    \a Completed
+515    \a 2000
+520    \a "The rich and diverse fish stocks of Oman, the main source of wealth
+        after oil, are the most important long-term renewable resources. Howev
+       er, they are not fully utilized. A proportion of the fish harvest is ex
+       ported, but fish quality represents a serious "
+520    \a "يعتبر المخزون السمكي الغني و المتنوع
+        في عمان ، المصدر الرئيسي للثروة بعد ال
+       بترول من أهم الثروات المتجددة طويلة ال
+       أمد.   لكن هذه الثروات لا تستغل بشكل كام
+       ل، فجزء من الأسماك المصادة يصدر إلى الخ
+       ارج لكن جودة الأسماك تشكل مشكلة جدية لل
+       تصدير.  يحدث هذا في الوق"
+536    \a Sultan Qaboos University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 18: 
+LDR 01874nam a2200265uu 4500
+001 vtls000014768
+003 GCC
+005 20091026105000.0
+035    \a GCC09306177
+039  9 \a 200910261050 \b waleed \c 200910261017 \d waleed \c 200910261014 \d 
+       waleed \c 200910260848 \d waleed \y 200910240116 \z VLOAD
+040    \a SQU
+095    \a IG/AGR/FOOD/00/02
+100    \c Shafiur Rahman
+245    \a تغيرات التركيب البنائي للمواد البيول
+       وجية أثناء التجفيف : هيكل تطوير المنتجا
+       ت  : \k Research Fileالسمكية ذات جودة من المواد 
+       الخام الزراعية من سلطنة عمان
+246    \a Structural cahanges of Biological materials during drying: a framewo
+       rk fo developing quality fish products from raw agricultural materials 
+       from Sultanate of Oman
+260    \a College of Agricultural and Marine Sciences
+500    \a Three Years
+506    \a Completed
+515    \a 2000
+520    \a The value of fisheries export is in the next place after oil exports
+       . The current economic vision of diversification of national income has
+        given priority to the development of renewable resources in the agricu
+       lture and fisheries sector by utilization of
+520    \a "تأتي قيمة الصادرات السمكية في المرتب
+       ة التالية بعد صادرات البترول. لقد أعطت 
+       الرؤية الاقتصادية الحالية لتنويع مصاد
+       ر الدخل القومي الأولوية لتطوير الثروة 
+       المتجددة في القطاع الزراعي و السمكي با
+       ستخدام المنتجات السمكية ذات القيمة الت
+       سويقية العالية الجودة ، والآم"
+536    \a Sultan Qaboos University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 19: 
+LDR 01780nam a2200265uu 4500
+001 vtls000014783
+003 GCC
+005 20091027133300.0
+035    \a GCC09306458
+039  9 \a 200910271333 \b waleed \c 200910271126 \d waleed \y 200910240116 \z 
+       VLOAD
+040    \a SQU
+095    \a IG/CCE/OMBS/00/01
+100    \c P Sunil Dharmapala
+245    \a دراسة لعملية تطبيق طرق وأساليب تخصصا
+       ت ادراة العمليات والاحصاء التجاري في ق
+       طاعات الخدمات والتصنيع في سلطنة عمان :
+        \k Research File
+246    \a A survey on the implementation of operations management and business
+        statistics methods in the service and manufacturing organizations of t
+       he Sultanate of Oman
+260    \a College of Commerce and Economics
+500    \a Three Years
+506    \a Completed
+515    \a 2000
+520    \a "Resource allocation issues arise frequently in the academia, often 
+       in the context of an academic unit trying to decide how to disburse fun
+       ds among competing entities. Examples include yearly recruiting, salary
+        adjustments and support of research proposals"
+520    \a مواضيع توزيع الثروة تظهر باستمرار في 
+       المجال الاكاديمي كالوحدات الاكاديمية 
+       التي تحاول ان توزع الاموال بين المؤسسا
+       ت المتنافسة وامثلة تشمل التوظيف السنوي
+        وتعديل الرواتب ودعم طلبات البحث . المش
+       اكل تختلف من حالة لاخرى مثلما تختلف الح
+       لول والهدف هو ايجاد الحلول
+536    \a Sultan Qaboos University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 20: 
+LDR 01789nam a2200265uu 4500
+001 vtls000014786
+003 GCC
+005 20091027130000.0
+035    \a GCC09306461
+039  9 \a 200910271300 \b waleed \c 200910271131 \d waleed \c 200910271121 \d 
+       waleed \c 200910271120 \d waleed \y 200910240124 \z VLOAD
+040    \a SQU
+095    \a IG/EDU/CUTM/00/02
+100    \c Reda Abu-Elwan
+245    \a "فعالية استخدام الآلات الحاسبة البيا
+       نية المتقدمة في تدريس ""حل المعادلات وا
+       لدوال"" لدى معلمي الرياضيات العمانيين ق
+       بل الخدمة." : \k Research File
+246    \a "The effectiveness of graphics calculator in teaching ""functionsand
+        equations"" for Omani prospective teachers"
+260    \a College of Education
+500    \a Three Years
+506    \a Completed
+515    \a 2000
+520    \a 1 – To implement graphics calculator in Omani mathematics curricul
+       um.2 - To improve mathematics teaching skills for prospective mathemati
+       cs teachers.3- To determine the effectiveness of graphics calculators i
+       n developing the           teaching skills of (
+520    \a "تسعى هذه الدراسة الى تضمين الآلات ال
+       حاسبة البيانية المتقدمة في مناهج الريا
+       ضيات العمانية، وكذلك الى تطوير مهارات 
+       تدريس الرياضيات لدى معلمي الرياضيات قب
+       ل الخدمة في تطبيقات تكنولوجيا تعليم ال
+       رياضيات. واعداد مقرر في الآلة الحاسبة ا
+       لبيانية للطلاب الدارسين للري"
+536    \a Sultan Qaboos University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 21: 
+LDR 01817nam a2200265uu 4500
+001 vtls000014807
+003 GCC
+005 20130506123800.0
+035    \a GCC09306482
+039  9 \a 201305061238 \b yasera \c 200910271427 \d waleed \c 200910271354 \d 
+       waleed \y 200910240125 \z VLOAD
+040    \a SQU
+095    \a IG/SCI/BIOL/00/01
+100 1  \c Al Kindi, Yahya Abdel Aziz.
+245    \a الاستجابات الهرمونية والفيزيولوجية 
+       لأنواع من الاسماك العمانية ذات القيمة 
+       التجارية  : \k Research File للبترول الخام ومشت
+       قاته
+246    \a Physiological and endocrine effects of some commercaolly viable fish
+        species in the Sultanate of Oman in response to exposure to the water-
+       soluble fraction (WSF) of Omani crude oil
+260    \a College of Science
+500    \a Three Years
+506    \a Completed
+515    \a 2000
+520    \a This research project involves building a flow-through system for pr
+       oducing WSF of crude oil and a system of exposure of fish to the water-
+       soluble fraction.The project involves the investigation of endocrine re
+       sponses of stress-related hormones (plasma ca
+520    \a "سيتم في هذه الدراسة قياس الهيدروكربو
+       نات البترولية من الجزء الذائب في الماء 
+       من البترول الخام بعد تعريض الأسماك لهذ
+       ا الوسط البترولي المحدث للتسمم كما سيت
+       م الحصول على عينات من الدم وتحليل البلا
+       زما وذلك لدراسة التغيرات الهرمونيه (ال
+       ارنالين، التورأدرنالين ، ال"
+710 2  \a Sultan Qaboos University
+949    \k Research File
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       7100*9490*9992
+
+Record# 22: 
+LDR 01851nam a2200265uu 4500
+001 vtls000014799
+003 GCC
+005 20091027130300.0
+035    \a GCC09306474
+039  9 \a 200910271303 \b waleed \c 200910271140 \d waleed \y 200910240125 \z 
+       VLOAD
+040    \a SQU
+095    \a IG/MED/BIOC/00/03
+100    \c Ali Ihsan Al Bahrani
+245    \a تقييم مؤشرات الخطورة الحيوكيميائيه ا
+       لمفرزه لمرضى تلف شرايين القلب التاجيه 
+       عند العمانيين المصابين بداء السكري الن
+       وع الثاني والمضطرب : \k Research File
+246    \a Assessment of the cardiovascular imdependent risk markers among Oman
+       i patients with non-insulin dependent diabetes mellitus and imparied gl
+       ucose tolerance with established ischaemic heart disease
+260    \a College of Medicine and Health Sciences
+500    \a Three Years
+506    \a Completed
+515    \a 2000
+520    \a "Insulin dependent diabetes mellitus (Type II DM, NIDDM) is a worldw
+       ide health problem with higher prevalence in some areas especially Asia
+       .  In Oman, the prevalence of NIDDM and impaired glucose tolerance (IGT
+       ) is 10% and 15% respectively.Ischaemic heart "
+520    \a يقسم مرض السكري إلى قسمين: النوع الأو
+       ل وهو مرض يمكن علاجه بأخذجرعات من هرمون
+        الإنسولين إذ يكون المصابين به غير قادر
+       ين على إفراز هذا الهرمون ولذلك عرف بالس
+       كري المعتمد على الانسولين . أما النوع ا
+       لثاني فهو ما عرف بإسم السكري غير المعتم
+       د على الإنسولين (NIDDM
+536    \a Sultan Qaboos University
+949    \t RESEARCH
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*0950*2450*1000*2460*2600*5000*5060*5150*5200*5201*
+       5360*9490*9991
+
+Record# 23: 
+LDR 02734nam a2200277uu 4500
+001 vtls000004576
+003 GCC
+005 20091011081800.0
+035    \a GCC09305857
+039  9 \y 200910110818 \z waleed
+040    \a SQU
+100    \a "Y.Z. Al-Attal.
+245    \a Influence of Pollination Technique on Greenhouse Tomato Production :
+        \k Article File
+260    \c 2003
+260    \a Oman
+260    \b Sultan Qaboos University
+506    \a Orginal Study
+520    \a "An experiment was carried out to study the effects of four pollinat
+       ion techniques; Bumblebees (Bombus terrerstris L.), plant growth bioreg
+       ulator (PGB) (Parachlorophenoxy acetic acid), hand vibration, and contr
+       ol (natural pollination) on tomato (Lycopersicon esculentum Mill) produ
+       ction in greenhouses. Bumblebees showed no problem in visiting flowers 
+       at a temperature range of 17-42�C during the day and 2-14�C at night. B
+       umblebee pollinated plants produced a yield per plant which was signifi
+       cantly higher than plants treated with PGB, vibration and the control, 
+       respectively. Fruit set of tomato flowers over 10 clusters was 99.1, 96
+       .7, 76.7, and 65.7% for bumblebee treatment, PGB application, vibration
+        and the control, respectively. In the bumblebee pollinated flowers, th
+       e quality of fruits was superior. The fruits were hard, with more seeds
+       , and had a high specific gravity and better appearance. The average fr
+       uit weight was 100.3, 80.5, 84.1, and 70.6 g for the bumblebee, PGB, vi
+       bration and the control, respectively. The PGB treatment produced bigge
+       r sized but puffy fruits (108.4 ml). While fruit size in the vibration 
+       treatment was the highest (126.8 ml), followed by the bumblebee and the
+        control which were 99.3 and 98.5 ml, respectively. Fruit specific grav
+       ity in the bumblebee treatment was significantly higher than other trea
+       tments, with no significant differences between the PGB and the vibrati
+       on treatments. The least dense fruits were in the control treatment. Re
+       garding the firmness of fruits, the bumblebee treatment gave the hardes
+       t fruits, while the PGB and the vibration treatments were intermediate 
+       and the control was the least. Average seed number per fruit was 177.0,
+        86.5, 61.8, and 89.8 for bumblebee, vibration, PGB and the control, re
+       spectively"
+653    \a "Bumblebees, tomato, pollination, Jordan, plastichouse, greenhouse."
+       
+773    \t Journal of Agricultural and Marine Sciences
+773    \g "Vol.8, Issue 1"
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No1.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-1/jamsy2003v08n01p21-26
+       .pdf
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*2601*2602*5060*5200*6530*7730*7731*
+       8560*8561*9490*9991
+
+Record# 24: 
+LDR 02612nam a2200313uu 4500
+001 vtls000004577
+003 GCC
+005 20130501130000.0
+035    \a GCC09305858
+039  9 \a 201305011300 \b yasera \c 201305011300 \d yasera \y 200910110820 \z 
+       waleed
+040    \a SQU
+100 1  \a Mansee, A. H.
+245    \a Maximizing Toxicity of Certain Insecticides Against Tribolium castan
+       eum (Herbst) : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2003.
+506    \a Orginal Study
+520    \a "Effects of temperature and light exposure on the toxicity of deltam
+       ethrin, chlorpyrifos-methyl, and malathion against Tribolium castaneum 
+       were extensively studied using the residual film method. Results reveal
+       ed that mortality increased proportionally with an increase in temperat
+       ure, where the optimum temperature for the three tested insecticides wa
+       s 30�C. Toxicity of the tested insecticides could be arranged in the fo
+       llowing descending order: chlorpyrifos-methyl >deltamethrin >malathion.
+        Moreover, light exposure obviously enhanced toxicity of the three inve
+       stigated insecticides compared to dark exposure. Piperonyl butoxide (PB
+       ) acted as an oxidase inhibitor, when mixed with each of the three inse
+       cticides, increased the toxicity ratio by about four fold in both dark 
+       and light. Joint toxic effects between deltamethrin and the two tested 
+       OP as esterase inhibitors, showed that mixing chlorpyrifosmethyl with d
+       eltamethrin increased deltamethrin toxicity by 152.7 and 137.12 fold in
+        dark and light, respectively. Finally, deltamethrin + chlorpyrifos-met
+       hyl + PB blend was found to possess maximum efficiency, which increased
+        deltamethrin toxicity by 679.05 fold under exposure to light condition
+       s. Thus, modification of deltamethrin toxicity by increased temperature
+       ; light exposure and detoxification inhibitors maximized its toxicity t
+       o Tribolium castaneum, reduced insecticide rate, and thus reduces both 
+       the environmental stress, and the resistance pressure."
+653    \a Maximizing toxicity.
+653    \a Deltamethrin.
+653    \a Organophosphorus.
+653    \a Tribolium castaneum.
+710 2  \b Sultan Qaboos University.
+740    \a Journal of Agricultural and Marine Sciences.
+773    \t Journal of Agricultural and Marine Sciences.
+773    \g "Vol.8, Issue 1"
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No1.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-1/jamsy2003v08n01p27-34
+       .pdf
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*6531*6532*6533*7100*5060*5200*6530*
+       7400*7730*7731*8560*8561*9490*9992
+
+Record# 25: 
+LDR 02396nam a2200229uu 4500
+001 vtls000004689
+003 GCC
+003 SQU
+005 20130507121800.0
+035    \a GCC09305734
+039  9 \a 201305071218 \b yasera \c 200910080915 \d waleed \c 200910080819 \d 
+       waleed \y 200910080818 \z waleed
+040    \a SQU
+100    \a Ali, Adel Ahmed.
+245    \a Converged Networking: A Review of Concepts and Technologies : \k Art
+       icle File / \c Adel Ahmed Ali and Ahmed M. Al-Naamany
+260    \c 2000
+520    \a "Converged networking is an emerging technology thrust that integrat
+       es voice, video, and data traffic on a single network. Converged networ
+       king encompasses severa!aspects, all of which are relatcd to the aggreg
+       ation of networking activity. Such aspects include, Payload convergence
+       , Protocol convergence, Physical convergence, Device convergence, Appli
+       cation convergence, Technology convergence, etc. In recent years the In
+       ternet has developed into a global data network that is highly accepted
+        as a multimedia information platform, which has the potential to devel
+       op into an alternative carrier network in the future. Several convergen
+       ce scenarios have been recently proposed, ranging from integrating comm
+       unication services and computer application into two separate networks,
+        to building a seamless multimedia network, which converges the Central
+        Office based network and the Internet in a single network, thereby ena
+       bling telecommunications operators and service provider's tremendous in
+       vestment in existing network infrastructure to be� fully utilized. This
+        paper offers introduction and review of the networking technologies. T
+       he paper presents the existing multiple networks into two infrastructur
+       es: an ATM/Frame Relay (Ethernet)-based corporate network with integrat
+       ed voice, video, and data traffic and an Internet-based network forsecu
+       re intranet, extranet and remote access. This work is aimed at summariz
+       ing the internetworking basiccs and technologies which are essential fo
+       r the emerging converged networking systems. The specific areas address
+       ed here are networking basics, networking technologies, types of traffi
+       c, and convergence of computer and cornmunication networks."
+653    \a Converged Networking.
+700    \a Al Naamany, Ahmed M.
+773    \t SCIENTIFIC RESEARCH
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7000*7730*9490*9992
+
+Record# 26: 
+LDR 02317nam a2200229uu 4500
+001 vtls000004706
+003 GCC
+003 SQU
+005 20130506130000.0
+035    \a GCC09305751
+039  9 \a 201305061300 \b yasera \c 200910080921 \d waleed \y 200910080843 \z 
+       waleed
+040    \a SQU
+100 1  \c Al Kindi, Yahya Abdel Aziz.
+245    \a "Plasma Analysis in Normal Green Sea Turtles, chelonia mydas, During
+        two Different Periods of Nesting at Ras Al-Hadd, Sultanate of Oman" :
+        \k Article File
+260    \c 2001
+520    \a "Plasma composition which includes total protein, cholesterol, lacta
+       te, glucose, uric acid, urea, CO2, and electrolytes (Ca++, K+, Na+, Mg+
+       +, PO4-3, Cl-), and plasma osmolarity were analyzed in normal adult nes
+       ting green turtles Chelonia mydas. Blood samples were collected in june
+       -October at the peak of the nesting season and in November-May during t
+       he non-peak period. Plasma electrolytes values, except for PO4-3 and Cl
+       - were significant between the two periods.Values for total proteins an
+       d uric acid were significantly different during the two periods but ure
+       a values were insignificant. Osmolarity was unchanged during the two pe
+       riods. During nesting the sea turtles undergo strenuous and exhaustive 
+       exercise and like other lung breathing reptiles, they ventilate intermi
+       ttently, thus, they rely on anaerobic metabolism during the nesting exe
+       rcise. Plasma concentrations of lactate and CO2 were significant but gl
+       ucose values remained stable and unchanged during the two nesting perio
+       ds. Higher concentrations of total protein during june compared to Octo
+       ber may be related to the type and the availability of diet in the wate
+       rs near the nesting sites.High concentrations of electrolytes and lacta
+       te are perhaps related to more stressful conditions during June because
+        of higher crowding and intense competition for nesting sites. The aim 
+       of this study was to analyze the role of these parameters during nestin
+       g activity to evaluate changes under two different crowding conditions 
+       and gather information for future population health assessments."
+653    \a "Plasma Composition, Osmolarity, Nesting and Sea Turtles."
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.6, Issue 1"
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9992
+
+Record# 27: 
+LDR 01825nam a2200301uu 4500
+001 vtls000004581
+003 GCC
+005 20130505085600.0
+035    \a GCC09305862
+039  9 \a 201305050856 \b yasera \c 201305050856 \d yasera \y 200910111002 \z 
+       waleed
+040    \a SQU
+100 1  \a Omezzine, A.
+245    \a Demand Elasticities of Fresh Fish Commodities: A Case Study : \k Art
+       icle File
+260    \a Muscats : \b Sultan Qaboos University, \c 2005.
+506    \a Case Study
+520    \a "The objective of this paper was to estimate price and income elasti
+       cities of fresh fish commodities using a single equation estimation pro
+       cedure. Demand elasticities consitute relevant market information for p
+       olicy decisions for both the private and the public sectors. Results of
+        a case study from Oman, an Arabian Gulf country, showed that income an
+       d price elasticities were small but positive, indicating that fish dema
+       nd will continue to increase with growing incomes, a driving force for 
+       market development and marketing efficiency. It was argued, however, th
+       at in the long run per capita fish consumption will stabilize but its c
+       omposition will shift toward high value added products, a profitable ma
+       rket segment for Omani fish businesses."
+653    \a Fisheries \z Oman.
+653    \a Marketing \z Oman.
+653    \a Fish consumption \z Oman.
+710 2  \a Sultan Qaboos University.
+740    \a Journal of Agricultural and Marine Sciences.
+773    \t Journal of Agricultural and Marine Sciences.
+773    \g "Vol.8, Issue 2"
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No2.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-2/jamsy2003v08n02p55-61
+       .pdf
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*5060*5200*6530*6531*6532*7100*7400*
+       7730*7731*8560*8561*9490*9992
+
+Record# 28: 
+LDR 02255nam a2200277uu 4500
+001 vtls000004590
+003 GCC
+005 20091011095500.0
+035    \a GCC09305
+039  9 \a 200910110955 \b waleed \y 200910110954 \z waleed
+040    \a SQU
+100    \a M. Al-Rashed
+245    \a "Assessment of Groundwater Salinization and Soil Degradation in Abda
+       lly Farms, Kuwait" : \k Article File
+260    \c 2004
+260    \a Oman
+260    \b Sultan Qaboos University
+506    \a Orginal Study
+520    \a "Kuwait is a part of the arid and semi arid region, where irrigation
+        is necessary for any realistic agricultural activities. There are no s
+       urface fresh water resources in Kuwait. Fresh water is provided from de
+       salination of seawater. However, this water is used mainly for potable 
+       purposes. A total of 100,000 cubic meters of brackish groundwater is an
+       nually produced from the Kuwait Group and Dammam Formation aquifers. Th
+       is water is mainly used for mixing at 5�10% with distilled water and fo
+       r irrigation of specific crops. The aim of this study was to assess the
+        impact of brackish groundwater irrigation on groundwater and soil. A t
+       otal of 161 water and soil samples from 25 selected farms were collecte
+       d and analyzed for chemical and physical parameters. It was concluded t
+       hat soil salinity was directly proportional to that of groundwater and 
+       a high increase in soil salinity was recognized since the establishment
+        of the farms in Abdally. That was mainly related to the mismanagement 
+       of groundwater resources, which causes soil degradation in addition to 
+       the losses and inefficiency in water usage. It is recommended to use te
+       rtiary treated wastewater for irrigation activities in order to have a 
+       wider range of crops to be grown and to prevent the deterioration in bo
+       th soil and groundwater resources."
+653    \a "Arid, irrigation, aquifers, wastewater."
+773    \t Journal of Agricultural and Marine Sciences
+773    \g "Vol.9, Issue 1"
+856    \u http://www.squ.edu.om/jams/articles/content-vol9-no1.html
+856    \a http://www.squ.edu.om/jams/articles/volume-9-1/jamsy2004v09n01p17-19
+       .pdf
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*2601*2602*5060*5200*6530*7730*7731*
+       8560*8561*9490*9991
+
+Record# 29: 
+LDR 02599nam a2200229uu 4500
+001 vtls000004722
+003 GCC
+003 SQU
+005 20091008092500.0
+035    \a GCC09305767
+039  9 \a 200910080925 \b waleed \y 200910080855 \z waleed
+040    \a SQU
+100    \a Hussein T. Mouftah
+245    \a Design of all Optical Packet Switching Networks : \k Article File
+260    \c 2002
+520    \a "Optical switches and wavelength converters are recognized as two of
+        the most important DWDM system components in future all-optical networ
+       ks. Optical switches perform the key functions of flexible routing, rec
+       onfigurable optical cross-connect (OXC), network protection and restora
+       tion, etc. in optical networks. Wavelength converters are used to shift
+        one incoming wavelength to another outgoing wavelength when this needs
+        to be done. Always residing in optical switches, they can effectively 
+       alleviate the blocking probability and help solve contention happening 
+       at the output port of switches. The deployment of wavelength converters
+        within optical switches provides robust routing, switching and network
+        management in optical layer, which is critical to the emerging all-opt
+       ical Internet. However, the high cost of wavelength converters at curre
+       nt stage of manufacturing technology has to be taken into consideration
+        when we design node architectures for an optical network. Our research
+        explores the efficiency of wavelength converters in a long-haul optica
+       l network at different degrees of traffic load by running a simulation.
+        Then, we propose a new cost effective way to optimally design waveleng
+       th-convertible switch so as to achieve higher network performance while
+        still keeping the total network cost down. Meanwhile, the routing and 
+       wavelength assignment (RWA) algorithm used in the research is designed 
+       to be a generic one for both large-scale and small-scale traffic. Remov
+       ing the constraint on the traffic load makes the RWA more adaptive and 
+       robust. When this new RWA works in conjunction with a newly introduced 
+       concept of wavelength-convertible switches, we shall explore the impact
+        of large scale traffic on the role of wavelength converter so as to de
+       termine the method towards optimal use of wavelength convertible switch
+       es for all-optical networks.    "
+653    \a "All Optical Networks, Packet Switching, Wavelength Division Multipl
+       exing, Wavelength Converters, Routing and Wavelength Assignment "
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.7, Issue 1"
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0031*0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9991
+
+Record# 30: 
+LDR 01444nam a2200217uu 4500
+001 vtls000004742
+003 GCC
+005 20091008093000.0
+035    \a GCC09305787
+039  9 \y 200910080930 \z waleed
+040    \a SQU
+100    \a Hamed S. Al Maghderi and Bruce Ramsay
+245    \a Deregulation of Electricity Supply Industry in Oman : \k Article Fil
+       e
+260    \c 2002
+520    \a "This paper examines the opportunities available and the conditions 
+       needed for the deregulation of the Electricity Supply Industry (ESI), w
+       ith particular reference to the Sultanate of Oman. The paper highlights
+        the general issues of regulation required to encourage competition in 
+       the ESI. After that, the discussion focuses on regulation methods in th
+       e privatized ESI by describing the regulators control through price cap
+       s setting for regulates, the conduct regulation process, the rate of re
+       turn regulation setting, and the spot market (the pool) contract. Final
+       ly, the prospects of restructuring and privatizing the ESI in the Sulta
+       nate of Oman are examined by reviewing the current structure of the ind
+       ustry and government objectives in deregulation of the electricity sect
+       or as well as the regulation framework.  "
+653    \a "Electricity deregulation, Competition"
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.7, Issue 1"
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9991
+
+Record# 31: 
+LDR 01365nam a2200217uu 4500
+001 vtls000004744
+003 GCC
+005 20091008093100.0
+035    \a GCC09305789
+039  9 \y 200910080931 \z waleed
+040    \a SQU
+100    \a Muhammed S. Khan
+245    \a Derivatized Pentadentate Macrocyclic Ligands and Their Transition Me
+       tal Complexes : \k Article File
+260    \c 2002
+520    \a "The reaction of the pendant hydroxyethyl group in the planar pentad
+       entate macrocyclic ligand,1,11-bis(2'-hydroxyethy1)-4,8;12,16;17,21-tri
+       nitrilo-1,2,10,11-tetraazacyclohenicosa- 2,4,6,9,12,14,18,20-octaene (L
+       2), derived from the condensation of 2,6-pyridinedialdehyde with 6,6'-b
+       is(2'-hydroxyethylhydrazino)-2,2'-bipyridine (L1), has been investigate
+       d. Esterification reactions are facile, and the reaction of the hydroxy
+       eth1-substituted macrocycle with thiony1 chloride yields a chloroethy1 
+       derivative. Metal complexes of the new derivatized macrocyclic ligands 
+       L3-6 having general formula ML3-6X2.nH2O (M = Mn, Fe, Co, Ni,Cu, Zn) ar
+       e readily prepared."
+653    \a "Macrocyclic Ligands, Coordination Complexes, Transition Metals, Est
+       erification, Functional Group Interconversion."
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.7, Issue 2"
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9991
+
+Record# 32: 
+LDR 01687nam a2200217uu 4500
+001 vtls000004746
+003 GCC
+005 20091008100600.0
+035    \a GCC09305791
+039  9 \y 200910081006 \z waleed
+040    \a SQU
+100    \a M.H. Basyoni
+245    \a "Mineralogy of the Tertiary Clay Deposits in Makkah and Rabigh Quadr
+       angles, West Central Arabian Shield, Saudi Arabia" : \k Article File
+260    \c 2002
+520    \a "The mineralogy of the Tertiary clay deposits in Makkah and Rabigh q
+       uadrangles was thoroughly investigated by X-ray diffraction and differe
+       ntial thermal and thermogravimetric analyses in addition to other techn
+       iques. Results show that the investigated samples are predominantly com
+       posed of montmorillonite (Ca++ and/or Mg++ rich variety) and kaolinite,
+        associated with subordinate illite and minor chlorite. Mixed layer mon
+       tmorillonite-illite is recorded only in two samples. The relative abund
+       ance of these minerals by X-ray diffraction analysis showed that the st
+       udied clay deposits are of three types. The first, which is the most co
+       mmon, is highly montmorillonitic, the second is made up of a mixture of
+        montmorillonite followed by kaolinite and illite and the third is high
+       ly kaolinitic with some montmorillonite. Generally, kaolinite shows a s
+       outhward increase in Makkah quadrangle while chlorite, as a minor compo
+       nent, shows a northward increase in Rabigh quadrangle."
+653    \a "Mineralogy, Clay Deposits, Kaolinite, Montmorillonite-Illite and Ma
+       kkah Quadrangle."
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.7, Issue 2"
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9991
+
+Record# 33: 
+LDR 02020nam a2200325uu 4500
+001 vtls000004579
+003 GCC
+005 20130505091000.0
+035    \a GCC009305860
+039  9 \a 201305050910 \b yasera \c 201305050909 \d yasera \y 200910110959 \z 
+       waleed
+040    \a SQU
+100 1  \a Al Busaidi, A. S.
+245    \a Salinity-pH Relationships in Calcareous Soils : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2003.
+260 2  \b Sultan Qaboos University.
+506    \a Orginal Study
+520    \a "Soil pH is the most commonly requested analysis undertaken during f
+       arm advisory work. Determination of pH assists in understanding many re
+       actions that occur in soil. Variations in pH between soils have been re
+       lated to a number of other soil parameters. In this study thirty differ
+       ent soils were collected from agricultural areas to have a wide range o
+       f pH, salinity, and texture. The objective was to study the relationshi
+       p between soil pH and salinity. A negative relationship was found betwe
+       en soil salinity and pH. The main factor contributing to this relations
+       hip was probably the presence of soluble Ca2+ ion in soil. Variations i
+       n soluble Ca2+ ion concentrations between soils were negatively related
+        to soil pH and positively related to soil salinity. Other soil propert
+       ies that may affect pH, including CEC, CaCO3, clay content, gypsum and 
+       sodium adsorption ratio (SAR), were also determined."
+653    \a Electrical Conductivity.
+653    \a Sodicity.
+653    \a PH.
+653    \a Alkaline soil.
+653    \a CaCO3.
+740    \a Journal of Agricultural and Marine Sciences.
+773    \t Journal of Agricultural and Marine Sciences.
+773    \g "Vol.8, Issue 1"
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No1.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-1/jamsy2003v08n01p41-46
+       .pdf
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*2601*5060*5200*6530*6531*6532*6533*
+       6534*7400*7730*7731*8560*8561*9490*9992
+
+Record# 34: 
+LDR 01725nam a2200277uu 4500
+001 vtls000004580
+003 GCC
+005 20091011100100.0
+035    \a GCC09305861
+039  9 \y 200910111001 \z waleed
+040    \a SQU
+100    \a Y. Aldryhim
+245    \a Effect of Irrigation on Within-Grove Distribution of Red Palm Weevil
+        Rhynchophorous ferrugineus : \k Article File
+260    \c 2003
+260    \a Oman
+260    \b Sultan Qaboos University
+506    \a Orginal Study
+520    \a The red palm weevil (RPW) Rhynchophorous ferrugineus (Oliv.) is the 
+       most important pest attacking date palm trees. The objective of this st
+       udy was to determine the effect of drip and flood irrigation on the wit
+       hin-grove distribution of RPW. The current study was started with the f
+       irst appearance of the infestation to almost disappearance of the infes
+       tation. Results showed that more infested trees were detected in plots 
+       with flood irrigation. The number of infested trees in these plots repr
+       esented 89% of the total infested trees. This study suggested that irri
+       gation management and soil moisture are key factors in the dispersion o
+       f the RPW infestation and could be used as one of the integrated pest m
+       anagement tools.
+653    \a "Red palm weevil, integrated pest management, irrigation, soil moist
+       ure, infestation control."
+773    \t Journal of Agricultural and Marine Sciences
+773    \g "Vol.8, Issue 1"
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No1.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-1/jamsy2003v08n01p47-49
+       .pdf
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*2601*2602*5060*5200*6530*7730*7731*
+       8560*8561*9490*9991
+
+Record# 35: 
+LDR 03383nam a2200301uu 4500
+001 vtls000004582
+003 GCC
+005 20130505102700.0
+035    \a GCC09305863
+039  9 \a 201305051027 \b yasera \c 201305051025 \d yasera \y 200910111021 \z 
+       waleed
+040    \a SQU
+100 1  \a Srikandakumar, A.
+245    \a Anatomy and Histology of the Female Reproductive Tract of Arabian Ca
+       mel : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2003.
+506    \a Orginal Study
+520    \a "To exploit the recent advances in techniques such as super ovulatio
+       n and embryo transfer a sound understanding of the reproductive biology
+        of the camel is essential. One hundred and twenty normal non-pregnant 
+       and eight pregnant female camel reproductive tracts from the abattoir w
+       ere examined. All the histological slides were stained with H & E. The 
+       camel�s uterus was shaped more like the letter T than the classical Y s
+       haped bipartite uterus seen in other ruminants. The left horn was signi
+       ficantly (p < 0.05) longer (77.75 mm � 5.58: mean � sem) than the right
+        horn (59.37 mm � 2.95). The length of the uterine body was 67.56 mm � 
+       5.68. In all eight early pregnant tracts, the fetuses were exclusively 
+       implanted in the left uterine horn. The cervix was very short (3.62 mm 
+       � 1.32) with 4 to 5 rows of outgrowth ridges and the vagina was relativ
+       ely long (322.6 mm � 4.21). The endometrial lining consisted of a singl
+       e layer of columnar epithelium supported by a broad, highly cellular co
+       nnective tissue stroma with simple tubular glands. A thick layer of myo
+       metrium surrounded the endometrial tissue. The oviducts were 140 to 300
+        mm long, larger at the uterine end and opened into the uterine horn wi
+       th distinct circular papilla like projections. The oviductal epithelium
+        consisted of a single layer of ciliated and non-ciliated columnar cell
+       s. The camel is a seasonally polyestrus induced type of ovulating anima
+       l. Decreasing length of daylight appears to be the stimulus for seasona
+       lity in camels. This can account for the various ovarian structures tha
+       t were seen in the ovaries, which were collected during the shorter day
+        length months of November and December. The ovaries were flattened, lo
+       bulated and each ovary was enclosed in an ovarian bursa. In the mature 
+       follicles, the inner avascular zona granulosa layer was made up of seve
+       ral layers of cells and was surrounded by a vascular thecal layer of ce
+       lls. The histological appearances of atretic follicles varied enormousl
+       y. Large follicles (> 10mm) and small follicles (5-10 mm) were seen in 
+       96% of the ovaries examined. The Graafian follicles were 13.55 mm � 2.7
+       4 and the corpora lutea were 8.92 mm � 0.54 in diameter. In contrast to
+        previous anatomical studies, we have found that the camel clearly has 
+       a bipartite uterus."
+653    \a Productive biology.
+653    \a Super ovulation.
+653    \a Embryo transfer.
+710 2  \b Sultan Qaboos University.
+740    \a Journal of Agricultural and Marine Sciences.
+773    \t Journal of Agricultural and Marine Sciences.
+773    \g "Vol.8, Issue 2"
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No2.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-2/jamsy2003v08n02p63-66
+       .pdf
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*5060*5200*6530*6531*6532*7100*7400*
+       7730*7731*8560*8561*9490*9992
+
+Record# 36: 
+LDR 00711nam a2200217uu 4500
+001 vtls000004747
+003 GCC
+005 20130506115800.0
+035    \a GCC09305792
+039  9 \a 201305061158 \b yasera \c 201305061157 \d yasera \c 200910081007 \d 
+       waleed \y 200910081006 \z waleed
+040    \a SQU
+100 1  \a Mohamad, Abdel M.
+245    \a Metrization of Weakly Developable Spaces : \k Article File
+260    \c 2002
+520    \a "In this note, we present metrization of weak developability."
+653    \a "Weakly Developable, Metrizable, Weak Base."
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.7, Issue 2"
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9992
+
+Record# 37: 
+LDR 01427nam a2200217uu 4500
+001 vtls000004748
+003 GCC
+005 20091008100700.0
+035    \a GCC09305793
+039  9 \y 200910081007 \z waleed
+040    \a SQU
+100    \a E. A. Hamza
+245    \a A Fluid Film Squeezed Between Two Parallel Plane Surfaces Subject to
+        Normal Oscillations : \k Article File
+260    \c 2002
+520    \a "We study the motion which results when a fluid film is squeezed bet
+       ween two parallel surfaces in relative motion. Particular attention is 
+       given to the special case where one surface is fixed and the other is i
+       mpulsively accelerated from a state of rest to a state of sinusoidal os
+       cillations in a direction normal to its plane. In addition to the prese
+       ntation of analytic solutions which are based on the regular perturbati
+       on technique and on the linearised analysis of the resulting nonlinear 
+       partial differential equation, a numerical solution of the full nonline
+       ar equation based on a finite-difference scheme is obtained. The effect
+       s of the sinusoidal motion on the velocity profiles and on the normal f
+       orces which the fluid exerts on the surfaces are investigated."
+653    \a "Squeezed film, Impulsive acceleration, Normal oscillations."
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.7, Issue 2"
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9991
+
+Record# 38: 
+LDR 01426nam a2200229uu 4500
+001 vtls000004749
+003 GCC
+005 20130507132100.0
+035    \a GCC09305794
+039  9 \a 201305071321 \b yasera \y 200910081008 \z waleed
+040    \a SQU
+100 1  \a Wasike, Adu A.M.
+245    \a Periodic Solutions of a System of Delay Differential Equations for a
+        Small Delay : \k Article File
+260    \c 2002
+520    \a "We prove the existence of an asymptotically stable periodic solutio
+       n of a system of delay differential equations with a small time delay r
+        > 0. To achieve this, we transform the system of equations into a syst
+       em of perturbed ordinary differential equations and then use pertubatio
+       n results to show the existence of an asymptotically stable periodic so
+       lution. This approach is contingent on the fact that the system of equa
+       tions with r = 0 has a stable limit cycle. We also provide a comparativ
+       e study of the solutions of the original system and the perturbed syste
+       m. This comparison lays the ground for proving the existence of periodi
+       c solutions of the original system by Schauder's fixed point theorem."
+653    \a "Periodic Solutions, Delay Differential Equations, schauder's Fixed 
+       Point Theorem."
+700 1  \a Ogana, Wandera.
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.7, Issue 2"
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7000*7730*7731*9490*9992
+
+Record# 39: 
+LDR 01635nam a2200217uu 4500
+001 vtls000004750
+003 GCC
+005 20091008100900.0
+035    \a GCC09305795
+039  9 \y 200910081009 \z waleed
+040    \a SQU
+100    \a T.D. Veal
+245    \a Surface Preparation of InAs (110) Using Atomic Hydrogen : \k Article
+        File
+260    \c 2002
+520    \a "Atomic hydrogen cleaning has been used to produce structurally and 
+       electronically damage-free InAs (110) surfaces. X-ray photoelectron spe
+       ctroscopy (XPS) was used to obtain chemical composition and chemical st
+       ate information about the surface, before and after the removal of the 
+       atmospheric contamination. Low energy electron diffraction (LEED) and h
+       igh-resolution electron-energy-loss spectroscopy (HREELS) were also use
+       d, respectively, to determine the surface reconstruction and degree of 
+       surface ordering, and to probe the adsorbed contaminant vibrational mod
+       es and the collective excitations of the clean surface. Clean, ordered 
+       and stoichiometric InAs(110)-(1X1) surfaces were obtained by exposure t
+       o thermally generated atomic hydrogen at a substrate temperature as low
+        as 400�C. Semi-classical dielectric theory analysis of HREEL spectra o
+       f the phonon and plasmon excitations of the clean surface indicate the 
+       no electronic damage or dopant passivation were indues by the surface p
+       reparation method."
+653    \a "InAs (110), Hydrogen Cleaning, Plasmon Excitations, HREEL, XPS"
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.7, Issue 2"
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9991
+
+Record# 40: 
+LDR 01531nam a2200217uu 4500
+001 vtls000004751
+003 GCC
+005 20091008101000.0
+035    \a GCC09305796
+039  9 \y 200910081010 \z waleed
+040    \a SQU
+100    \a Hani M. Samawi
+245    \a Regression Estimator Using Double Ranked Set Sampling : \k Article F
+       ile
+260    \c 2002
+520    \a "The performance of a regression estimator based on the double ranke
+       d set sample (DRSS) scheme, introduced by Al-Saleh and Al-Kadiri (2000)
+       , is investigated when the mean of the auxiliary variable X is unknown.
+        Our primary analysis and simulation indicates that using the DRSS regr
+       ession estimator for estimating the population mean substantially incre
+       ases relative efficiency compared to using regression estimator based o
+       n simple rendom sampling (SRS) or ranked set sampling (RSS) (Yu and Lam
+       , 1977) regression estimator. Moreover, the regression estimator using 
+       DRSS is also more efficient than the naive estimators of the population
+        mean using SRS, RSS (when the correlation confficient is at least 0.4)
+        and DRSS for high correlation coefficient (at least 0.91.) The theory 
+       is illustrated is illustrated using a real data set of trees."
+653    \a Double Extreme Ranked Set Sample; Double Ranked Set sample; Extreme 
+       Ranked Set Sample; Ranked Set Sample; Regression Estimator.
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.7, Issue 2"
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9991
+
+Record# 41: 
+LDR 00616nam a2200217uu 4500
+001 vtls000004752
+003 GCC
+005 20091008101200.0
+035    \a GCC09305797
+039  9 \y 200910081012 \z waleed
+040    \a SQU
+100    \a Michael Kamau Gachii
+245    \a Deletion Designs : \k Article File
+260    \c 2002
+520    \a _
+653    \a "Asymmetrical Factorial Designs, Generalised Cyclic Designs. Loss of
+        Information."
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.7, Issue 2"
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9991
+
+Record# 42: 
+LDR 02630nam a2200313uu 4500
+001 vtls000004583
+003 GCC
+005 20130505095000.0
+035    \a GCC09305864
+039  9 \a 201305050950 \b yasera \c 201305050949 \d yasera \y 200910111028 \z 
+       waleed
+040    \a SQU
+100 1  \a Hussein, A. S.
+245    \a Effect of Enzyme Supplementation and Diets Containing Date Pits on G
+       rowth and Feed Utilization of Broiler Chickens : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2003.
+506    \a Orginal Study
+520    \a "Trials were conducted to investigate the influence of enzyme supple
+       mentation on the performance of broiler chickens that were fed diets co
+       ntaining varying levels of date pits. A 3 x 2 factorial design arrangem
+       ent of treatments was used consisting of three diet types (control, 10%
+        uncooked date pits or 10% cooked date pits) and two enzyme levels (0 o
+       r 0.1%). The six diets were fed to three groups of commercial Hubbard b
+       roiler chicks (9 chicks per group) for four weeks. Body weight gains of
+        broiler chicks receiving diets containing 10% uncooked date pits were 
+       significantly (P<0.05) increased compared to birds fed the control. The
+        addition of enzyme to diets did not significantly affect broiler perfo
+       rmance parameters. In another experiment, three groups of nine birds ea
+       ch were randomly assigned to each of eight dietary treatments. A 4 x 2 
+       factorial design arrangement of treatments was used (during the starter
+        and finishing period) consisting of four levels of uncooked date pits 
+       (0, 10, 15, and 20%) and two enzyme levels (0 or 0.1%). The results sho
+       wed that dietary date pits did not affect body weight gain, feed intake
+        or feed conversion ratio during the starter and finishing periods. Add
+       ing 0.1% enzyme to the starter diets significantly (p<0.05) increased b
+       ody weight gain, but did not affect feed intake and feed conversion rat
+       io. These experiments showed that adding date pits with or without enzy
+       me to the broiler diets had no effect on broiler performance."
+653    \a Date pits.
+653    \a Enzymes.
+653    \a Growth performance.
+653    \a Broilers.
+710 2  \a Sultan Qaboos University.
+740    \a Journal of Agricultural and Marine Sciences.
+773    \t Journal of Agricultural and Marine Sciences.
+773    \g "Vol.8, Issue 2"
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No2.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-2/jamsy2003v08n02p67-71
+       .pdf
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*6531*6532*6533*7100*5060*5200*6530*
+       7400*7730*7731*8560*8561*9490*9992
+
+Record# 43: 
+LDR 01904nam a2200277uu 4500
+001 vtls000004586
+003 GCC
+005 20091011104600.0
+035    \a GCC09305867
+039  9 \y 200910111046 \z waleed
+040    \a SQU
+100    \a Y. Aldhryhim
+245    \a Effect of Humidity and Soil Type on Survival and Behavior of Red Pal
+       m Weevil Rhynchophorus furrigineus (Oliv.) Adults : \k Article File
+260    \c 2003
+260    \a Oman
+260    \b Sultan Qaboos University
+506    \a Orginal Study
+520    \a "Experiments were conducted to study the effect of humidity and soil
+        type on the survival and behavior of red palm weevil (RPW) Rhynchophor
+       us ferrugineus (Oliv .) adults. Adult survival was highly influenced by
+        the surrounding moisture content. It was 2.5, 39.5 and 23.5 days when 
+       kept in dry peat moss, moist peat moss and tap water, respectively. Tot
+       al body water loss was 55.7 and 54.9% for females and males, respective
+       ly. Most water loss occurred in the first two days. Virgin adults were 
+       able to mate in water with 50% of tested females mating successfully. A
+       dults were able to use moist soil as temporary harborage and penetrated
+        through different moist soils. The depth of penetration was 12.6, 5.1 
+       and 6.4 cm in moist peat moss, moist sand and moist loam soils, respect
+       ively. Adults were able to perceive soil humidity at different depths a
+       nd were able to detect moist peat moss at a depth of up to 22 cm."
+653    \a "Rhynchophorus, palm trees, humidity, survival, behavior."
+773    \t Journal of Agricultural and Marine Sciences
+773    \g "Vol.8, Issue 2"
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No2.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-2/jamsy2003v08n02p87-90
+       .pdf
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*2601*2602*5060*5200*6530*7730*7731*
+       8560*8561*9490*9991
+
+Record# 44: 
+LDR 02818nam a2200313uu 4500
+001 vtls000004584
+003 GCC
+005 20130501124800.0
+035    \a GCC09305865
+039  9 \a 201305011248 \b yasera \c 201305011246 \d yasera \c 200910111044 \d 
+       waleed \y 200910111034 \z waleed
+040    \a SQU
+100 1  \a Sobrinho, A. G. Silva.
+245    \a Effect of Genotypes and Age on Carcass and Meat Quality Characterist
+       ics of Ram Lambs : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2003.
+506    \a Orginal Study
+520    \a "The objectives of this study were to evaluate the composition and m
+       eat quality characteristics of carcasses from ram lams born to Romney e
+       wes sired by Romney, East Friesian X (Finn X Texel) and Finn X Dorset r
+       ams slaughtered at 150 or 300 days of age. Complete dissections of one 
+       leg from each carcass into muscle, fat and bone components were evaluat
+       ed. Weight-adjusted carcass weight and length were greater (P<0.05) for
+        lambs sired by East Friesian X (Finn X Texel) and Finn X Dorset rams w
+       ith no differences in dressing-out percent. At a constant carcass weigh
+       t, there was no difference in carcass fatness (fat depth and leg dissec
+       tible fat) between lambs sired by East Friesian X (Finn X Texel), and F
+       inn X Dorset rams. Meat yield and muscle: bone ratio at a constant weig
+       ht tended to be greater in lambs sired by Finn X Dorset and to a lesser
+        extent in those sired by East Friesian X (Finn X Texel). Leg musculari
+       ty in the femur region was significantly lower (P<0.05) in lambs sired 
+       by Finn X Dorset rams than those sired by Romney or East Friesian X (Fi
+       nn X Texel) rams. Lambs slaughtered at 300 days had heavier (P<0.001) s
+       laughter and carcass weights and higher (P<0.05) dressing-out percent. 
+       Shear force value was significantly lower (P<0.05) for muscles from lam
+       bs sired by Romney than those sired by other genotypes. The results of 
+       the present study indicated that lambs sired by Friesian X (Finn X Texe
+       l) and Finn X Dorset rams had less fat and more muscle to bone ratios t
+       han those sired by Romney, while lambs slaughtered at 150 days of age w
+       ere fatter and had shorter carcasses than those slaughtered at 300 days
+        of age at the same carcass weight."
+653    \a Carcass composition.
+653    \a Meat quality.
+653    \a Lambs.
+653    \a Genotypes.
+710 2  \b Sultan Qaboos University.
+740    \a Journal of Agricultural and Marine Sciences
+773    \t Journal of Agricultural and Marine Sciences
+773    \g "Vol.8, Issue 2"
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No2.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-2/jamsy2003v08n02p73-78
+       .pdf
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*5060*5200*6530*6531*6532*6533*7100*
+       7400*7730*7731*8560*8561*9490*9992
+
+Record# 45: 
+LDR 02118nam a2200217uu 4500
+001 vtls000004753
+003 GCC
+005 20130509115100.0
+035    \a GCC09305798
+039  9 \a 201305091151 \b yasera \c 201305010922 \d yasera \y 200910081012 \z 
+       waleed
+040    \a SQU
+100 1  \a Al Banna, A. A
+245    \a Effect of Cold and Hot Temperature on Behavioral and Selected Physio
+       logical Measures of Uromastyx aegyptius(Agamidae) : \k Article File
+260    \c 2003
+520    \a "The behavioral, Physiological and biochemical response to low (2C) 
+       and high (45C) temperatures was studied in Uromastyx aegyptius. Twelve 
+       animals were divided into two experimental groups. A third control grou
+       p was kept at 22C.All animals in the cooling, warming and control group
+       s were allowed a period of 24 hours for adjustments at 22 C. Blood samp
+       les were collected from each animal when body temperature reached the c
+       orresponding levels. The results showed a significant(P<0.05) decrease 
+       in blood glucose and cholesterol levels during cooling (2c).This reduct
+       ion in extracellular fluid substrates reflects an increase in cellular 
+       uptake of these substrates. Warming (45C) resulted in a significant (P<
+       0.05)increase in total proteins, urea, and uric acid. These later chang
+       es could be attributed to an increase in the evaporative water loss, pa
+       rticularly due to the increased observed panting, and the associated re
+       duction in plasma volume. There were no significant(P>0.05) changes in 
+       T3,T4, during cooling nor during warming. The results of this study sug
+       gest augmentation of anaerobic metabolism of the U.aegyptius during coo
+       ling as evident by reduction on blood glucose levels. Furthermore, shif
+       t of glucose from the extracellular to  the intracellular fluids demons
+       trates anticipation against potential freezing in order to protect the 
+       animal from intracellular freezing."
+653    \a "Metabolism,Temperature;Behaviour;Blood Constituents;Plasma;Uromasty
+       x;Lizard.T"
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.8, Issue 1"
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9992
+
+Record# 46: 
+LDR 00971nam a2200217uu 4500
+001 vtls000004755
+003 GCC
+005 20091008101400.0
+035    \a GCC09305800
+039  9 \y 200910081014 \z waleed
+040    \a SQU
+100    \a Heiko Patzelt
+245    \a Efficient synthesis of the Plant Growth Regulator Ancymidol : \k Art
+       icle File
+260    \c 2003
+520    \a "The Important Cytochrome P450 inhibitor ancymidol is used as a plan
+       t growth retardant and has potential for various medicinal application.
+       However its high price sets economic limits to large-scale appkications
+       .Here a short and high-yielding synthesis is reported, providing ancymi
+       dol in substantial amounts in a cost-and time-efficient way."
+653    \a Plant Growth Regulator; Cytochrome P450; Oxgenase Inhibitor.
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.8, Issue 1"
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9991
+
+Record# 47: 
+LDR 00885nam a2200217uu 4500
+001 vtls000004756
+003 GCC
+005 20091008101600.0
+035    \a GCC09305801
+039  9 \y 200910081016 \z waleed
+040    \a SQU
+100    \a F.M.Al-Sunni
+245    \a On the Computation of the Maximum uncertainty Volume of stable Polyn
+       omials : \k Article File
+260    \c 2003
+520    \a In the paper we propose a non-linear optimization based approach for
+        the computation of the stability region for uncertain polynomials.Both
+        box of polynomiala and diamond of polynomials are addressed.examples a
+       re presented as an illustration.
+653    \a "Optimization , uncertain Polynomials, Diamond Polynomials."
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.8, Issue 1"
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9991
+
+Record# 48: 
+LDR 01011nam a2200217uu 4500
+001 vtls000004757
+003 GCC
+005 20130501105700.0
+035    \a GCC09305802
+039  9 \a 201305011057 \b yasera \y 200910081017 \z waleed
+040    \a SQU
+100 1  \a Mnaouer, A. B.
+245    \a Performance Evaluation of Database Systems Using Colored Petri Nets 
+       : \k Article File
+260    \c 2003
+520    \a We propose Colored petir Net (CPN) models for replicated and central
+       ized database systems and conduct a comparative study of their performa
+       nce. The designed CPN models capture the dynamics of the studied databa
+       se systems and estimate their expected performance with an appropriate 
+       level of abstraction. A number of simulation
+653    \a "Clint-server, Centralized Database, Colored Petri Net, Performance 
+       Evaluation,Replicated Databases."
+773    \t SCIENTIFIC RESEARCH
+773    \g "Vol.8, Issue 1"
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*5200*6530*7730*7731*9490*9992
+
+Record# 49: 
+LDR 02251nam a2200289uu 4500
+001 vtls000004587
+003 GCC
+005 20130501132700.0
+035    \a GCC09305868
+039  9 \a 201305011327 \b yasera \c 201305011326 \d yasera \c 201305011325 \d 
+       yasera \y 200910111052 \z waleed
+040    \a SQU
+100 1  \a Al Moshileh, A. M.
+245    \a Identification of Some Date Palm (Phoenix dactylifera L.) Cultivars 
+       in Saudi Arabia Using RAPD Fingerprints : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2004.
+506    \a Orginal Study
+520    \a "The suitability of randomly amplified polymorphic DNA (RAPD) finger
+       prints as genetic markers in date palms was tested. Five date palm cult
+       ivars (Barhi, Nabtet Ali, Rothanah, Ajwa, and Sokkari) from Saudi wellk
+       nown dates were subject to DNA fingerprint analysis. From 20 primers te
+       sted, only 12 were selected as reproducible, giving 64 bands. The RAPD 
+       profiles obtained were successfully used to differentiate the genotypes
+       . Based on the pair-wise comparison of amplification products, the gene
+       tic similarity was estimated. The five date palm cultivars showed varia
+       tion at the DNA level. The genetic similarity among all date palm culti
+       vars ranged from 70 to 85%. Sokkary was quite distant from Barhi and Aj
+       wa cultivars. A dendrogram was constructed using UPGMA analysis. On the
+        basis of this analysis, the populations were clustered into two cluste
+       rs: cluster I contained Barhi and Ajwa cultivars, and cluster II contai
+       ned Nabtet Ali, Rothanah and Sokkari cultivars. Therefore, the polymorp
+       hism detected and its reproducibility suggest that RAPD markers are rel
+       iable for identification of Saudi date palm cultivars."
+653    \a Date palm \z Saudi Arabia.
+653    \a Genetic markers \z Saudi Arabia.
+710 2  \b Sultan Qaboos University.
+740    \a Journal of Agricultural and Marine Sciences.
+773    \t Journal of Agricultural and Marine Sciences.
+773    \g "Vol.9, Issue 1"
+856    \u http://www.squ.edu.om/jams/articles/content-vol9-no1.html
+856    \a http://www.squ.edu.om/jams/articles/volume-9-1/jamsy2004v09n01p01-03
+       .pdf
+949    \t ARTICLE
+999    \a VIRTUA
+999    \a VTLSSORT0350*0400*1000*2450*2600*5060*5200*6530*6531*7100*7400*7730*
+       7731*8560*8561*9490*9992
+
+Record# 50: 
+LDR 01758nam a2200277uu 4500
+001 vtls000004588
+003 GCC
+005 20091011105600.0
+035    \a GCC09305869
+039  9 \y 200910111056 \z waleed
+040    \a SQU
+100    \a N. Benkeblia
+245    \a Effect of Anoxia on Respiration Rate (Fermentative Index)and Ethanol
+        Production of Onion Bulbs (Allium cepa L.) : \k Article File
+260    \c 2004
+260    \a Oman
+260    \b Sultan Qaboos University
+506    \a Orginal Study
+520    \a "The physiological behavior, including carbon dioxide production, fe
+       rmentative index (FI) and ethanolic production of onion bulbs kept unde
+       r total anoxia (100% N2) was investigated. During the first 24 hours, c
+       arbon dioxide production increased from 0.01 to 1.56 kPa CO2, and the a
+       verage rate of the increase in CO2 production between 0 and 24 hours wa
+       s 0.09 kPa/h. The Q10 of the fermentative index was 1.9. Ethanol produc
+       ed by onion bulbs kept under anoxia during 6 hours was temperature depe
+       ndent, and was 0.563 and 0.760 pmol kg-1 h-1 at 10 and 20?C respectivel
+       y, while at 4?C the quantity produced was not detected. It is concluded
+        that onion seems to be less tolerant to anoxia than other vegetables s
+       uch as artichoke, cauliflower, tomato, potato and asparagus."
+653    \a "Anoxia, fermentative index, ethanol, onion, storage conditions."
+773    \t Journal of Agricultural and Marine Sciences
+773    \g "Vol.9, Issue 1"
+856    \u http://www.squ.edu.om/jams/articles/content-vol9-no1.html
+856    \a http://www.squ.edu.om/jams/articles/volume-9-1/jamsy2004v09n01p05-08
+       .pdf
+949    \t ARTICLE
+999    \a VIRTUA               
+999    \a VTLSSORT0350*0400*1000*2450*2600*2601*2602*5060*5200*6530*7730*7731*
+       8560*8561*9490*9991
+

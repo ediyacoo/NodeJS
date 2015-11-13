@@ -1,0 +1,2331 @@
+Record# 1: 
+LDR 00708ntm a2200181 a 4500
+090    \a TP 165 .E65 \b J3 1989
+100 1  \a Jabbar, Nawal Jasem.
+245 10 \a Isobaric vaporliquid equilibrium of Acetone Water/ Salt systems: \k 
+       Thesis File / \c Nawal Jasem Jabbar.
+260    \a Kuwait : \b [publisher not identified], \c 1989.
+300    \a xiv, 148 leaves: \b illustrations; \c 30 cm.
+502    \a Thesis (M.Sc.)-- Kuwait University,1989.
+504    \a Includes bibliographies.
+650  0 \a Vapor liquid equilibrium \x Industries \v Thesis.
+650  0 \a Salts \x Industries \v Thesis.
+650  0 \a Salt Systems \v Thesis.
+650  4 \a Acetone Water \v Thesis.
+650  4 \a Isobaric vaporliquid equilibrium \v Thesis.
+710 2  \a Kuwait University.
+
+Record# 2: 
+LDR 00591ntm a2200145 a 4500
+090    \a QD 305 .A2 \b M34 2004
+100 1  \a Malallah, Faisal.
+245 10 \a Kinetics of the esterification reaction of Acetic Acid with Butanol 
+       over Amberlyst 15 catalyst : \k Thesis File / \c submitted by Faisal Ma
+       lallah.
+260    \a [Kuwait : \b publisher not identified], \c 2004.
+300    \a ix,102 leaves : \b illustrations ; \c 30 cm.
+502    \a Thesis (M.Sc) -- Kuwait University, 2004.
+650  4 \a Esterification \v Thesis.
+650  4 \a Acetic Acid \v Thesis.
+650  4 \a Amberlyst 15 catalyst \v Thesis.
+710 2  \a Kuwait University.
+
+Record# 3: 
+LDR 00452nam a2200121 u 4500
+100 1  \a Al Shaibani, A. A.
+245 1  \a Monitoring the Genetic Diversity in Two Groups of Camels Living in K
+       uwait Desert : \k Conference File
+260    \a Kuwait : \b Kuwait University, \c [199-?]
+650  4 \a Camels \x Genetic Diversity \z Kuwait \v Conferences.
+650  4 \a Camels \z kuwait \v Conferences.
+650  4 \a Camels \z Kuwait \v Conferences.
+700 1  \a Taqi, Zainab M.
+710 2  \a Kuwait University.
+
+Record# 4: 
+LDR 01394nam a2200145 a 4500
+100 1  \a Hashem, Abdel Wahhab R.
+245 1  \a Soil analyses and mycoflora of the Jubail industrial city in Saudi A
+       rabia : \k Article File / \c ABDULWAHAB R.HASHEM
+260    \a Kuwait : \b Academic Publication Council, \c 1995.
+520    \a The Effects of different concentrations (0.05 to 50mM) of CdC12 and 
+       HgC12 and two concentrations of KC1 (50 & 200 mM) on percentage seed ge
+       rmination after 2 and 5 days of incubation, and on seedling growth afte
+       r 5 days of incubation of rice and alfalfa (cultivars, Al-Ahssa) were i
+       nvestigated. Seed germination and seedling growth were inhibited signif
+       icantly by CdC12 and HgC12. Germination inhibition was completely due t
+       o heavy metal toxicity, while seedling growth inhibition was mostly due
+        to the toxicity of heavy metals as evident from the effect of KC1. Ric
+       e seed germination was more tolerant to heavy metals. In rice, root gro
+       wth was more sensitive to heavy metals than shoot growth, while the lat
+       ter was more sensitive to KC1 stress."
+524    \a Kuwait Journal of Science and Engineering , Vol. 22, Iss. 2, P.P.231
+       -238"
+650  4 \a Soil Analyses \z Saudi Arabia \v Articles.
+650  4 \a Mycoflora \z Saudi Arabia \v Articles.
+650  4 \a Jubail industrial city \z Saudi Arabia \v Articles.
+710 2  \a Academic Publication Council \c (Kuwait).
+740    \a Kuwait Journal of Science and Engineering
+
+Record# 5: 
+LDR 01583nam a2200145 a 4500
+100 1  \a Yang, C. C.
+245 1  \a Relation between migration coefficient from accelerated chloride mig
+       ration test and diffusion coefficient from ponding test for concrete :
+        \k Article File / \c C. C. YANG, S. S. LIN"
+260    \a Kuwait : \b Academic Publication Council, \c 2005.
+520    \a Plain cement concrete, fly ash concrete, and slag concrete with diff
+       erent water/binder (w/b) ratios (0.35, 0.45, 0.55, and 0.65) were submi
+       tted to the accelerated chloride migration test (ACMT) and the ponding 
+       test.  In the ACMT, the electrochemical technique is applied to acceler
+       ate chloride ion migration in concrete to estimate the chloride flux.  
+       The chloride migration coefficient for concrete was calculated using th
+       e constant flux on the basis of the Nernst-Planck equation.  The total 
+       chloride contents and penetration depths were measured after the pondin
+       g test, and the Fick’s second law of diffusion was fitted to the expe
+       rimental data to determine the diffusion coefficient.  The chloride mig
+       ration coefficients from the ACMT and the diffusion coefficients from t
+       he ponding tests were compared.  The results for all mixtures show that
+        the migration coefficients and diffusion coefficients are linearly rel
+       ated."
+524    \a Kuwait Journal of Science and Engineering , Vol. 32, Iss. 2, P.P.165
+       -186
+650  4 \a Cement concrete \x Tests \v Articles.
+650  4 \a Slag concrete \x Tests \v Articles.
+700 1  \a Lin, S. S.
+710 2  \a Academic Publication Council \c (Kuwait).
+740    \a Kuwait Journal of Science and Engineering
+
+Record# 6: 
+LDR 01034nam a2200133 a 4500
+100 1  \a Galue, Leda.
+245 1  \a Further results on fractional calculus operators involving the appel
+       l function F3 : \k Article File / \c LEDA GALUE
+260    \a Kuwait : \b Academic Publication Council, \c 2003.
+520    \a Decomposition formulae for fractional integrals are important and us
+       eful for treating certain problems of pure and applied mathematics usin
+       g integral transforms. In this paper we present various new formulae of
+        decomposition for the operators I(ل, ل, â, â, م) and J(ل, ل, â
+       , â, م) which involve the Appell function F3, and we prove that they 
+       can be decomposed as a composition of two operators involving the Gauss
+        hypergeometric function in the kernel.
+524    \a Kuwait Journal of Science and Engineering , Vol. 30, Iss. 1, P.P. 1-
+       14.
+650  4 \a fractional calculus operators \v Articles.
+650  4 \a Appell function F3 \v Articles.
+710 2  \a Academic Publication Council \c (Kuwait).
+740    \a Kuwait Journal of Science and Engineering
+
+Record# 7: 
+LDR 01192nam a2200157 a 4500
+100 1  \a Nouh, Ali Ahmad.
+245 1  \a C-Continuous mappings in L-fuzzy topological spaces and some of thei
+       r applications : \k Article File / \c ALI AHMED NOUH
+260    \a Kuwait : \b Academic Publication Council, \c 2005.
+520    \a In this paper we introduce and study the notion of C-closed sets in 
+       L-fuzzy toplogical spaces.  Then, C-convergence theory for nets and ide
+       als is established in  terms of C-closedness.  Finally, we give a new c
+       oncept of C-continuity on L-fuzzy toplogical space by means of L-fuzzy 
+       C-closedness and investigate some of its properties and its relationshi
+       ps with other L-fuzzy mappings introduced previously.  Then we systemat
+       ically study the characterizations of this notion with the aid of the C
+       -convergence of L-fuzzy nets and L-fuzzy ideals."
+524    \a Kuwait Journal of Science and Engineering , Vol. 32, Iss. 1, P.P. 1-
+       16
+650  4 \a L-fuzzy topological spaces \v Articles.
+650  4 \a C-closedness \v Articles.
+650  4 \a L-fuzzy nets \v Articles.
+650    \a L-fuzzy ideals \v Articles.
+710 2  \a Academic Publication Council \c (Kuwait).
+740    \a Kuwait Journal of Science and Engineering
+
+Record# 8: 
+LDR 01232nam a2200121 a 4500
+100 1  \a Hassan, Merza.
+245 13 \a An Improved heuristic for a machine layout design problem, : \k Arti
+       cle File / \c MERZA HASAN"
+260    \a Kuwait : \b Academic Publication Council, \c 1995.
+520    \a The problem of the location of machines in a production plant is of 
+       practical importance in modem manufacturing environments, A new procedu
+       re, referred to as edge-interchange, for replacing edges of the maximal
+        planar graph is presented. Cases of this operation are discussed. This
+        procedure is then used to develop a graph theoretic improvement proces
+       s for solving a machine layout problem. The method can be employed to i
+       mprove solutions for an initial maximal planar graph generated from con
+       struction heuristics. A computational experiment is reported for benchm
+       ark test problems of different sizes and compared with the existing heu
+       ristic. The proposed algorithm performs well in terms of solution quali
+       ty and computational time."
+524    \a Kuwait Journal of Science and Engineering , Vol. 22, Iss. 2, P.P.129
+       -138
+650  4 \a Machines layout design \v Articles.
+710 2  \a Academic Publication Council \c (Kuwait).
+740    \a Kuwait Journal of Science and Engineering.
+
+Record# 9: 
+LDR 01222nam a2200121ua 4500
+100 1  \a Al Amoudi, O. A.
+245 1  \a Studies on pathways of nitrate assimilation in the green alga Prasin
+       ocladus marinus, : \k Article File / \c O. A. AL-AMOUDI
+260    \a Kuwait : \b Academic Publication Council, \c 1995.
+520    \a Studies are described on Prasinocladus marinus which suggest that gl
+       utamine synthetase (GS) may have an important and direct effect in regu
+       lating the control of its nitrate assimilation. Changes in the enzymes 
+       involved in primary nitrate assimilation under photoautotrophic, hetero
+       trophic and N-starved conditions appear to be influenced by the activit
+       y of glutamin synthetase (GS). It is deactivated in photoautotrophic an
+       d heterotrophic cells by treatment with methioninesulfoximine (MSO), an
+       d its is suggested that deactivation may play an important part in the 
+       regulation of nitrate assimilation. It is still not clear whether the e
+       nzyme itself or products of its metabolism are responsible.
+524    \a Kuwait Journal of Science and Engineering , Vol. 22, Iss. 1, P.P.60-
+       66"
+650  4 \a Nitrate assimilation \v Articles.
+650  4 \a Green alga Prasinocladus marinus \v Articles.
+710 2  \a Academic Publication Council \c (Kuwait).
+
+Record# 10: 
+LDR 01387nam a2200133 a 4500
+100 1  \a Al Obaid, Y. F.
+245 14 \a The pre-test analysis for overpressurization containment vessel usin
+       g endochronic model : \k Article File / \c Y. F. AL-OBAID
+260    \a Kuwait : \b Academic Publication Council, \c 1995.
+520    \a This paper initially gives general steps of flow-cum-crack analysis 
+       using three-dimensional 32 nodded isoparametric elements together with 
+       line and bond-linkage elements. An endochronic model is used in which a
+        provision is made for the increment of inelastic dialatancy variable, 
+       shear and bulk moduli. A set of material parameters obtained by fitting
+        numerous test-data is used for the non-linear analysis of the Oldburg 
+       containment vessel. The endochronic model is then extended and is linke
+       d to a cracking analysis within the computer program OBAID.  Certain an
+       alytical results such as displacements for low and high pressure-over p
+       ressurization are obtained. The results show agreement in certain areas
+        with those obtained by other and some disagreement at other areas of t
+       he solution domain.
+524    \a Kuwait Journal of Science and Engineering , Vol. 22, Iss. 2, P.P.167
+       -182.
+650  4 \a Overpressurization containment vessel \v Articles.
+650  4 \a Endochronic model \v Articles.
+710 2  \a Academic Publication Council \c (Kuwait).
+740    \a Kuwait Journal of Science and Engineering
+
+Record# 11: 
+LDR 01389nam a2200121 a 4500
+100 1  \a Al Eissa, Dawoud Solaiman.
+245 12 \a التكييف القانوني لقرار العفو الخاص و
+       إجراءاته التحضيرية ومدى خضوعها لرقابة 
+       القضاء الإداري : \k Article File
+260    \a Kuwait: \b Academic Publishing Council, \c 1981.
+520    \a تهدف هذه الدراسة إلى بيان من له حق الع
+       فو الخاص والذي يعد من اختصاص رئيس الدول
+       ة من خلال مناقشة موقف الفقه والقضاء من 
+       حق العفو الخاص .
+كما تلقي الدراسة الضوء 
+       على مجموعة الإجراءات التحضيرية لحق الع
+       فو ، مع بيان موقف الفقه والقضاء الإداري
+        من مرسوم العفو الخاص في بعض الدول العر
+       بية ( مصر ـ سوريا ـ لبنان .. إلخ ) .
+وحثت ال
+       دراسة القضاء الإداري الناشىء في البلاد
+        العربية أن يترسم خطى القضاء الإداري في
+        البلاد التي سبقتنا إلى هذا النوع من ال
+       قضاء ."
+
+524    \a مجلة الحقوق, Vol. 5, Iss. 3, P.P. 23
+650  0 \a Administrative law \z Arab Countries \v Articles.
+650  0 \a Private forgiveness \x Congresses \z Arab Countries \v Articles.
+710 2  \a Academic Publication Council \c (Kuwait).
+
+Record# 12: 
+LDR 04520nam a2200277 a 4500
+100 1  \a Kamel, B. S.
+245 10 \a Composition of food consumed in Kuwait, Phase I. : \k Research File 
+       / \c B. Kamel and M. Allam, Agriculture Department, Food Resourses Divi
+       sion.
+260    \a Kuwait : \b KISR, \c 1979.
+300    \a iii, 28 leaves : \b illustrations ; \c 28 cm.
+500    \a Project code: AG-24.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: September 1979.
+504    \a Bibliography: p. 28.
+506    \a Confidential.
+520    \a The existing interrelationships between nutrition and other quality 
+       attributes of food have been emphasized in recent years. However, curre
+       nt interest, rhetoric and emphasis on nutrition have exceeded scientist
+        ability to respond from an adequate factual base. One of the key resea
+       rch needs is an updating of information on the nutritional composition 
+       of foods. This currently is receiving a great deal of attention because
+        of the regulatory nutrition labelling proposals for foods. The bioavai
+       lability or utilizability of nutrients in food in relation to human hea
+       lth and the nutrient stability during processing and distribution are o
+       ther areas in which research is needed. But the most important, however
+       , is encouragement and support to provide reliable scientific informati
+       on to consumers, legislative leaders and all members of our society. Ma
+       lnutrition, which means that the body i s not supplied with a sufficien
+       t amount of each nutrient, contributes to health problems. Malnourishme
+       nt can be caused by not having enough food to supply the needed nutrien
+       ts or by not eating the combination of foods that will supply the neede
+       d nutrients., A person can be overweight because he is consuming foods 
+       containing too many calories and yet be malnourished because he is not 
+       getting the nutrients needed for optimal building or repairing of tissu
+       es and for regulation of body processes. There are more people malnouri
+       shed because of nutritional ignorance and misinformation than because o
+       f poverty. Many facts of good nutrition for humans are well known. Why 
+       are some of us ill fed? Indifference, ignorance, careless habits such a
+       s
+520    \a skipping breakfast or lunch, omitting the four basic foods, indulgin
+       g in food faddism and setting poor dietary examples for children are im
+       portant reasons why many people are poorly nourished. Our income does d
+       etermine the amount and kinds of food we ca n buy, but the more we know
+        about nutrients, their food sources, how our body uses them and how we
+        can cook food so that nutrients are not wasted, the better we can feed
+        our families. The need for the education of food buyers in all income 
+       groups is important since using a variety of foods prepared in a variet
+       y of ways provides one of the best guarantees of an adequate diet. All 
+       homemakers should know about nutrition so that they will be able to sel
+       ect and prepare foods that will keep them and their families in good he
+       alth. The report of the FAO (1962) expressed concern about the lack of 
+       national food composition tables and st ressed the importance of establ
+       ishing such tables without delay. A suggestion was made that a regional
+        table should be compiled based on analyses already carried out in diff
+       erent countries. The importance of such information has also been recog
+       nised by workers who have prepared tables based on the limited data ava
+       ilable in their own countries. These include the Tables by Abdou (1970)
+        and Abdulnabi et aL (1961 and 1962). Most of these tables were incompl
+       ete or of limited scope. Furthermore, since many foods are common to se
+       veral countries in the Middle East, there was an obvious need for more 
+       comprehensive data on the entire area. The need for a set of tables for
+        a particular region or area is a question often raised. For the Middle
+        East, the answer seems quite
+520    \a clear. Many fruits and vegetables and leafy plants are consumed in s
+       ignificant quantities that are not normally eaten in other areas. If th
+       e contribution of such foods is not included in the calculations of nut
+       rient intake, erroneous estimates may be obtained.
+650  4 \a Food Consumption \v Researches.
+650  4 \a Food components \v Researches.
+650  4 \a Nutrition \v Researches.
+650  4 \a Diet \v Researches.
+650  4 \a Toxic \v Researches.
+650  4 \a Malnutrition \v Researches.
+700 10 \a Allam, M. S.
+710 20 \a Kuwait Institute for Scientific Research. \b Food Resources Division
+       . \b Agriculture Department.
+930    \a 950927
+
+Record# 13: 
+LDR 00759nam a2200205 a 4500
+100 1  \a Anato, Style M.
+245 1  \a DTA, TG, and XRD studies of strumanite and ettringite : \k Article F
+       ile / \c Sytle M. Antao, Michael J. Duane and Ishmael Hassan"
+260    \a Monterial: \b The Canadian Mineralogist, \c 2002.
+524    \a The Canadian Mineralogist, Vol. 40P.P.1403-1409
+650    \a Sturmanite \v Articles.
+650  4 \a Ettringite \v Articles.
+650  4 \a Differential thermal analysis \v Articles.
+650  4 \a Thermogravimetric analysis \v Articles.
+650  4 \a X-ray diffraction \v Articles.
+650  4 \a DTA \v Articles.
+650  4 \a TG \v Articles.
+650  4 \a XRD \v Articles.
+700 1  \a Duane, Michael J.
+700 1  \a Hassan, Ismail.
+710 2  \a The Canadian Mineralogist.
+
+Record# 14: 
+LDR 00924nam a2200145 a 4500
+100 1  \a Al Omran, F.
+245 1  \a Synthesis of some Novel 2-Anilinothiophene, 2,3'- Bithienyl and Thie
+       nyl thiopyridine Derivatives Resistance to Pencillium Digitatum Effect 
+       the Fruit : \k Article File / \c F. Al-Omran & Adel. A. El Khair"
+260    \a Bejin: $b Journal of Chinese Chemical Society, $c 2007.
+520    \a Reaction of benzotriazol- 1-yl acetone 1 with phenyl isothiocyanate 
+       followed with (X-chloroacetone or ethyl-alpha-chloroacetate afforded 2-
+       anilinothiophenes 3 or 4, respectively. Treatment of 3 with malononitri
+       le at different reaction conditions afforded.
+524    \a Journal of Chinese Chemical Society, Vol. 54P.P.1269-1276
+650  4 \a Acetone 1 \v Articles.
+650  4 \a Anilinothiophene \v Articles.
+650  4 \a Pencillium Digitatum Effect the Fruit \v Articles.
+700 1  \a Abu Al Khair, Adel.
+740    \a Journal of Chinese Chemical Society
+
+Record# 15: 
+LDR 00866nam a2200145 a 4500
+100 1  \a Ahmad, A.
+245 1  \a Thermal degradation studies in poly (vinyl chloride)/ poly (mrthyl m
+       ethacrylate) blends : \k Article File / \c A.Ahmad, N. A. Al-Awadi & F.
+        Al-Sagheer
+260    \a New York: $b  Polymer Degradation and stability, $c 2008.
+520    \a The miscibility, morphology, and thermal properties of poly(vinyl ch
+       loride) (PVC) blends with different concentrations of poly(methyl meth-
+       acylate) (PMMA) have been studied. The interaction between the phases w
+       as studied by FTIR and by measuring the glass.
+524    \a Polymer Degradation and stability, Vol. 93P.P.456-465"
+650  4 \a Poly vinyl chloride \x Studies \v Articles.
+650  4 \a Poly mrthyl methacrylate \x Studies \v Articles.
+700 1  \a Al Awadi, Nouria A.
+700 1  \a Al Saghir, F.
+740    \a Polymer Degradation and stability
+
+Record# 16: 
+LDR 00531nam a2200121 a 4500
+100 1  \a Al Matar, Hamad.
+245 1  \a Microwave-assisted organic synthesis: \b reaction of hydrozonoyl hal
+       ides with hydrozone carbodithiotic acid \k Conference File
+650  4 \a Microwave-assisted \v Conferences.
+650  4 \a Organic synthesis \v Conferences.
+650  4 \a Hydrozonoyl halides v Conferences.
+650  4 \a Hydrozone carbodithiotic acid \v Conferences.
+700 1  \a Reyad, Sayed.
+711 2  \a Arabic Chemical Conference: Chemistry and Environment \n (13th.: \d 
+       Kuwait: \c 2005)
+
+Record# 17: 
+LDR 01920nam a2200229 a 4500
+100 1  \a Suri, R. K.
+245 10 \a Cool storage assessment study in Kuwait : \k Research File / \c R. K
+       . Surri...[et al.]., Energy Department, Engineering Division.
+260    \a Kuwait : \b KISR, \c 1985.
+300    \a 37 leaves ; \c 28 cm.
+500    \a Project code: SE-54.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: May 1985.
+506    \a General.
+520    \a Use of cool storage conventional air-conditioning plants has a poten
+       tial for reducing peak power demand on utilities.  A unit cooling cost 
+       in fils/kWhc, representing the combined result of technical and economi
+       c analyses, has been developed and applied to the study of the cost-ben
+       efit of using, cool storage.  Residential and non-residential buildings
+       , having different types of conventional air-conditioning systems, were
+        analyzed on the basis of unit cooling capacity along with a few select
+       ed buildings as example cases.  The results show that for all types of 
+       buildings and air-conditioning systems using chilled water for cooling 
+       distribution, using cool storage is economically highly viable.  For th
+       e direct expansion systems, the advantages are limited.  In Kuwait, the
+        availability of heavily subsidized electricity, offers very little ben
+       efit to the user from adopting cool storage and its major beneficiary i
+       s the government.  Changes in tariff structure for energy and power hav
+       e been recommended to promote large scale use of cool storage as an eff
+       ective tool for energy and power management in Kuwait.
+650  4 \a Cool storage \v Researches.
+650  4 \a Peak power shaving \v Researches.
+650  4 \a Unit cooling cost \v Researches.
+700 10 \a Maheshwari, G. P.
+700 10 \a Al Madani, K.
+700 10 \a Abu Rashid, H.
+710 20 \a Kuwait Institute for Scientific Research. \b Engineering Division.
+        \b Energy Department.
+930    \a 950422
+
+Record# 18: 
+LDR 04502nam a2200505 a 4500
+100 1  \a Al Mutairi, Naji Mohammad.
+245 10 \a Waterproofing of building basements in Kuwait, Vol. I. : \k Research
+        File / \c N. Al-Mutairi...[et al.]., Civil and Building Department, En
+       gineering Division.
+260    \a Kuwait : \b KISR, \c 1995.
+300    \a xxi, 125 leaves ; \c 28 cm.
+500    \a Submitted to Kuwait Municipality.
+500    \a Submitted to Kuwait Foundation for the Advancement of Sciences.
+500    \a Project Code: BM-25.
+500    \a Type of Publication: Final Report
+500    \a Date of Publication: May 1995.
+504    \a Bibliography: p. 81-82.
+506    \a Restricted.
+520    \a The project was undertaken to develop national guidelines for waterp
+       roofing of building basements. In developing the guidelines, background
+        data was obtained on local conditions with respect to waterproofing ma
+       terials, construction practices and leakage. The project also covered t
+       he characterisation of soil and water in different parts of Kuwait, the
+        evaluation of physical properties of locally available water-proofing 
+       materials, and the evaluation of water drainage control methods suitabl
+       e for local conditions. Information obtained from the soil and water ch
+       aracterization, with regard to the concentration and distribution o f c
+       hemical substances that are harmful to waterproofing materials, will be
+        useful in specifying appropriate materials for new construction as wel
+       l as for the repair of existing basements. Evaluation of physical prope
+       rties of the locally available waterproofing materials provided informa
+       tion for determining, the suitability of the materials for use under lo
+       cal conditions. Wit h the large number of waterproofing materials avail
+       able in the local market, minimum performance criteria were established
+        for use in selecting suitable materials for specific applications. The
+        evaluation of water drainage control methods for their suitability to 
+       the local soil and site conditions resulted sidelines on effective drai
+       nage control methods for local conditions. T he information developed i
+       n the four parts of this study (Part 1: Overview on Barrier Systems and
+        Local Conditions,
+520    \a Part ll: Chemical Concentrations and Distribution in the Soil and Gr
+       oundwater, Part IH- Testing and Evaluation of waterproofing Materials, 
+       and Part 1V: Water Drainage Control Methods) was utilising the developm
+       ent of a national guide for waterproofing covering both new basements a
+       nd remedial measures for existing basements, This final report is compo
+       sed of two volumes.  Volume I includes an overview of the project, wate
+       rproofing, system design considerations, waterproofing, of new basement
+       s and remedial measures for existing basements, while Volume 11 include
+       s a draft national waterproofing, guide.  The guide includes detailed a
+       nd complete specifications of construction methods for suitable waterpr
+       oofing, materials to improve the handling and installation procedures o
+       n construction sites.  Procedures to remedy existing leaking basements 
+       were identified.  The national guide for waterproofing covers all aspec
+       ts of waterproofing to insure a watertight structure and to correct exi
+       sting problems.
+650  4 \a Basement construction \z Kuwait \v Researches.
+650  4 \a Bituminous membranes \z Kuwait \v Researches.
+650  4 \a Cementitious materials \z Kuwait \v Researches.
+650  4 \a Chlorides \z Kuwait \v Researches.
+650  4 \a Dewatering \z Kuwait \v Researches.
+650  4 \a Groundwater \z Kuwait \v Researches.
+650  4 \a Joints \z Kuwait \v Researches.
+650  4 \a Liquid applied materials \z Kuwait \v Researches.
+650  4 \a Leaking basements \z Kuwait \v Researches.
+650  4 \a Soil \z Kuwait \v Researches.
+650  4 \a Sulphates \z Kuwait \v Researches.
+650  4 \a Water leakage \z Kuwait \v Researches.
+650  4 \a Water table \z Kuwait \v Researches.
+650  4 \a Waterproofing materials \z Kuwait \v Researches.
+650  4 \a Waterproofing \z Kuwait \v Researches.
+650  4 \a Waterproofing \z Kuwait \v Guides.
+700 10 \a Attiogbe, E.
+700 10 \a Eid, W. K.
+700 10 \a Awni, Randa Hassan.
+700 10 \a Al Shaleh, M. S.
+700 10 \a Al Bahar, Saud.
+700 10 \a Al Mesfer, E.
+700 10 \a Abdel Jalil, Ali.
+710 20 \a Kuwait Institute for Scientific Research. \b Engineering Division.
+        \b Civil Engineering and Building Department.
+710 20 \a Kuwait Municipality.
+710 20 \a Kuwait Foundation for the Advancement of Sciences.
+930    \a 950913
+
+Record# 19: 
+LDR 04417nam a2200349 a 4500
+100 1  \a Omar, Samira Ahmad Sayed.
+245 10 \a Criteria for development and management of Kuwait's first national p
+       ark / nature reserve, Vol. III, Summary and recommendations. : \k Resea
+       rch File / \c A. S. Omar...[et al.]., Agro-Production Department, Food 
+       Resources Division, Environmental and Earth Sciences Division, Kuwait U
+       niversity.
+260    \a Kuwait : \b KISR, \c 1986.
+300    \a iii, 25 leaves ; \c 28 cm.
+500    \a Submitted to Kuwait Municipality.
+500    \a Project Code: AG-51.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: March 1986.
+506    \a Restricted.
+520    \a The natural environment comprises complex relationships between livi
+       ng organisms (animals, plants and microorganisms) and their physical en
+       vironment (water, soil and climate). Nature conservation seeks to estab
+       lish a harmonious relationship between human activity and other living 
+       things and the physical environment. The establishment of National Park
+       s/Nature Reserves not only c an preserve the natural ecological system 
+       within the parks, but can also positively contribute to a regional ecol
+       ogical balance, natural climatic patterns, scientific research, histori
+       c preservation, recreational opportunity and international tourism (IUC
+       N and UNEP, 1984; UNESCO, 1984; Batisse, 1982; UNESCO and UNEP, 1984). 
+       In Kuwait, natural renewable resources have been utili sed heavily, whi
+       ch has often resulted in their rapid deterioration. The misuse of resou
+       rces through uncontrolled activities, e.g., overgrazing, uprooting wood
+       y shrubs, hunting reptiles and birds, off-route use of vehicles, has re
+       sulted in many negative impacts and, in many cases, irreversible losses
+        of flora, fauna, and potential recreational grounds. In spite of this 
+       situation and until 1980, Kuwait had no protected or managed area where
+        the potential for desert parks and the protection and improvement of n
+       atural resources could be explored. In response to this situation, the 
+       Kuwait Municipality designated areas in its land u se master plan, Kuwa
+       it Master Plan, Review 2 (KMPR2), for national parks/nature reserves. A
+       lso in 1980, Kuwait Institute for
+520    \a Scientific Research (KISR) was requested by Kuwait Municipality to u
+       ndertake a feasibility study on establishing national parks/nature rese
+       rves. This preliminary study identified an area in the Northeast of Kuw
+       ait that combines a variety of animal and plant species with significan
+       t landscape features. It is a large area of diverse plant and animal li
+       fe with interesting physiographic features, good accessibility, and eas
+       e of protection (Taha and Omar, 1982). To promote an 'action plan' for 
+       the development of this area, Kuwait Municipality collected detailed sc
+       ientific information on the ecological components of the designated par
+       k and assessed and proposed concrete management and administration plan
+       s for the envisaged park. The second phase of the project, Select ion a
+       nd Criteria for Establishment of National Parks/Nature Reserves in Kuwa
+       it, was initiated early in 1984 for 22 months (Omar et al., 1984). The 
+       major emphasis was on identifying area sizes and uses within the design
+       ated area, ensuring the legality of using the site for national park/na
+       ture reserve purposes for the present and future, and making appropriat
+       e recommendations for the management plan. KISR was requested to undert
+       ake the following tasks: 1 . Investigate protection measures for the pa
+       rk area 2 . Assess zoning of the park area 3 . Determine suitable plant
+       s, wildlife and habitats 4 . Recommend
+650  4 \a National park \z Kuwait \v Researches.
+650  4 \a Nature reserve \z Kuwait \v Researches.
+650  4 \a Flora \z Kuwait \v Researches.
+650  4 \a Fauna \z Kuwait \v Researches.
+650  4 \a Groundwater \z Kuwait \v Researches.
+650  4 \a Zoning \z Kuwait \v Researches.
+650  4 \a Protection measures \z Kuwait \v Researches.
+650  4 \a Landuse assessment \z Kuwait \v Researches.
+650  4 \a Kuwait's desert ecosytem \v Researches.
+700 10 \a Hamdan, L.
+700 10 \a Al Bakri, D.
+700 10 \a Al Shuaibi, F.
+710 20 \a Kuwait Institute for scientific Research. \b Food Resources Division
+       . \b Agro-Production Department.
+710 20 \a Kuwait Institute for Scientific Research. \b Environmental and Earth
+        Sciences Division.
+710 20 \a Kuwait Municipality.
+930    \a 950320
+
+Record# 20: 
+LDR 02011nam a2200145 a 4500
+100 1  \a Shalabi, Hamdi M.
+245 10 \a On the mechanism of formation of hot spots in boiler tubes : \k Arti
+       cle File / \c H. M. Shalaby.
+260    \a [S.I. : \b s.n.], \c 2006.
+520    \a Through a careful failure investigation of boiler tubes that suffere
+       d from corrosion due to hot spot formation, an attempt was made to clar
+       ify some ambiguities about the sequence of events that take place durin
+       g this corrosion phenomenon. In addition, the role of copper compounds 
+       was critically assessed. It is argued that the root cause of hot spot f
+       ormation is the localized excessive heat flux. The localized overheatin
+       g and resultant growth of nonprotective magnetite (Fe3O4) scale were co
+       nsidered the primary factors in the initiation of hot spots. On the oth
+       er hand, caustic attack was assumed to contribute to further growth of 
+       the scale and sustained development of the hot spot at later stages. Th
+       is contribution was proposed to occur via localized attack of the nonpr
+       otective magnetite scale, leading to an increased pore size and, in tur
+       n, an increased rate of diffusion of oxygen-bearing species. A previous
+        conclusion that elemental copper diffuses to the metal grain boundarie
+       s and causes galvanic corrosion was discounted. This was based on the f
+       act that copper was not detected at the grain boundaries whereas copper
+        oxide was observed in all tube surfaces separated from the metal subst
+       rate by magnetite layers. The hot spot formation process was judged to 
+       be autocatalytic as the build up of local, concentrated solutions throu
+       gh wick-type boiling required the presence of a nonprotective porous ma
+       gnetite layer. © 2006, NACE International.
+650  4 \a Boiler tubes \v Articles.
+650  4 \a Caustic attack \v Articles.
+650  4 \a Hot spots \v Articles.
+650  4 \a Power stations \v Articles.
+773 0  \t Corrosion \g vol. 62, issue 10 (2006), p. 930-941
+
+856 40 \u http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-3414722155
+       9&partnerID=40
+
+Record# 21: 
+LDR 01471nam a2200301 a 4500
+100 1  \a Al Sudairawi, Manea.
+245 10 \a Inspection of smoke emitted from diesel bus and truck exhausts : \K 
+       Research File / \c M. Al-Sudairawi...[et al.]., Environmental Sciences 
+       Department, Environmental and Earth Sciences Division.
+260    \a Kuwait : \b KISR, \c 1987.
+300    \a v, 268 leaves ; \c 28 cm.
+500    \a Submitted to Environmental Protection Council.
+500    \a Project Code: EES-80 (Formerly RFP-99).
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: October 1987.
+504    \a Bibliography: p. 267-268.
+506    \a Confidential.
+520    \a The Kuwait Institute for Scientific Research, under contract with th
+       e Environmental Protection Council, and with the co-operation of the Mi
+       nistry of Interior and Kuwait Transport Co. studied smoke emission from
+        diesel bus and truck exhausts.
+650  4 \a Smoke meter \v Researches.
+650  4 \a Free acceleration test \v Researches.
+650  4 \a Diesel vehicles \v Researches.
+650  4 \a Smoke intensity measurement \v Researches.
+700 10 \a Al Mazidi, Salah Mohammad.
+700 10 \a Al Ammar, J.
+700 10 \a Abdal, Yousef.
+700 10 \a Ali, M.
+700 10 \a Abu Seil, M.
+710 20 \a Kuwait Institute for Scientific Research. \b Environmental and Earth
+        Sciences Division. \b Environmental Sciences Department.
+710 20 \a Environmental Protection Council \c (Kuwait).
+930    \a 940601
+
+Record# 22: 
+LDR 03355nam a2200265 a 4500
+110 2  \a Kuwait Institute for Scientific Research. \b Water Resources Divisio
+       n. \b Hydrology Department.
+245 10 \a Assessment of the impact of the crisis on groundwater pollution from
+        massive oil spillage from damaged oil wells : \k Research File / \c Hy
+       drology Department, Water Resources Division, Groundwater Project Depar
+       tment, Ministry of Electricity and Water.
+260    \a Kuwait : \b KISR, \c 1992.
+300    \a xi, 175 leaves ; \c 28 cm.
+500    \a Project Code: Water-1.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: November 1992.
+500    \a Contributers: J. Al-Sulaimi, M. N. Viswanathan, F. Szekely, A. Al-Su
+       mait and Y. Senay.
+504    \a Bibliography: p. 174-175.
+506    \a Confidential.
+520    \a This study assessed the magnitude of groundwater pollution emanating
+        from direct infiltration of pollutants from oil lakes and contaminated
+        seawater used for fire fighting. In addition, the study examined the p
+       ossibility of contamination due to infiltrating rainwater and subsurfac
+       e contamination from damaged oil well casings during the period of stud
+       y. Water fields of Raudhatain, Umm Al-Aish, Umm Gudair, Wafra and Sulai
+       biyah were considered in this study. The groundwater pollution study wa
+       s subjected t o several constraints including access, mines, and mechan
+       ical and electrical problems of wells, which hindered the precise evalu
+       ation of contaminant levels of groundwater. The major conclusions drawn
+        from the present study are: (a) direct infiltration o f oil from oil l
+       akes is limited to a depth of about 2 m in the Raudhatain and Umm AI-Ai
+       sh areas; (b) water samples collected from certain wells in heavily con
+       taminated areas of Raudhatain and Umm AI-Aish show fluctuations in poll
+       utant concentration levels, but samples collected during July-October 1
+       992 indicate very minor pollution, the present levels of which are insi
+       gnificant and may be neglected for all practical purposes; and (c) wate
+       r samples collected from other monitoring wells in different water fiel
+       ds do not show any levels of pollution as a result of the crisis. Howev
+       er, nondetection of pollution at selected monitoring wells does not nec
+       essarily mean no actual pollution of groundwater.
+520    \a At Raudhatain and Umm AI-Aish, groundwater pollution emanating from 
+       the infiltration of either rainwater leaching out surface pollutants or
+        contaminated water used for fire fighting might have reached the water
+        table level but not the intake sections of wells, which are about 5-10
+        m below water table levels. Similarly, at Wafra and Umm Gudair, the le
+       akage from damaged well casings might exist but not have yet reached mo
+       nitoring wells during this study period. Hence, recognizing the importa
+       nce of freshwater fields at Raudhatain and Umm AI-Aish, the assessment 
+       of the expected long-term pollution of these areas by undertaking compr
+       ehensive studies is strongly recommended.
+650  4 \a Hydrocarbons \v Researches.
+650  4 \a Heavy metals \v Researches.
+650  4 \a Infiltration \v Researches.
+650  4 \a Rainwater \v Researches.
+650  4 \a Mathematical models \v Researches.
+650  4 \a Water resources \v Researches.
+710 10 \a Kuwait. \b Ministry of Energy, Electricity and Water. \b Groundwater
+        Project Department.
+930    \a 941030
+
+Record# 23: 
+LDR 01546nam a2200265 a 4500
+100 1  \a Jacob, Poovathoor G.
+245 10 \a Physical and chemical oceanography of Kuwait coastal waters (Decembe
+       r-May 1980). : \k Research File / \c P. G. Jacob...[et al.]., Environme
+       ntal Sciences Department, Environmental and Earth Sciences Division.
+260    \a Kuwait : \b KISR, \c 1981.
+300    \a iii, 70 leaves ; \c 28 cm.
+500    \a Project Title: Marine pollution environmental assessment programme.
+500    \a Project Code: EES-11-F.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: January 1981.
+504    \a Bibliography: p. 12-15.
+506    \a General.
+520    \a Physical and chemical oceanographic observations in surface waters w
+       ere made at 158 stations in three regions of Kuwait's territorial water
+       s between December 1979 and May 1980. Data for the range of temperature
+       , conductivity, salinity, pH, dissolved oxygen, turbidity, ammonia, nit
+       rate, nitrite, phosphate, silicate and sulphate observed during this st
+       udy are presented and their distribution discussed.
+650  4 \a Water \z Kuwait \v Researches.
+650  4 \a Oceanography data project \z Kuwait \v Researches.
+650  4 \a MPEAP \z Kuwait \v Researches.
+650  4 \a Physical chemical oceanography \z Kuwait \v Researches.
+700 10 \a Anderlini, P. G.
+700 10 \a Mohammad, O. S.
+700 10 \a Zarba, M. A.
+710 20 \a Kuwait Institute for Scientific Research. \b Environmental and Earth
+        Sciences Division. \b Environmental Sciences Department.
+930    \a 950408
+
+Record# 24: 
+LDR 01495nam a2200217 a 4500
+100 1  \a Lo, Jen Men.
+245 10 \a Air bubble barriers effect on jelly fish movement. : \k Research Fil
+       e / \c J. M. Lo, Hydraulics and Coastal Engineering Group, Environmenta
+       l and Earth Sciences Division.
+260    \a Kuwait : \b KISR, \c 1988.
+300    \a iv, 40 leaves ; \c 28 cm.
+500    \a Project code: EES-126.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: March 1989.
+504    \a Bibliography: p. 39-40.
+506    \a Restricted.
+520    \a Laboratory experiments were carried out to study water kinematics in
+       duced by air bubble barriers, to evaluate their effectiveness in protec
+       ting water intakes from jellyfish attack.  The experiments were perform
+       ed in a re-circulating wave flume under various water depths, unidirect
+       ional currents, air discharge rates and wave conditions.  Neutrally buo
+       yant floats were used to simulate jellyfish movement.  It was found tha
+       t an air bubble barrier alone is not adequate protection, and a net is 
+       recommended downstream of the barrier to stop jellyfish moving towards 
+       the intakes.
+650  4 \a Water intakes \z Kuwait \v Researches.
+650  4 \a Water kinematics \z Kuwait \v Researches.
+650  4 \a Air bubble barriers \z Kuwait \v Researches.
+650  4 \a Jelly fish \z Kuwait \v Researches.
+710 20 \a Kuwait Institute for Scientific Research. \b Environmental and Earth
+        Sciences Division. \b Hydraulics and Coastal Engineering Group.
+930    \a 951008
+
+Record# 25: 
+LDR 01430nam a2200217 a 4500
+100 1  \a Hosni, D.
+245 12 \a A Conceptual framework for estimating labor demand by the energy sec
+       tor in Arab Countries : \K Research File / \c D. Hosni, I. Sirageldin, 
+       Economics Department, Techno-Economics Division.
+260    \a Kuwait : \b KISR, \c 1985.
+300    \a ii, 62 leaves ; \c 28 cm.
+500    \a Submitted to Arab Petroleum Training Institute (APTI), Baghdad, Iraq
+       .
+500    \a Project Code: ED-7.
+500    \a Type of Publication: Final report.
+500    \a Date of Publication: May 1985.
+506    \a General.
+520    \a Using the employer survey technique, the estimation of the demand fo
+       r labor in the energy sector in Arab countries stems directly from the 
+       corporate plans of the organizations. Based on the current stocks of ma
+       npower categories, the forecast focuses on the changes in the energy ma
+       nning levels needed in the future. The key parameters are turnover and 
+       growth. The study outlines the appropriate methodology, presents a case
+        study analysis of Kuwait and offers a comprehensive bibliography on th
+       e topic.
+650  4 \a Manpower planning \z Arab World \v Researches.
+650  4 \a Energy manpower \z Arab World \v Researches.
+650  4 \a Labor demand \z Arab World \v Researches.
+700 10 \a Seraj Al Din, I.
+710 20 \a Kuwait Institute for Scientific Research. \b Techno-Economics Divisi
+       on. \b Economics Department.
+930    \a 940601
+
+Record# 26: 
+LDR 01394nam a2200205 a 4500
+100 1  \a Ibrahim, L. R.
+245 10 \a Energy information system for the organization of Arab Petroleum Exp
+       orting Countries. Vol. l : \K Research File / \c L. R. Ibrahim, Applied
+        Systems Department, Techno-Economics Division.
+260    \a Kuwait : \b KISR, \c 1983.
+300    \a 3v. ; \c 28 cm.
+500    \a Project Code: ASD-3.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: October 1983.
+506    \a Confidential.
+520    \a This report describes the computer-based Energy Information System t
+       hat was developed to support OAPEC staff member's in the management and
+        analysis of time-series socioeconomic and energy data. The system is S
+       AS-based and resides on the central computing facility at Kuwait Instit
+       ute for Scientific Research (IBM 4341 operating with VM/SP), with remot
+       e on-line access from OAPEC premises. A full system description, includ
+       ing data base elements, system conventions and standards, program docum
+       entation, user guidelines, for examples, is provided.
+650  4 \a Energy data bases \v Researches.
+650  4 \a Economy data bases \v Researches.
+650  4 \a Energy information systems \v Researches.
+650  4 \a SAS-based systems \v Researches.
+710 20 \a Kuwait Institute for Scientific Research. \b Techno-Economics Divisi
+       on. \b Applied Systems Department.
+930    \a 940601
+
+Record# 27: 
+LDR 06917nam a2200361 a 4500
+110 2  \a Food Resources Division. \b Aridland Agriculture Department.
+245 10 \a Master plan for development of Kuwait's agricultural sector (1995-20
+       15). : \k Research File / \c Aridland Agriculture Department, Food Reso
+       urces Department.
+260    \a Kuwait : \b KISR, \c 1995.
+300    \a xvi, 164 leaves ; \c 28 cm.
+500    \a Submitted to Public Authority for Agricultural Affairs and Fish Reso
+       urces.
+500    \a Submitted to Kuwait Foundation for the Advancenment of Sciences.
+500    \a Project code: Ag-67.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: April 1995.
+506    \a Bibliography: page 159-164.
+506    \a Restricted.
+520    \a This Development Study-Agricultural Master Plan has been made possib
+       le by the initiative from PAAFR, with partial support from KFAS, which 
+       together commissioned KISR to carry out a detailed Development Study an
+       d prepare this long-term Master Plan. The Master Plan as contained here
+       in, is supported by back-up detailed information in separate documents.
+        i.e. Appendix I and II, and Task Reports and Specialised Study Documen
+       ts. The goal of the Master Plan is to guide the development of a sustai
+       nable agricul ture. The objectives are to: (1) increase crop and animal
+        yields and productivity in ways that will, assure reasonable economic 
+       returns, conserve water and labour per unit of output, and minimise adv
+       erse environmental effects, and (2) establish an effective marketing sy
+       stem. Supporting objectives are to: (3) increase the human resource and
+        organisational effectiveness of the agricultural sector, with more foc
+       us on education and management, so as to better absorb the infusion of 
+       advanced technology and better manage the intricacies of Plan implement
+       ation, and (4) implement financial incentives that will both attract th
+       e private sector to agricultural investment, and also assure reasonable
+        and suitable economic returns to the participants, while maintaining a
+       dvantageous cost/benefit implications for the public sector. The genera
+       l strategies for fulfilling the objectives are to reduce the number of 
+       priority commodities (to 11); establish quantitative and qualitative ta
+       rgets for production of each; transfer and adapt modern production prac
+       tices and know-how; detail the other interventions needed to achieve th
+       e targets;emphasise reliance on the private sector; assure the financia
+       l and economic viability of the production operations; organise the imp
+       lementation of the plan; and, schedule, budget and analyse the Plan in 
+       its entirety. The specific strategies for fulfilling the objectives are
+        to employ technology that will conserve the land and minimise adverse 
+       impacts on the environment, contribute to agricultu ral education and e
+       xtension expertise on the part of all interested Kuwaitis and positivel
+       y influence the social benefits of jobs, careers, and economic diversif
+       ication, develop the infrastructure to levels that will ensure sustaina
+       bility, and focus the plan to yield returns that are high enough for Ku
+       waiti owners, yet not unreasonable from a cost standpoint for the publi
+       c sector. The interventions to be used are of five types: technology tr
+       ansfer costs haring grants, capital projects, appli ed research interve
+       ntions, institutional strengthening interventions and financial incenti
+       ve interventions. Over-all the farme rs will be provided incentives to 
+       infuse quality enhancing, yield-improving, labour-saving, and water-con
+       serving advanced technologies into their operations. Private sector inv
+       estments in technology will increase by KD 88 million over the plan per
+       iod, and gross revenues will be increased annually by KD 140 million, w
+       ith a financial rate of return of 31% and a pay-back of 6.2 years, by t
+       he end of plan period. Production will be increased 6 fold and labour p
+       roductivity by 2-5 fold,with 20-200% improvements in water use efficien
+       cy. The plan will yield 60% self -sufficiency in the priority commoditi
+       es, even with a projected 2.3 fold increase in population. Yield improv
+       ements will result from achievement of international standards i n prod
+       uctivity, and will be achievable on only 69% of the already allocated l
+       and. The transfer of the technology, the use of model farms, and the re
+       trofitting of existing operations will "jump-start" these improvements.
+        Phasing out income support subsidies and shifting to emphasis on quali
+       ty will bring producer competition to the market place. Over the plan p
+       eriod, the public c osts will equalise with baseline costs, but with ma
+       jor benefits to the country. All public sector and private sector inflo
+       ws and outflows have been calculated. All commodity plans are financial
+       ly, administratively and technically feasible. Achievement of the targe
+       ts can not occur through piece-meal development, hence the absolute nee
+       d for the plan. Most of the implementation/co-ordination action will ta
+       ke place within the first 10 year period of this time horizon. Budgetar
+       y increases within the first 10-year period will constitute major natio
+       nal level initiatives, which collectively provide large net gains for t
+       he country. Each of the Master Plan implementation phases have been str
+       uctured to reflect the objectives, interventions and strategies. Priori
+       ties have been addressed among the sub-sectors, each with definite "mil
+       estones" or certifications to ensure that the scheduled initiatives, ac
+       tions or steps, will be accomplished in accord with the required schedu
+       le,The main phases of implementation, i.e. involve review and approval 
+       (8 months) and Phases 1-4. The 8-month review, approval and establishme
+       nt phase will also involve establishment of the Master Plan Implementat
+       ion Office (with Director and 1st. year Work Plan) . The Phases show th
+       e intervention applications and the outcomes in,2, 3, 5 and 10-year per
+       iods.
+650  4 \a Agriculture \x Economic development \z Kuwait \y 1995-2015 \v Report
+       s.
+650  4 \a Crops production \z Kuwait \y 1995-2015 \v Reports.
+650  4 \a Animal production \z Kuwait \y 1995-2015 \v Reports.
+650  4 \a Range resource assessment \z Kuwait \y 1995-2015 \v Reports.
+650  4 \a Food demands \z Kuwait \y 1995-2015 \v Reports.
+650  4 \a Farms \z Kuwait \y 1995-2015 \v Reports.
+650  4 \a Projections \z Kuwait \y 1995-2015 \v Reports.
+650  4 \a Priority commodities \z Kuwait \y 1995-2015 \v Reports.
+650  4 \a Interventions \z Kuwait \y 1995-2015 \v Reopts.
+650  4 \a Cost-benefit \z Kuwait \y 1995-2015 \v Reports.
+650  4 \a Agricultural Marketing \z Kuwait \y 1995-2015 \v Reports.
+650  4 \a Agriculture \x Planning \z Kuwait \y 1995-2015 \v Reports.
+710 20 \a Kuwait Institute for Scientific Research. \b Food Resources Division
+       . \b Aridland Agricultural Department.
+710 10 \a Kuwait. \b Public Authority for Agricultural Affairs and Fish Resour
+       ces.
+710 20 \a Kuwait Foundation for the Advancement of Sciences.
+930    \a 951009
+
+Record# 28: 
+LDR 03618nam a2200361 a 4500
+110 2  \a Food Resources Division. \b Aridland Agriculture Department.
+245 10 \a Master plan for development of Kuwait's agricultural sector (1995-20
+       15), Appendix III, Task report, Volume 4, Resources : \b Land/soil, wat
+       er, environment and range. : \k Research File / \c Aridland Agricultura
+       l Department, Food Resources Division.
+260    \a Kuwait : \b KISR, \c 1995.
+300    \a 1v. (various pagings) ; \c 28 cm.
+500    \a Project Title: Development study for the Agricultural sector (plant 
+       and animal production) in Kuwait.
+500    \a Submitted to Public Authority for Agricultural Affairs and Fish Reso
+       urces.
+500    \a Submitted to Kuwait Foundation for the Advancement of Sciences.
+500    \a Project Code: AG-67.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: April 1995.
+506    \a Restricted.
+520    \a In Volume 4 of these Task Reports, the studies on the assessments of
+        land/soil, water, environment and rangeland resources were compiled. I
+       n-depth review studies were carried out on various past soil surveys of
+        Kuwait. The existing status of soil of Kuwait and the impact of the Gu
+       lf war on land/soil were investigated. Assessments were also made of th
+       e contamination of agricultural areas by the oil fires. Landuse charact
+       eristics were also characterised for Kuwait's Wafra agricultural area. 
+       Recommendations were made for soil management, reclamation and conserva
+       tion. Water resources were evaluated in assessing their availability fo
+       r agricultural purposes. Various sources of water were considered, i.e.
+       , underground brackish water, desalinated water, treated municipal and 
+       industrial wastewater. Inventories were made of the water supplies (qua
+       lities and quantity) that are available.Meteorological and climatologic
+       al assessment included wind speed, temperature, relative humidity, and 
+       rainfall in the agricul tural areas. Assessments were made of the geogr
+       aphical distribution and classification of aeolian land features of Kuw
+       ait. The sand dunes and sand movements in the agricultural areas were a
+       ddressed. The measures needed to protect agricultural areas from sand e
+       ncroachment were recommended. The studies previously conducted on range
+        development in Kuwait were evaluated. The adver se effects of the Gulf
+        war on rangeland resources were also assessed.-  In this report, rehab
+       ilitation and management of Kuwait's rangelands were addressed so as to
+        contribute to maximization of livestock production, while controlling 
+       desertification. A proposal is also included to evaluate pre and post-w
+       ar factors underlying the rangeland deterioration and to develop a Mast
+       er Strategic Plan that will advance rangelands towards sustainable reso
+       urce development.
+650  4 \a Vitamins \z Kuwait \v Researches.
+650  4 \a Minerals \z Kuwait \v Researches.
+650  4 \a Demands \z Kuwait \v Researches.
+650  4 \a Agriculture \z Kuwait \v Researches.
+650  4 \a Plant \z Kuwait \v Researches.
+650  4 \a Crops \z Kuwait \v Researches.
+650  4 \a Animals \z Kuwait \v Researches.
+650  4 \a Sheep \z Kuwait \v Researches.
+650  4 \a Vegetable \z Kuwait \v Researches.
+650  4 \a Arid \z Kuwait \v Researches.
+650  4 \a Food nutrients \z Kuwait \v Researches.
+650  4 \a Diets \z Kuwait \v Researches.
+710 20 \a Kuwait Institute for Scientific Research. \b Food Resources Division
+       . \b Aridland Agricultural Department.
+710 10 \a Kuwait. \b Public Authority for Agricultural Affairs and Fish Resour
+       ces.
+710 20 \a Kuwait Foundation for the Advancement of Sciences.
+930    \a 951105
+
+Record# 29: 
+LDR 00882nam a2200217 a 4500
+041    \a engara
+090    \a In-Process
+100 1  \a Al Shayji, Naiema.
+245 1  \a Science and technology and the environmnet  / \c Naima Al-Shayji and
+        Samira Omar. \k Conference File.
+246 1  \a علوم وتكنولوجيا والبيئة.
+260    \a Kuwait : \b KISR, \c 2006.
+300    \a 29  leaves : \b illustrations ; \c 28 cm.
+500    \a Includes bibliographical references.
+506    \a General paper.
+546    \a English with abstract in Arabic.
+650  0 \a Environmental science \v Conferences.
+650  0 \a Industrial development \v Conferences.
+650  0 \a Environmental research $v Conferences.
+700 1  \a Omar, Samira Ahmad Sayed.
+710 2  \a Kuwait Institute for Scientific Research.
+711 2  \a Kuwait National Symposium on Sceince and Technology for Development
+        \n (1st.: \c Kuwait: \d 2005).
+
+Record# 30: 
+LDR 01467nam a2200253 a 4500
+100 1  \a Banat, I. M.
+245 10 \a Biosurfactant use for oil tank sludge cleaning. Voll. l (task lll) :
+        \K Research File / \c I. M. Banat...[et al.], Biotechnology Department
+       , Food Resources Division.
+260    \a Kuwait : \b KISR, \c 1987.
+300    \a ii, 11 [2] leaves ; \c 28 cm.
+500    \a Submitted to Kuwait Consulting and Investment Company.
+500    \a Project Code: BT-22 (Formerly RFP-145).
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: November 1987.
+506    \a Restricted.
+520    \a A cleanup demonstration test was carried out by Cargo Fleet Chemical
+       s Co. (UK) on oil storage tank No. 12, South Ahmadi Farm (KOC). Two ton
+       s of biosurfactant produced at KISR were used to remove and clean the s
+       ludge bottom of the oil storage tank. The cleaning-up process continued
+        for 45 days and was successful in removing the sludge from the oil sto
+       rage tank bottom and allowed the recovery of nearly 90% of the hydrocar
+       bons trapped in the sludge for reuse as crude oil.
+650  4 \a Pet 1006 \v Researches.
+650  4 \a Oil recovery \v Researches.
+650  4 \a Sluge removal \v Researches.
+700 10 \a Horne, R.
+700 10 \a Al Ali, Amani Ali.
+700 10 \a Rizner, J.
+710 20 \a Kuwait Institute for Scientific Research. \b Food Resources Division
+       . \b Biotechnology Department.
+710 20 \a Kuwait Consulting and Investment Company.
+930    \a 940601
+
+Record# 31: 
+LDR 04255nam a2200253 a 4500
+100 1  \a Mathews, C. P.
+245 10 \a Proceedings shrimp and fin fisheries management workshop, 9-11 Octob
+       er 1983. Vol. l : /k Research File  / \c C. P. Mathews, Mariculture and
+        Fisheries Department, Food Resources Division.
+260    \a Kuwait : \b KISR, \c 1984
+300    \a 2 v. ; \c 28 cm.
+500    \a Project Code: MB-48.
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: June 1984.
+506    \a General.
+520    \a The physical, chemical and biological variations in the marine envir
+       onment affect the migration, breeding period and fishing grounds of com
+       mercially important fish and shrimp. Numerous other marine organisms ar
+       e also directly or indirectly affected by such physical and chemical pa
+       rameters of the water as movement of water masses, temperatures, salini
+       ties, and nutrient levels. M arine organisms have evolved within a narr
+       ow range of variations in physical and chemical parameters. Living orga
+       nisms are very vulnerable even to minor variations. Drastic changes may
+        result from industrial activities or from the growth of human populati
+       on living near the sea. In many parts of the world, it is now accepted 
+       that precise and accurate oceanographic information is extremely import
+       ant, not only for biological studies but also for engineering, commerci
+       al development and environmental studies. Socio-economic planning, the 
+       establishment of industrial complexes and sound fisheries management, a
+       ll require a precise kno wledge of the physical, chemical and biologica
+       l characteristics of the local hydrosphere, particularly those areas of
+        the sea enclosed by land. This is particularly true of such an area as
+        Kuwait waters, which have already been exposed to major coastal develo
+       pment, because of the presence of an important fishery.
+520    \a A good deal of marine research has been conducted in the Gulf during
+        the last century, but its strategic importance, together with the inte
+       rest stimulated by the importance of the harvests of fish, shrimp and p
+       earl-oysters, has caused greater interest in certain disciplines than i
+       n others. For instance, land-based meteorology has been conducted on a 
+       semi-regular basis for some time; routine reports have been collected o
+       ver a series of years, often with interruption in some areas, with peri
+       odic publications of data.
+520    \a Hydrographic surveys and observations have been carried out from tim
+       e to time in the Arabian Gulf; the most interesting include studies by 
+       Barlow (1932 a, b, c), Curries et al. (1973), Dubach (1964), Defant (19
+       61), Emery (1956), Grasshoff (1975, 1976), the Hydrographic Office (194
+       2, 1943), La Violette and Frontenac (1967); Sonu (1979) and Von Trepka 
+       (1970). Recently, Brewer et al. (1978) reported the results of a major 
+       oceanographic cruise covering the Iranian (eastern) portion of the Gulf
+       , including all of the basic physical, chemical and biological paramete
+       rs normally studied by oceanographers. Most of the studies covered fair
+       ly short periods, however, and included mostly physical parameters such
+        as temperature and salinity.
+520    \a The most useful of these may be the studies of Grasshoff (1976), Dub
+       ach and Wehe (1954) and La Violette and Frontenac (1967). Very few incl
+       ude any work on currents; most work reported on currents is based on su
+       rface current observations carried out by vessls of opportunity.
+520    \a Therefore, the primary aims of this study were to extend the knowled
+       ge of oceanographic characteristics, to provide marine environmental da
+       ta for the Fisheries Management Project and to carry out systematic oce
+       anographic investigations in Kuwait waters. It was planned to identify 
+       oceanographic phenomena by dealing with as many parameters as possible.
+        Nutrient surveys were not included, but are planned for future years.
+650  0 \a Fisheries \x Management \z Arabian Gulf \v Workshops.
+650  0 \a Shrimps \x Industries \z Arabian Gulf \v Workshops.
+650  0 \a Fishes \x Industries \z Arabian Gulf \v Workshops.
+710 20 \a Kuwait Institute for Scientific Research. \b Food Resources Division
+       . \b Mariculture and Fisheries Department.
+740 01 \a 1983 shrimp and fin fisheries management workshop.
+930    \a 940530
+
+Record# 32: 
+LDR 01574nam a2200229 a 4500
+100 1  \a Teng, S. K.
+245 10 \a Alteration of the spawning season of sobaity (acanthopagrus curveri)
+        by manipulation of phtoperiod and/or water temperature : \k Research F
+       ile \c A preliminary study by S. K. Teng, A. Al-Marzouk, C. El-Zhar, Ma
+       riculture and Fisheries Department, Food Resources Division.
+260    \a Kuwait : \b KISR, \c 1993.
+300    \a vii, 82 leaves ; \c 28 cm.
+500    \a Project Code: MB-78.
+500    \a Type of publication: Final Report.
+500    \a Date of Publication: April 1993.
+506    \a General.
+520    \a Three-year-old sobaity (Acanthopagrus cuvleri) were subjected to man
+       ipulations of (a) water temperatures which were changed to a cycle of 1
+       8-22C compared to natural cycle of 14-31C; the changed temperature cycl
+       e was tested In combination of a simulated natural photo period by fluo
+       rescent lights, (b) photo period at a constant range of 12 h light/d pl
+       us natural water-temperature cycle, and simulated natural photo period 
+       cycle plus natural water-temperature cycle served as control. Effects o
+       f the manipulations on altering the spawning period of the fish were st
+       udied.
+650  4 \a Water temperature cycle $v Workshops.
+650  4 \a Photo period \v Workshops.
+650  4 \a Fecundities \v Workshops.
+650  4 \a Spawning period \v Workshops.
+700 10 \a Al Marzouk, Ahmad Ibrahim Ahmad.
+700 10 \a Al Zahr, C. R.
+710 20 \a Kuwait Institute for Scientific Research. \b Food Resources Departme
+       nt. \b Mariculture and Fisheries Department.
+930    \a 940530
+
+Record# 33: 
+LDR 01599nam a2200253 a 4500
+100 1  \a Qamhiyah, Z.
+245 10 \a Beach well seawater intake : \k Research File  / \c Z. Qamhiyah, Mat
+       erials Application Department, Petroleum, Petrochemicals and Materials 
+       Division.
+260    \a Kuwait : \b KISR, \c 1989.
+300    \a v, 146 leaves \c 28 cm.
+500    \a Submitted to Ministry of Electricity and Water.
+500    \a Project Code: MS-67 (Formerly RFP-143).
+500    \a Type of Publication: Final Report.
+500    \a Date of Publication: September 1989.
+506    \a Restricted.
+520    \a Seawater reverse osmosis (R0) units are usually fed with conventiona
+       lly pretreated surface seawater- Surface seawater is pretreated to prev
+       ent membrane fouling which reduces the membrane's efficiency and necess
+       itates expensive periodic shut-downs and cleaning of the membranes - Co
+       nventional pretreatment is costly, space-consuming and, after starting,
+        requires considerable time to give a filtrate of acceptable quality - 
+       The performance of conventional pretreatment systems is usually unsatis
+       factory and filtrate quality and quantity are not steady.
+650    \a Pretreatment \v Researches.
+650    \a RO desalination \v Researches.
+650    \a Seawater intake \v Researches.
+650    \a Membrance \v Researches.
+653    \a Water quality \v Researches.
+653    \a Costs $v Researches.
+710 20 \a Kuwait Institute for Scientific Research. \b Petroleum, Petrochemica
+       ls and Materials Division. \b Materials Application Department.
+710 10 \a Kuwait. \b Ministry of Energy, Electricity and Water.
+930    \a 940531
+
+Record# 34: 
+LDR 01677nam a2200157 a 4500
+100 1  \a Hago, Abdel Wahed.
+245 1  \a Effect of the Fineness of Artificial Pozzolana (Sarooj) on the Prope
+       rties of Lime-Pozzolana Mixes : \k Article File
+260    \a $a [S.I. : \b s.n.], \c 2002
+520    \a Strength development of lime-pozzolana mortars is affected by the fi
+       neness of the pozzolan. This paper examines the effect of the fineness 
+       of artofocoal pozzolana on the strength development of lime-pozzolana m
+       ixtures. An artificial pozzolana produced by calcining clays from Oman 
+       was used in this study. The artificial pozzolana is locally known as ""
+       Sarooj"", and is currently being used in a big project for the restorat
+       ion of historical monuments undertaken by the Omani Ministry of Nationa
+       l Heritage and Culture. The artificial pozzolana was ground to various 
+       degrees of fineness, blended with hydrated lime with a ration of 3:1, a
+       nd the resulting mortar was used to make hardened mortar cubes. Strengt
+       h of mortar cubes was measured at ages of 7, 14, 28 and 90 days of cast
+       ing. The experimental results show that good artificial pozzolanas show
+        a linear correlation between the Blaine fineness of the artificial poz
+       zolana and the compressive strength, but such relationship does not exi
+       sts for weak type pozzolanas. The fineness of the artificial pozzolana 
+       has its most significant effect on delayed strength gain, with more pro
+       nounced effect for good type pozzolan."
+650  4 \a Pozzolana \v Articles.
+650  4 \a Sarooj \v Articles.
+650  4 \a Cement \v Articles.
+650  4 \a Strength Tests \v Articles.
+650  4 \a Chemical Tests \v Articles.
+773 1  \t SCIENTIFIC RESEARCH
+773 1  \g Vol.7, Issue 2
+
+Record# 35: 
+LDR 02048nam a2200145 a 4500
+100 1  \a Qahraman, Naso S.
+245 1  \a Evaluation of Seminal Fluid Parameters, Reproductive Hormones and Te
+       sticular Biopsy for non-obstructive Azoospermic Patients with Sertoli c
+       ell only Syndrome" : \k Article File
+260    \a [S.I. : \b s.n.,] \c 2006
+520    \a The aims of this study were (i) to determine the seminal fluid param
+       eters, levels of serum reproductive hormones, testicular size and diame
+       ter of seminiferous tubules depending on multiple testicular biopsies f
+       rom non-obstructive azoospermic (NOA) patients, and (ii) to assess the 
+       effect of smoking on concentrations of serum reproductive hormones. Thi
+       rty four NOA patients were involved in the present study. The selection
+        of patients was based on an average of 2 pelleting semonal analysis, r
+       eproductive hormones profile and diagnostic testicular biopsy. A detail
+       ed questionnaire was used to obtain a thorough history from the patient
+       s. The results of this study showed that the mean age of NOA patients w
+       ith Sertoli cell only syndrome (SCOS) was 33.875 years, and 47.05% of N
+       OA patients have had 2-4 years duration of infertility. Macroscopic exa
+       mination of seminal fluid appeared to have normal values as reported by
+        WHO. Non-significant (P>0.05) difference was observed for testicular s
+       ize and diameter of seminiferous tubules between right and left testis.
+        High and abnormal concentrations of serum FSH were registered for NOA 
+       patients with SCOS. However, non-significant (P>0.05) differences were 
+       reported for concentrations of serum reproductive hormones between smok
+       ers and non smokers. In conclusion, testicular biopsy is the useful and
+        predictable diagnostic tool for NOA patients with SCOS. Further studie
+       s are needed to explain the etiology, management and prognosis of NOA p
+       atients with SCOS."
+650  4 \a Azoospermia \v Articles.
+650  4 \a Sertoli cells \v Articles.
+650  4 \a Hormones \v Articles.
+650  4 \a Testicular biopsy \v Articles.
+773 1  \t SCIENTIFIC RESEARCH
+773 1  \g Vol.11, Issue December
+
+Record# 36: 
+LDR 02817nam a2200169 u 4500
+100 1  \a Al Wosabi, Mohammad A.
+245 1  \a Investigation of Facies Types and Associations of Kuhlan Red Bed For
+       mation in NW Yemen: A New Hypothesis for Origin and Depositional Enviro
+       nment : \k Article File
+260    \a [S.I. : \b s.n.], \c 2006
+520    \a Varieties of thirteen facies types were recognized in the Kuhlan For
+       mation represented by red bed siliciclastic sequences of argillaceous s
+       ediments. Examination of the Kuhlan stratigraphic column included seque
+       nce relationships, lithology, sedimentary characters, structures and pe
+       trography of the dominant rock types. These facies types are grouped in
+        three distinct associations of facies. The lower init A comprises asso
+       ciation of facies (Distal turbidites) represented by altenates of turbi
+       dity sequences including sandstone, siltstone and thick shale beds. The
+       se facies types confirm a regressive depositional environment in deep m
+       arine shelf conditions. There are three facies types which are identifi
+       ed as massive sandstone, cross-bedded sndstone and pebbly sandstone fac
+       ies. The middle unit B association of facies (Proximal turbedites) repr
+       esents glaciomarine sequences displaying high latral and vertical facie
+       s changes of glacioturbidite sediment alternates with diamictites and t
+       illite beds. The sequences are affected by eustatic and eustatism of th
+       e glacial advance and retreat. This unit B includes eight types of faci
+       es. These are identified as; tillite, massive diamictites, stratified d
+       iamictites, laminated siltstone/shale, deformed siltstone/mudstone, gra
+       ded rhythmic siltstone, massive conglomerate and cross-stratified sandy
+        conglomerate facies. The upper unit C association of facies is represe
+       nted by shallow marine shelf sequences displaying very thick massive an
+       d locally cross-bedded sand bar sandstone overlying the laminated silts
+       tone/shale interbeds. The upward gradual changes in mineralogical compo
+       sition and color confirms the start of marine transgression and later d
+       eposited platform Amran Group.  Mineralogical composition of Kuhlan san
+       dstone displays impure dirty rocks consisting of more than 30% of argil
+       laceous matrix, 50% of cristobalite and quartz grains, more than 10% of
+        ferruginous cement and 10% of detrital iron oxide grains, potash felds
+       par, igneous rock fragments and carbonate cement. It is classified as q
+       uartz greywacke type in the lower and middle parts and as quartz arenit
+       e with subarkoses in the upper part."
+650  4 \a Kuhlan Formation \z Yemen \v Articles.
+650  4 \a Siliciclastics \z Yemen \v Articles.
+650  4 \a Red beds \z Yemen \v Articles.
+650  4 \a Facies \z Yemen \v Articles.
+650  4 \a Glacioturbidites \z Yemen \v Articles.
+650  4 \a Diamictites \z Yemen \v Articles.
+773 1  \t SCIENTIFIC RESEARCH
+773 1  \g Vol.11, Issue December
+
+Record# 37: 
+LDR 01366nam a2200145 a 4500
+100 1  \a Deadman, Michael Leonard.
+245 1  \a Sustainability & the control of diseases in greenhouse crops in Oman
+        : \k Research File
+246 1  \a إستدامة زراعة البيوت المحمية ومكافحة
+        أمراضها بسلطنة عمان
+260    \a Muscats : $b Sultan Qaboos University. College of Agricultural and M
+       arine Sciences, $c 1999.
+520    \a The vegetable sector is one of the principal crop production sectors
+        in the Sultanate.  The Ministry of Agriculture and Fisheries has ident
+       ified the greenhouse vegetable production sector as a priority for expa
+       nsion.  Soil borne diseases represent the sin
+520    \a يعتبر قطاع الخضراوات من أهم قطاعات ال
+       إنتاج الزراعي الرئيسي بالسلطنة. وقد وض
+       عت وزارة الزراعة والثروة السمكية إنتاج
+        الخضراوات في البيوت المحمية في الأولو
+       ية من حيث التوسع. لكن الأمراض الكامنة ب
+       التربة تمثل المعوق الأكبر للإنتاج الحا
+       لي والخطر الاوحد والأكبر لل
+650  4 \a Greenhouse crops \z Oman \v Researches.
+650  4 \a Fisheries \z Oman \v Researches.
+650  4 \a greenhouse vegetable production \z Oman \v Researches.
+710 2  \a Sultan Qaboos University.
+
+Record# 38: 
+LDR 02144nam a2200181 a 4500
+100 1  \a Al Jabri, Ali Abdallah.
+245 1  \a How does HIV-1 Infect a Susceptible Human Cell? : Current thinking :
+        \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2003.
+506    \a Review Article
+520    \a To insure its survival, the human immunodeficiency virus (HIV), the 
+       causative agent of acquired immunodeficiency syndrome (AIDS), utilises 
+       more than one gate to enter a target cell. This strategy makes it more 
+       difficult for the immune system to defeat the virus. This has also made
+        it difficult for scientists working in the HIV research to understand 
+       how exactly HIV infects a susceptible human cell. Such understanding wi
+       ll no doubt open many gates for scientists to vanquish the virus by des
+       igning agents that can block HIV entry into target cells, thus renderin
+       g the virus vulnerable to immune destruction. This will also help in un
+       derstanding the replication of the virus and the pathogenesis of the di
+       sease. The present article briefly describes the past and current think
+       ing of how HIV-1 infects a susceptible human cell, and the dilemma scie
+       ntists are facing when studying the infectivity of this virus and apply
+       ing current knowledge to design agents that can block HIVs entering tar
+       get cells. In the context of our own experience with HIV infectivity in
+        vitro, the present article will also address the behaviour of differen
+       t HIV isolates, both laboratory-adopted and clinical (primary) isolates
+        in culture and the difficulties in performing HIV infectivity testing.
+        Moreover, our experience of peripheral blood mononuclear cells� (PBM
+       Cs) susceptibility to HIVs infection in vitro is discussed. Key words: 
+       HIV, AIDS, infection, immune, virus, susceptible cell"
+650  4 \a HIV-1 Infect \z Oman \v Researches.
+650  4 \a Susceptible \z Oman \v Researches.
+650  4 \a Human Cell \z Oman \v Researches.
+710 2  \a Sultan Qaboos University.
+740    \a Sultan Qaboos University Medical Journal.
+773 1  \t Sultan Qaboos University Medical Journal.
+773 1  \g Vol.5 Issue 1
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=15
+
+Record# 39: 
+LDR 01554nam a2200145 u 4500
+100 1  \a Kasapis, Stefan.
+245 1  \a Fish product development for export and the local market: a strategi
+       c programme of fresheness, quality control, microbiology and processing
+        of fish \k Research File
+246 1  \a تطوير المنتجات السمكية للتصدير و الس
+       وق المحلي: برنامج استراتيجي للطزاجة ، ض
+       بط الجودة ، ميكروبيولوجيا و تصنيع السم
+       ك
+260    \a Muscats: $bSultan Qaboos University, College of Agricultural and Mar
+       ine Sciences $c 2000.
+520    \a The rich and diverse fish stocks of Oman, the main source of wealth 
+       after oil, are the most important long-term renewable resources. Howeve
+       r, they are not fully utilized. A proportion of the fish harvest is exp
+       orted, but fish quality represents a serious "
+520    \a يعتبر المخزون السمكي الغني و المتنوع 
+       في عمان ، المصدر الرئيسي للثروة بعد الب
+       ترول من أهم الثروات المتجددة طويلة الأ
+       مد.   لكن هذه الثروات لا تستغل بشكل كامل
+       ، فجزء من الأسماك المصادة يصدر إلى الخا
+       رج لكن جودة الأسماك تشكل مشكلة جدية للت
+       صدير.  يحدث هذا في الوق"
+650  4 \a Fish Products \z Oman \v Reseraches.
+650  4 \a fresheness \z Oman \v Reseraches.
+650  4 \a Fish markets \z Oman \v Reseraches.
+710 2  \a Sultan Qaboos University. \b College of Agricultural and Marine Scie
+       nces.
+
+Record# 40: 
+LDR 02534nam a2200193 a 4500
+100 1  \a Al Attal, Y. Z.
+245 1  \a Influence of Pollination Technique on Greenhouse Tomato Production :
+        \k Article File
+260    \a Muscats : $b  Sultan Qaboos University, $c 2003.
+506    \a Orginal Study
+520    \a An experiment was carried out to study the effects of four pollinati
+       on techniques; Bumblebees (Bombus terrerstris L.), plant growth bioregu
+       lator (PGB) (Parachlorophenoxy acetic acid), hand vibration, and contro
+       l (natural pollination) on tomato (Lycopersicon esculentum Mill) produc
+       tion in greenhouses. Bumblebees showed no problem in visiting flowers a
+       t a temperature range of 17-42-C during the day and 2-14-C at night. Bu
+       mblebee pollinated plants produced a yield per plant which was signific
+       antly higher than plants treated with PGB, vibration and the control, r
+       espectively. Fruit set of tomato flowers over 10 clusters was 99.1, 96.
+       7, 76.7, and 65.7% for bumblebee treatment, PGB application, vibration 
+       and the control, respectively. In the bumblebee pollinated flowers, the
+        quality of fruits was superior. The fruits were hard, with more seeds,
+        and had a high specific gravity and better appearance. The average fru
+       it weight was 100.3, 80.5, 84.1, and 70.6 g for the bumblebee, PGB, vib
+       ration and the control, respectively. The PGB treatment produced bigger
+        sized but puffy fruits (108.4 ml). While fruit size in the vibration t
+       reatment was the highest (126.8 ml), followed by the bumblebee and the 
+       control which were 99.3 and 98.5 ml, respectively. Fruit specific gravi
+       ty in the bumblebee treatment was significantly higher than other treat
+       ments, with no significant differences between the PGB and the vibratio
+       n treatments. The least dense fruits were in the control treatment. Reg
+       arding the firmness of fruits, the bumblebee treatment gave the hardest
+        fruits, while the PGB and the vibration treatments were intermediate a
+       nd the control was the least. Average seed number per fruit was 177.0, 
+       86.5, 61.8, and 89.8 for bumblebee, vibration, PGB and the control, res
+       pectively"
+650  4 \a Bumblebees \z Jordan \v Articles.
+650  4 \a tomato \z Jordan \v Articles.
+650  4 \a pollination \z Jordan \v Articles.
+650  4 \a Plastichouse \z Jordan \v Articles.
+650  4 \a Greenhouse \z Jordan \v Articles.
+773 1  \g Vol.8, Issue 1
+773 1  \t Journal of Agricultural and Marine Sciences
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No1.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-1/jamsy2003v08n01p21-26
+       .pdf
+
+Record# 41: 
+LDR 01490nam a2200205 a 4500
+043    \a a-ku---
+090    \a IN-PROCESS
+100 1  \a Alam Al Din, Q.
+245 10 \a Trigger synchronization of a streak camera in a laser fluorosensor s
+       ystem : \k Article File / \c Q. Alemeddine, M. F.  Quinn,,A.  Alhusaini
+       .
+260    \a [Place of publication not identified: \b publisher not identified],
+        \c 2002.
+520    \a Due to detrimental effects of the relative vertical motion of a lase
+       r Fluorosensor system and an oil spill on the sea surface during airbor
+       ne operations, it was necessary to develop a trigger synchronization pr
+       ocedure which was independent of the motion. This was accomplished by u
+       sing the laser radiation scattered from the oil spill to start the trig
+       gering process. To compensate for unavoidable electronic delays, it was
+        necessary to delay the fluorescence pulses accompanying the scatter by
+        passing them through an optical fiber. An analysis was carried out to 
+       investigate the pulse broadening effects arising from the use of the fi
+       ber.
+650  4 \a Fiber \z Kuwait \v Articles.
+650  4 \a Laser \z Kuwait \v Articles.
+650  4 \a Deconvolution \z Kuwait \v Articles.
+700 1  \a Al Husaini, A.
+700 1  \a Quinn, M. F.
+700 1  \a Qabazard, Adel Mohammad.
+740    \a Kuwait Journal of Science and Engineering
+773 1  \t Kuwait Journal of Science and Engineering \g vol. 29. issue 2 (2002)
+        p. 41-56
+
+856 40 \u http://www.scopus.com/scopus/inward/record.url?eid=2-s2.0-0036993316
+       &partnerID=40
+
+Record# 42: 
+LDR 03105nam a2200205 a 4500
+100 1  \a Srikandakumar, A.
+245 1  \a Anatomy and Histology of the Female Reproductive Tract of Arabian Ca
+       mel : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2003.
+506    \a Orginal Study
+520    \a To exploit the recent advances in techniques such as super ovulation
+        and embryo transfer a sound understanding of the reproductive biology 
+       of the camel is essential. One hundred and twenty normal non-pregnant a
+       nd eight pregnant female camel reproductive tracts from the abattoir we
+       re examined. All the histological slides were stained with H & E. The c
+       amels uterus was shaped more like the letter T than the classical Y sha
+       ped bipartite uterus seen in other ruminants. The left horn was signifi
+       cantly (p < 0.05) longer (77.75 mm - 5.58: mean - sem) than the right h
+       orn (59.37 mm - 2.95). The length of the uterine body was 67.56 mm - 5.
+       68. In all eight early pregnant tracts, the fetuses were exclusively im
+       planted in the left uterine horn. The cervix was very short (3.62 mm - 
+       1.32) with 4 to 5 rows of outgrowth ridges and the vagina was relativel
+       y long (322.6 mm - 4.21). The endometrial lining consisted of a single 
+       layer of columnar epithelium supported by a broad, highly cellular conn
+       ective tissue stroma with simple tubular glands. A thick layer of myome
+       trium surrounded the endometrial tissue. The oviducts were 140 to 300 m
+       m long, larger at the uterine end and opened into the uterine horn with
+        distinct circular papilla like projections. The oviductal epithelium c
+       onsisted of a single layer of ciliated and non-ciliated columnar cells.
+        The camel is a seasonally polyestrus induced type of ovulating animal.
+        Decreasing length of daylight appears to be the stimulus for seasonali
+       ty in camels. This can account for the various ovarian structures that 
+       were seen in the ovaries, which were collected during the shorter day l
+       ength months of November and December. The ovaries were flattened, lobu
+       lated and each ovary was enclosed in an ovarian bursa. In the mature fo
+       llicles, the inner avascular zona granulosa layer was made up of severa
+       l layers of cells and was surrounded by a vascular thecal layer of cell
+       s. The histological appearances of atretic follicles varied enormously.
+        Large follicles (> 10mm) and small follicles (5-10 mm) were seen in 96
+       % of the ovaries examined. The Graafian follicles were 13.55 mm � 2.7
+       4 and the corpora lutea were 8.92 mm � 0.54 in diameter. In contrast 
+       to previous anatomical studies, we have found that the camel clearly ha
+       s a bipartite uterus."
+650  4 \a Productive biology \v Articles.
+650  4 \a Super ovulation \v Articles.
+650  4 \a Embryo transfer \v Articles.
+650  4 \a Arabian Camels \x Anatomy \v Articles.
+710 2  \a Sultan Qaboos University.
+740    \a Journal of Agricultural and Marine Sciences.
+773 1  \t Journal of Agricultural and Marine Sciences.
+773 1  \g "Vol.8, Issue 2"
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No2.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-2/jamsy2003v08n02p63-66
+       .pdf
+
+Record# 43: 
+LDR 02325nam a2200205 a 4500
+100 1  \a Hussain, A. S.
+245 1  \a Effect of Enzyme Supplementation and Diets Containing Date Pits on G
+       rowth and Feed Utilization of Broiler Chickens : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2003.
+506    \a Orginal Study
+520    \a Trials were conducted to investigate the influence of enzyme supplem
+       entation on the performance of broiler chickens that were fed diets con
+       taining varying levels of date pits. A 3 x 2 factorial design arrangeme
+       nt of treatments was used consisting of three diet types (control, 10% 
+       uncooked date pits or 10% cooked date pits) and two enzyme levels (0 or
+        0.1%). The six diets were fed to three groups of commercial Hubbard br
+       oiler chicks (9 chicks per group) for four weeks. Body weight gains of 
+       broiler chicks receiving diets containing 10% uncooked date pits were s
+       ignificantly (P<0.05) increased compared to birds fed the control. The 
+       addition of enzyme to diets did not significantly affect broiler perfor
+       mance parameters. In another experiment, three groups of nine birds eac
+       h were randomly assigned to each of eight dietary treatments. A 4 x 2 f
+       actorial design arrangement of treatments was used (during the starter 
+       and finishing period) consisting of four levels of uncooked date pits (
+       0, 10, 15, and 20%) and two enzyme levels (0 or 0.1%). The results show
+       ed that dietary date pits did not affect body weight gain, feed intake 
+       or feed conversion ratio during the starter and finishing periods. Addi
+       ng 0.1% enzyme to the starter diets significantly (p<0.05) increased bo
+       dy weight gain, but did not affect feed intake and feed conversion rati
+       o. These experiments showed that adding date pits with or without enzym
+       e to the broiler diets had no effect on broiler performance."
+650  4 \a Date pits \z Oman \v Articles.
+650  4 \a Enzymes \z Oman \v Articles.
+650  4 \a Growth performance \z Oman \v Articles.
+650  4 \a Broilers \z Oman \v Articles.
+710 2  \a Sultan Qaboos University.
+740    \a Journal of Agricultural and Marine Sciences.
+773 1  \t Journal of Agricultural and Marine Sciences.
+773 1  \g Vol.8, Issue 2
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No2.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-2/jamsy2003v08n02p67-71
+       .pdf
+
+Record# 44: 
+LDR 01890nam a2200181 a 4500
+100 1  \a Al Moshilah, A. M.
+245 1  \a Identification of Some Date Palm (Phoenix dactylifera L.) Cultivars 
+       in Saudi Arabia Using RAPD Fingerprints : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2004.
+506    \a Orginal Study
+520    \a The suitability of randomly amplified polymorphic DNA (RAPD) fingerp
+       rints as genetic markers in date palms was tested. Five date palm culti
+       vars (Barhi, Nabtet Ali, Rothanah, Ajwa, and Sokkari) from Saudi wellkn
+       own dates were subject to DNA fingerprint analysis. From 20 primers tes
+       ted, only 12 were selected as reproducible, giving 64 bands. The RAPD p
+       rofiles obtained were successfully used to differentiate the genotypes.
+        Based on the pair-wise comparison of amplification products, the genet
+       ic similarity was estimated. The five date palm cultivars showed variat
+       ion at the DNA level. The genetic similarity among all date palm cultiv
+       ars ranged from 70 to 85%. Sokkary was quite distant from Barhi and Ajw
+       a cultivars. A dendrogram was constructed using UPGMA analysis. On the 
+       basis of this analysis, the populations were clustered into two cluster
+       s: cluster I contained Barhi and Ajwa cultivars, and cluster II contain
+       ed Nabtet Ali, Rothanah and Sokkari cultivars. Therefore, the polymorph
+       ism detected and its reproducibility suggest that RAPD markers are reli
+       able for identification of Saudi date palm cultivars."
+650  4 \a Date palm \z Saudi Arabia \v Articles.
+650  4 \a Genetic markers \z Saudi Arabia \v Articles.
+710 2  \a Sultan Qaboos University.
+740    \a Journal of Agricultural and Marine Sciences.
+773 1  \t Journal of Agricultural and Marine Sciences.
+773 1  \g Vol.9, Issue 1
+856    \u http://www.squ.edu.om/jams/articles/content-vol9-no1.html
+856    \a http://www.squ.edu.om/jams/articles/volume-9-1/jamsy2004v09n01p01-03
+       .pdf
+
+Record# 45: 
+LDR 02534nam a2200217 a 4500
+100 1  \a Sobrinho, A. G. Silva.
+245 1  \a Effect of Genotypes and Age on Carcass and Meat Quality Characterist
+       ics of Ram Lambs : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2003.
+506    \a Orginal Study
+520    \a The objectives of this study were to evaluate the composition and me
+       at quality characteristics of carcasses from ram lams born to Romney ew
+       es sired by Romney, East Friesian X (Finn X Texel) and Finn X Dorset ra
+       ms slaughtered at 150 or 300 days of age. Complete dissections of one l
+       eg from each carcass into muscle, fat and bone components were evaluate
+       d. Weight-adjusted carcass weight and length were greater (P<0.05) for 
+       lambs sired by East Friesian X (Finn X Texel) and Finn X Dorset rams wi
+       th no differences in dressing-out percent. At a constant carcass weight
+       , there was no difference in carcass fatness (fat depth and leg dissect
+       ible fat) between lambs sired by East Friesian X (Finn X Texel), and Fi
+       nn X Dorset rams. Meat yield and muscle: bone ratio at a constant weigh
+       t tended to be greater in lambs sired by Finn X Dorset and to a lesser 
+       extent in those sired by East Friesian X (Finn X Texel). Leg muscularit
+       y in the femur region was significantly lower (P<0.05) in lambs sired b
+       y Finn X Dorset rams than those sired by Romney or East Friesian X (Fin
+       n X Texel) rams. Lambs slaughtered at 300 days had heavier (P<0.001) sl
+       aughter and carcass weights and higher (P<0.05) dressing-out percent. S
+       hear force value was significantly lower (P<0.05) for muscles from lamb
+       s sired by Romney than those sired by other genotypes. The results of t
+       he present study indicated that lambs sired by Friesian X (Finn X Texel
+       ) and Finn X Dorset rams had less fat and more muscle to bone ratios th
+       an those sired by Romney, while lambs slaughtered at 150 days of age we
+       re fatter and had shorter carcasses than those slaughtered at 300 days 
+       of age at the same carcass weight."
+650  4 \a Carcass composition \z Oman \v Articles.
+650  4 \a Meat quality \z Oman \v Articles.
+650  4 \a Lambs \z Oman \v Articles.
+650  4 \a Genotypes \z Oman \v Articles.
+650  4 \a Ram lambs \z Oman \v Articles.
+710 2  \a Sultan Qaboos University.
+740    \a Journal of Agricultural and Marine Sciences
+773 1  \t Journal of Agricultural and Marine Sciences
+773 1  \g Vol.8, Issue 2
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No2.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-2/jamsy2003v08n02p73-78
+       .pdf
+
+Record# 46: 
+LDR 01562nam a2200205 a 4500
+100 1  \a Benkeblia, N.
+245 1  \a Effect of Anoxia on Respiration Rate (Fermentative Index) and Ethano
+       l Production of Onion Bulbs (Allium cepa L.) : \k Article File
+260    \a Muscats: \b Sultan Qaboos University \c 2004.
+506    \a Orginal Study
+520    \a The physiological behavior, including carbon dioxide production, fer
+       mentative index (FI) and ethanolic production of onion bulbs kept under
+        total anoxia (100% N2) was investigated. During the first 24 hours, ca
+       rbon dioxide production increased from 0.01 to 1.56 kPa CO2, and the av
+       erage rate of the increase in CO2 production between 0 and 24 hours was
+        0.09 kPa/h. The Q10 of the fermentative index was 1.9. Ethanol produce
+       d by onion bulbs kept under anoxia during 6 hours was temperature depen
+       dent, and was 0.563 and 0.760 pmol kg-1 h-1 at 10 and 20?C respectively
+       , while at 4?C the quantity produced was not detected. It is concluded 
+       that onion seems to be less tolerant to anoxia than other vegetables su
+       ch as artichoke, cauliflower, tomato, potato and asparagus.
+650  4 \a Anoxia \v Articles.
+650  4 \a Fermentative index \v Articles.
+650  4 \a Ethanol \v Articles.
+650  4 \a Onion \v Articles.
+650  4 \a Storage conditions \v Articles.
+710 2  \a Sultan Qaboos University.
+773 1  \t Journal of Agricultural and Marine Sciences
+773 1  \g Vol.9, Issue 1
+856    \u http://www.squ.edu.om/jams/articles/content-vol9-no1.html
+856    \a http://www.squ.edu.om/jams/articles/volume-9-1/jamsy2004v09n01p05-08
+       .pdf
+
+Record# 47: 
+LDR 01489nam a2200193 a 4500
+100 1  \a Omezzine, A.
+245 1  \a Demand Elasticities of Fresh Fish Commodities: A Case Study : \k Art
+       icle File
+260    \a Muscats: \b Sultan Qaboos University, \c 2005.
+506    \a Case Study
+520    \a The objective of this paper was to estimate price and income elastic
+       ities of fresh fish commodities using a single equation estimation proc
+       edure. Demand elasticities consitute relevant market information for po
+       licy decisions for both the private and the public sectors. Results of 
+       a case study from Oman, an Arabian Gulf country, showed that income and
+        price elasticities were small but positive, indicating that fish deman
+       d will continue to increase with growing incomes, a driving force for m
+       arket development and marketing efficiency. It was argued, however, tha
+       t in the long run per capita fish consumption will stabilize but its co
+       mposition will shift toward high value added products, a profitable mar
+       ket segment for Omani fish businesses.
+650  4 \a Fisheries \z Oman \v Articles.
+650  4 \a Marketing \z Oman \v Articles.
+650  4 \a Fish consumption \z Oman \v Articles.
+710 2  \a Sultan Qaboos University.
+740    \a Journal of Agricultural and Marine Sciences.
+773 1  \t Journal of Agricultural and Marine Sciences.
+773 1  \g Vol.8, Issue 2
+856    \u http://www.squ.edu.om/jams/articles/content-vol8-No2.html
+856    \a http://www.squ.edu.om/jams/articles/volume-8-2/jamsy2003v08n02p55-61
+       .pdf
+
+Record# 48: 
+LDR 01264nam a2200193uu 4500
+100 1  \a Al Mojaini, Abdallah.
+245 1  \a Autogenous Dermis-Fat Orbital Impant for Anophthalmic Socket : \k Ar
+       ticle File
+260    \a Muscats : \b Sultan Qaboos University, \c 2007
+506    \a Case Report
+520    \a To our knowledge, there is no report of dermis-fat graft (DFG) impla
+       nt for orbital reconstruction from Oman. We hereby presented a case rep
+       ort of a ?0-year-old boy with a blind and painful left eye secondary to
+        penetrating eye injury presented with implant extrusion following evis
+       ceration with a polymethyl methacrylate implant. The evisceration proce
+       dure was converted to enucleation and a DFG orbital implant was then pe
+       rformed. Postoperatively, the graft was observed to be well integrated 
+       with the host orbital tissues and had good cosmetic and functional outc
+       omes.
+650  4 \a DFG \z Oman \v Articles.
+650  4 \a Fat Orbital Impant \z Oman \v Articles.
+650  4 \a Anophthalmos \z Oman \v Articles.
+650  4 \a Eye enucleation \z Oman \v Articles.
+650  4 \a Orbital implants \z Oman \v Articles.
+710 2  \a Sultan Qaboos University.
+773    \t Sultan Qaboos University Medical Journal.
+773    \g v.7
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=1182671593
+
+Record# 49: 
+LDR 02285nam a2200157uu 4500
+100 1  \a Alwan, K. H.
+245 1  \a Estimating Supply Response Function for Wheat : \b A Case Study :
+        \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2002
+506    \a Orginal Study
+520    \a To increase wheat production, governments can subsidize wheat farmer
+       s by purchasing their produce at a price higher than the world price. T
+       his policy did not succeed in increasing wheat production in the Irbid 
+       Governorate of Jordan, our case study area. The agricultural sector in 
+       the study area was characterized by risk in production and prices. In o
+       ur study, the supply response function based on the Nerlovian Model was
+        estimated for wheat produced in Irbid Governorate. Wheat area, in the 
+       model, was the dependent variable in the supply response function. The 
+       independent variables were: wheat planted area in Dunums in the current
+        and previous year respectively, the weighted price of wheat in the pre
+       vious year deflated by the Consumer Price Index (CPI), the holding frag
+       mentation coefficient in the previous year, the yield risk, and the amo
+       unt of rain in millimeters during the early months of the season (Octob
+       er, November, and December). The study reached the following conclusion
+       s: Firstly, holdings fragmentation was the major factor that negatively
+        affects wheat production. Since the heritage system is the main factor
+        that affects holding fragmentation, the policy makers need to find a w
+       ay that can decrease this effect. Secondly, lagged weighted prices were
+        found more suitable than the current weighted prices from an economic 
+       and statical point of view. Thirdly, the partial adjustment coefficient
+        was low (i.e. less than one), which means that the farmers need more t
+       han one year to change their producing habits. Finally, the farmers wer
+       e found to be risk-neutral, because their decisions depend mainly on th
+       e level and distribution of rainfall during the rainy season."
+650  4 \a Wheat \x Production \z Jordan \v Articles.
+710 2  \a Sultan Qaboos University.
+773    \t Journal of Agricultural and Marine Sciences
+773    \g v.7
+856    \u http://www.squ.edu.om/jams/articles/content-vol7-No1.html
+856    \a http://www.squ.edu.om/jams/articles/volume-7-1/jamsy2002v07n01p29-35
+       .pdf
+
+Record# 50: 
+LDR 01596nam a2200169uu 4500
+100 1  \a Khan, Iqrar Ahmad.
+245 1  \a Screening Potato Varieties for Tuber Production in Arid Regions: Eff
+       ect of Planting Date on Yield Potential: \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2002
+506    \a Orginal Study
+520    \a The effect of tuber planting date on yield of potato cultivars was e
+       xamined during three seasons. Planting date had a significant effect on
+        yield, although cultivars showed significant variation in yield potent
+       ial at the different dates. Varietal yield was significantly correlated
+        with planting date and thus was probably a response to changing temper
+       atures during the growing season. The yield increase in some cultivars 
+       was attributable to greater tuber number; in others it was because of g
+       reater tuber weight. Cultivars Vivaldi, Carlita, Bydand, Donald and Ste
+       rling were identified as having the potential for general cultivation i
+       n the arid climate of the Arabian Gulf. The results are discussed in te
+       rms of a national strategy for potato production, possibly involving a 
+       delay in planting date from mid November to mid December, allowing grea
+       ter land use efficiency during the short cropping season.
+650  4 \a Potato \z Arid \z Oman \v Articles.
+650  4 \a Planting date \z Arid \z Oman \v Articles.
+710 2  \a Sultan Qaboos University.
+773    \t Journal of Agricultural and Marine Sciences
+773    \g v.7
+856    \u http://www.squ.edu.om/jams/articles/content-vol7-No1.html
+856    \a http://www.squ.edu.om/jams/articles/volume-7-1/jamsy2002v07n01p53-57
+       .pdf
+
+Record# 51: 
+LDR 01506nam a2200181uu 4500
+100 1  \a Idris, Mohammad Ahmad.
+245 1  \a Antibodies against Rickettsia in Humans and Potential Vector Ticks f
+       rom Dhofar, Oman " : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2000
+506    \a Orginal Study
+520    \a Objective: To determine the extent of rickettsial infections prevale
+       nce of potential vector ticks in the rural population of Dhofar, Oman M
+       ethods: Human sera (n = 347) were obtained from six rural localities (s
+       chool children, farmers, outpatients) in Dhofar, Sultanate of Oman. Ser
+       a were tested by mmunofluorescence for the presence of antibodies react
+       ing with Rickettsia conorii antigen. Results: More than half the sample
+       s (59%) gave positive reactions (titres of at least 1:64). Ticks (n=707
+       ) were collected from cattle, camels and goats (n=102) and included Amb
+       lyomma variegatum, Hyalomma a. anatolicum, H. dromedarii, H. rufipes an
+       d Rhipicephalus spp., all of which can potentially transmit rickettsiae
+        to humans. Conclusions: The results suggest that rickettsial infection
+       s are common among the rural population of Dhofar.
+650  4 \a Goats \z Dhofar \z Oman \v Articles.
+650  4 \a Vector ticks \z Dhofar \z Oman \v Articles.
+650  4 \a Camels \z Dhofar \z Oman \v Articles.
+653    \a Rickettsia.
+710 2  \a Sultan Qaboos University.
+773    \t Sultan Qaboos University Medical Journal
+773    \g "Vol.2, Issue 1"
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=1177874791
+
+Record# 52: 
+LDR 01699nam a2200169uu 4500
+100 1  \a Zaidan, Zeyad A. J.
+245 1  \a Psychiatric Morbidity in Northern Jordan : \b A Ten-year Review :
+        \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2000
+506    \a Orginal Study
+520    \a Objective: To study the psychiatric morbidity in the northern part o
+       f Jordan and to determine the frequency distribution of various psychia
+       tric disorders, for planning services. Methods: All records of 2,335 ps
+       ychiatric patients attending the only psychiatric clinic in Northern pa
+       rt of Jordan during a ten-year period from 1984 to 1993 were extensivel
+       y reviewed and subjected to computerized analysis. Diagnosis was made a
+       s per ICD-9. Results: Out of the 2335 patients, who attended the clinic
+       , 55% were males and 45% were females. Those in the age group 250-44 re
+       corded the maximum attendance. Among the male attendees of the clinic, 
+       schizophrenia was the commonest diagnosis (19.9%), while among females;
+        affective disorders were the commonest (15.9%). Conclusion: Schizophre
+       nia was found to be the commonest diagnosis in general among attendance
+        of the clinic for the ten-year research period, while anxiety disorder
+       s were the commonest diagnosis among attendance of the clinic for the y
+       ear 1993. Keywords: attendance rate, schizophrenia, anxiety, affective 
+       psychosis.
+650  4 \a Schizophrenia \z Jordan \v Articles.
+650  4 \a Anxiety \z Jordan \v Articles.
+650  4 \a Effective psychosis \z Jordan \v Articles.
+653  4 \a Attendance rate \z Jordan \v Articles.
+773    \t Sultan Qaboos University Medical Journal
+773    \g Vol.2, Issue 1
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=1177874791
+
+Record# 53: 
+LDR 01815nam a2200181uu 4500
+100 1  \a Machado, Lovina S. M.
+245 1  \a Evaluation of Applicability of Standard Growth Curves to Healthy Nat
+       ive Omani Women by Fetal Biometry at Selected Gestational Ages : \k Art
+       icle File
+260    \a Muscats : \b Sultan Qaboos University, \c 2000
+506    \a Orginal Study
+520    \a Objective To verify the applicability of standard fetal growth curve
+       s proposed for Western populations to an Omani population. Method Ultra
+       sound scans were performed at selected stages of gestation on 165 healt
+       hy Omani pregnant women to measure fetal growth parameters of biparieta
+       l diameter, head circumference, cephalic index, abdominal circumference
+        and femur length. The data were compared with the commonly recommended
+        standards of Hadlock, Campbell, Sabbagha, Wexler, Jeanty and others. R
+       esults None of the standard charts agreed with the data in the present 
+       study except those of Sabbagha and Wexler for biparietal diameter and o
+       f Jeanty for femur length. Conclusion � Since most parameters of the 
+       standard growth curves developed in the West are not applicable for ass
+       essing the intra-uterine growth of Omani babies, it is necessary to dev
+       elop growth curves for the Omani population to prevent over-diagnosis o
+       f intrauterine growth retardation. Keywords: ultrasonography, bi-pariet
+       al diameter, head circumference, abdominal circumference, femur length,
+        fetal growth"
+650  4 \a Omani women \x Healthy native \v Articles.
+650  4 \a Fetal Biometry \z Oman \v Articles.
+650  4 \a Women \z Oman \v Articles.
+650    \a Omani women \x Applicability \v Articles.
+710 2  \a Sultan Qaboos University.
+773    \t Sultan Qaboos University Medical Journal
+773    \g "Vol.2, Issue 2"
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=976346953
+
+Record# 54: 
+LDR 01898nam a2200205uu 4500
+100 1  \a Al Naser, F.
+245 1  \a Evaluating Resilience Factors in the Face of Traumatic Events in Kuw
+       ait : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2000
+260    \b Sultan Qaboos University
+506    \a Orginal Study
+520    \a Objective: To identify the personality characteristics of resilience
+        in contemporary Kuwaiti society, in the aftermath of Iraqi invasion of
+        the State of Kuwait during 1990. Method Ego Resiliency Scale (ER89), a
+        14-item self-report inventory scale with a maximum score of 56, was ad
+       ministered to a sample of 495 male and female students of Kuwait Univer
+       sity, aged 17 and above. Students were also grouped according to gender
+       , age, type of education, family type, social status, educational bent,
+        and marital status to assess the effect of these variables in their re
+       silience scores. Results Over one-third (37%) of valid subjects qualifi
+       ed as highly resilient, with the males scoring higher than scores than 
+       the females. Students from extended families scored higher than those f
+       rom nuclear families. Science students had higher resilience scores tha
+       n arts students. Conclusion There is significant resilience and adaptab
+       ility among Kuwaitis, with males scoring higher than females. This stud
+       y could serve as a baseline for future inquiry into strength and resili
+       ence qualities of the Arab population in the Arabian Gulf region. Keywo
+       rds: Kuwait, personality, resilience, Arab, Ego, ER89.
+650  4 \a Personality \z Kuwait \v Articles.
+650  4 \a Resilience Factors \z Kuwait \v Articles.
+650  4 \a Traumatic Events \z Kuwait \v Articles.
+653    \a ER89.
+653    \a Ego.
+710  2 \a Sultan Qaboos University.
+773    \t Sultan Qaboos University Medical Journal
+773    \g Vol. 2, Issue 2
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=976346953
+
+Record# 55: 
+LDR 01821nam a2200181 a 4500
+100 1  \a Akbar, Daad H.
+245 1  \a Clinical Profile of Stroke : \b The Experience at King Abdel Aziz Un
+       iversity Hospital : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2001
+506    \a Orginal Study
+520    \a Objectives: To determine the pattern and risk factors of stroke in S
+       audi nationals and non-Saudis, at King Abdulaziz University Hospital (K
+       AUH), in the western province of Saudi Arabia. Method: All cases of str
+       oke admitted to KAUH in the period between January 1995 and December 19
+       99 were studied. Demographic data of the patients, stroke types, risk f
+       actors and mortality were reported. Results: Of the 103 patients studie
+       d, 56% were Saudis and 44 % non-Saudis with male predominance and mean 
+       ages of 66 and 62 years respectively. In Saudis, the stroke types were 
+       74% ischemic, 10% hemorrhagic and 16% unspecifi ed, whereas in non-Saud
+       is, the fi gures were respectively 62%, 29% and 9%. The frequency of st
+       roke increased steadily with age in Saudis but dropped after the sixth 
+       decade in non-Saudis. There was no signifi cant difference between the 
+       Saudis and the non-Saudis in the occurrence of risk factors for stroke 
+       or in mortality. Conclusion: The pattern and risk factors of cases of s
+       troke treated at KAUH are similar to those reported from other regions 
+       of Saudi Arabia and other parts of the world.
+650  4 \a Clinical Profile \z Saudi Arabia \v Articles.
+650  4 \a Risk factors \z Saudi Arabia \v Articles.
+650  4 \a stroke \z Saudi Arabia \v Articles.
+710 2  \a Sultan Qaboos University.
+710 2  \a King Abdel Aziz University Hospital \c (Riyadh).
+773    \t Sultan Qaboos University Medical Journal
+773    \g "Vol.3, Issue 1"
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=-1648389007
+
+Record# 56: 
+LDR 02342nam a2200205uu 4500
+100 1  \a Al Sharbati, Marwan M.
+245 1  \a Growth Pattern of Primary School Children in Benghazi, Libya : \k Ar
+       ticle File
+260    \a Muscats : \b Sultan Qaboos University, \c 2001
+260    \b Sultan Qaboos University
+506    \a Orginal Study
+520    \a Objective: To fi nd the growth trends in a sample of schoolchildren 
+       in Benghazi (Libya), and to compare it with international and other loc
+       al growth charts, as a step for setting the national curves. Method: Fr
+       om 25th February to 31st October 1993, a sample of 2,022 pupils (1,160 
+       boys and 862 girls) were randomly selected from three public primary sc
+       hools in three different socio-economic areas in Benghazi. A questionna
+       ire consisting of social and scholastic items was distributed to teache
+       rs a few days before the examination. The height and weight of all the 
+       pupils were measured according to the standards of Jellife, Gorstein, W
+       HO, and de Onis. Data were analyzed and compared with both the referenc
+       e standard of the United States National Center for Health Statistics (
+       NCHS-USA), and the local standards of Tripoli-1986. Results: The boys a
+       nd girls in the lowest age-group had a pattern similar to that of the r
+       eference population for both height/age and weight/age, but it dropped 
+       sharply from mid-school years. The Benghazi curves were consistently hi
+       gher than those of Tripoli, particularly for height/age. Conclusion: Th
+       e nutritional status of these children, which was good before the begin
+       ning of schooling, was negatively affected during the school years. Thi
+       s could be attributed either to births in the family and consequent neg
+       lect, or to the school�s negative effects on the child, such as lack 
+       of appetite created by anxiety or other factors. Further studies from d
+       if ferent regions of the country are needed to set national growth curv
+       es.
+650    \a Children growth \z Benghazi \z Libya \v Articles.
+650    \a Nutrition \z Benghazi \z Libya \v Articles.
+650    \a Primary Schools \z Benghazi \z Libya \v Articles.
+650    \a Children education \z Benghazi \z Libya \v Articles.
+653    \a NCHS-USA.
+710 2  \a Sultan Qaboos University.
+773    \t Sultan Qaboos University Medical Journal
+773    \g "Vol.3, Issue 1"
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=-1648389007
+
+Record# 57: 
+LDR 02329nam a2200181uu 4500
+100 1  \a Khair, Nader.
+245 1  \a Can Pharmacists Influence the Health-Related Quality of life of Pati
+       ents with Asthma? : The New Zealand Pharmaceutical Care Experience :
+        \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2001
+506    \a Orginal Study
+520    \a Background: The newly emerging practice of Pharmaceutical Care requi
+       res that pharmacists take responsibility for the outcomes of drug thera
+       py. Improvement in Quality of Life (QoL) represents the final outcome o
+       f the care process and indicates the success of interventions. Objectiv
+       es: To assess the impact of a Pharmaceutical Care specialist asthma ser
+       vice provided by community pharmacists to a sample of patients with ast
+       hma, the outcome indicators being changes in health status and QoL. Met
+       hod: Sixty-two adult asthma patients (?? years and older) living in two
+        rural regions of New Zealand, were segregated into two groups for phas
+       ed introduction to the service. The patients acted as their own control
+       s before they received the pharmacists� service. They had been diagno
+       sed with asthma at least six months previously, and their asthma was sy
+       mptomatic and not considered optimally controlled prior to the study. R
+       esults: There was significant improvement in asthma-related QoL (as mea
+       sured by the Asthma Quality of Life Questionnaire) following introducti
+       on of the service, and pharmacists were able to identify, prevent or re
+       solve over ??? drug-related problems. Conclusion: The results suggest t
+       hat with appropriate training and support, New Zealand pharmacists can 
+       help asthma patients achieve greater quality of life. This research has
+        implications for the introduction of Pharmaceutical Care services in o
+       ther countries and for patients with other conditions who require ongoi
+       ng management. Key words: Pharmaceutical Care, Quality of Life, asthma,
+        pharmacists,"
+650  4 \a Pharmaceutical Care \z New Zealand \v Articles.
+650  4 \a Quality of Life \z New Zealand \v Articles.
+650  4 \a Asthma \z New Zealand \v Articles.
+650  4 \a Pharmacists \z New Zealand \v Articles.
+710 2  \a Sultan Qaboos University.
+773    \t Sultan Qaboos University Medical Journal
+773    \g "Vol.3, Issue 2"
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=-1648389016
+
+Record# 58: 
+LDR 02194nam a2200205uu 4500
+100 1  \a Al Barwani, Solaima.
+245 1  \a Assessment of aerobic fitness and its correlates in Omani adolescent
+       s using the 20-metre shuttle run test : \b A Pilot Study : \k Article F
+       ile
+260    \c 2001
+260    \a Muscats : \b Sultan Qaboos University, \c 2001
+506    \a Orginal Study
+520    \a Objective: To assess aerobic fitness in male and female adolescents 
+       using the multistage ??-metre shuttle run test and correlate it with se
+       lected fitness variables. Method: The subjects comprised  girls and ?? 
+       boys aged - years, randomly selected from two segregated government sch
+       ools in Muscat. After the pupils filled in a short questionnaire on the
+       ir personal leisure time activities of the preceding week, their height
+       s and weights were measured. Aerobic fitness was assessed by estimating
+        each pupils minimal oxygen uptake levels (VO2max) using the multistage
+        ??-metre shuttle running test (??-MST). Results: Boys spent more time 
+       than girls on leisure physical activities, television, computer and vid
+       eo games and the Internet. The estimated VO2max in both boys and girls 
+       showed high correlation with their weekly physical activities. The time
+        spent on television and computer negatively correlated with VO2max in 
+       girls but not in boys. Girls had higher body mass index (BMI) and less 
+       VO?max compared to boys; BMI showed a negative correlation with VO?max 
+       in girls but not in boys. Conclusion: Aerobic fitness in this sample wa
+       s higher in boys than in girls and was strongly influenced by weekly ph
+       ysical activities in both genders. The ??-MST has proved a simple and i
+       nexpensive field test for aerobic fitness that could be implemented on 
+       a wide scale.
+650  4 \a Shuttle run test \z Muscats \z Oman \v Articles.   VO2max, , Oman"
+650  4 \a Aerobic fitness \z Muscats \z Oman \v Articles.
+650  4 \a Leisure time activities \z Muscats \z Oman \v Articles.
+650  4 \a Adolescent \z Muscats \z Oman \v Articles.
+653    \a VO2max
+710 2  \a Sultan Qaboos University.
+773    \t Sultan Qaboos University Medical Journal
+773    \g "Vol.3, Issue 2"
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=-1648389016
+
+Record# 59: 
+LDR 01150nam a2200229 a 4500
+100 1  \a Al Tamimi, Faisal A.
+245 12 \a A Case of Recurrent Abdominal Pain : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2002
+506    \a Case Report
+520    \a The paper decribes the case of a forty-year-old male patient who was
+        admitted with recurrent abdominal pain. Investigations revealed high l
+       evels of blood lead; symptoms responded promptly to treatment. The pape
+       r also reviews lead poisoning and its treatment.
+650  4 \a Thalassaemia \z Nizwa \z Oman \v Articles.
+650  4 \a Antibody response \z Nizwa \z Oman \v Articles.
+650  4 \a Hepatitis C virus \z Nizwa \z Oman \v Articles.
+650  4 \a C virus \z Nizwa \z Oman \v Articles.
+650  4 \a Recurrent Abdominal Pain \z Nizwa \z Oman \v Articles.
+650  4 \a Lead poisoning \z Nizwa \z Oman \v Articles.
+650  4 \a Sodium calcium edetate \z Nizwa \z Oman \v Articles.
+650  4 \a Plumbism \z Nizwa \z Oman \v Articles.
+710 2  \a Sultan Qaboos University.
+773    \t Sultan Qaboos University Medical Journal
+773    \g Vol.4, Issue 1
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=1178535232
+
+Record# 60: 
+LDR 00609nam a2200145uu 4500
+100 1  \a Scrimgeour, Euan M.
+245 1  \a Epidemic Infections and their Relevance to the Gulf and other Arabia
+       n Peninsula Countries : \k Article File
+260    \a Muscats : \b Sultan Qaboos University, \c 2003
+506    \a Editorial
+650  4 \a Relevance \z Gulf cooperation countries \v Articles.
+650  4 \a Epidemic Infections \z Gulf cooperation countries \v Articles.
+710 2  \a Sultan Qaboos University.
+773    \t Sultan Qaboos University Medical Journal
+773    \g Vol.5 Issue 1
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=15
+
+Record# 61: 
+LDR 02405nam a2200241uu 4500
+100 1  \a Khandekar, Rajiv.
+245 1  \a Magnitude and determinants of exodontia in South Batinah region of O
+       man : \b A cross sectional study : \k Article File
+260    \c 2003
+260    \a Muscats : \b Sultan Qaboos University, \c 2003
+506    \a Orginal Study
+520    \a Objectives: To estimate the magnitude, determinants and causes of ex
+       odontia presented at all the three dental units of South Batinah region
+        of Oman. Methods: This is a cross sectional study of 8,963 samples rep
+       resenting dental cases reported at the three dental units for 12 weeks 
+       in year 2000. The information on patients undergoing exodontia and its 
+       indications were collected from their case files. Standard definitions 
+       were used to categorise causes of exodontia. Mid 2000 population was us
+       ed as reference for calculating rates. Age-sex standardisation and 95% 
+       confidence interval of the exodontia rates were calculated for statisti
+       cal validation. Results: The annual exodontia rate was 16.67 per 1,000 
+       population (CI95% 16.52, 16.82). The rate in males was 11.56 (CI95% 11.
+       40, 11.73) and and in females, 40.04 (CI95% 39.73, 40.34). The rate in 
+       the 12+ age group was significantly higher than that in the 0-12 age gr
+       oup. The rates showed geographic differences. Conclusions: The exodonti
+       a rates were high in the study area. Exodontia rates were significantly
+        higher in females, persons older than 12 years, and those living in th
+       e coastal areas of South Batinah. Based on the exodontia rates, the imp
+       act on the oral health services was reviewed and recommendations for im
+       proving the dental care were proposed.
+650  4 \a Determinants \z South Batinah region \z Oman \v Articles.
+650  4 \a Exodontia \z South Batinah region \z Oman \v Articles.
+650  4 \a Magnitude \z South Batinah region \z Oman \v Articles.
+650  4 \a Oral health \z South Batinah region \z Oman \v Articles.
+650  4 \a Determinants \z South Batinah region \z Oman \v Descriptive studies.
+650  4 \a Exodontia \z South Batinah region \z Oman \v Descriptive studies.
+650  4 \a Magnitude \z South Batinah region \z Oman \v Descriptive studies.
+650  4 \a Oral health \z South Batinah region \z Oman \v Descriptive studies.
+710 2  \a Sultan Qaboos University.
+773    \t Sultan Qaboos University Medical Journal
+773    \g Vol.5 Issue 1
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=15
+
+Record# 62: 
+LDR 02364nam a2200241uu 4500
+100 1  \a Nzeako, B. C.
+245 1  \a Antimicrobial Activities of Clove and Thyme Extracts : \k Article Fi
+       le
+260    \a Muscats : \b Sultan Qaboos University, \c 2006
+506    \a Orginal Study
+520    \a Objective: It has been postulated that geographical locations of the
+        herbs affect the constituents of their essential oils and thus the deg
+       ree of their antimicrobial action. This study examine two samples of cl
+       ove obtained from Sri Lanka and Zanzibar and two samples of thyme from 
+       Iran and Oman to determine the antimicrobial potential of their extract
+       ed oils. Method: The active agents in each plant were extracted by stea
+       m distillation and by boiling. The antimicrobial activities of the extr
+       acts were determined at neat and by two-fold dilutions in well agar dif
+       fusion technique using Staphylococcus aureus, Pseudomonas aeruginosa, E
+       scherichia coli, Streptococcus pyogenes, Corynebacterium species, Salmo
+       nella species, Bacteroides fragilis and Candida albicans. Results: All 
+       oil extracts possessed antimicrobial activity against all bacteria and 
+       yeast tested. Their water extracts exhibited lower antimicrobial activi
+       ty, though thyme aqueous extract was active only against S. aureus. The
+        lowest concentration of antimicrobial activity (0.1% i.e., 1:1024) was
+        obtained with thyme oil extract using Candida albicans. There was no s
+       ignificant difference in antimicrobial activity between clove obtained 
+       from Sri Lanka or Zanzibar or thyme obtained from Iran or Oman. Conclus
+       ion: Our experiment showed that the country of origin of the herbs has 
+       no effect on their antimicrobial activity. However, further work is nec
+       essary to ascertain why Candida albicans displayed remarkable degree of
+        sensitivity with the extracts than all the other organisms test.
+650  4 \a Thyme \z Oman \v Articles.
+650  4 \a Clove \z Oman \v Articles.
+650  4 \a Thyme \z Iran \v Articles.
+650  4 \a Clove \z Iran \v Articles.
+650  4 \a Thyme \z Sri Lanka \v Articles.
+650  4 \a Clove \z Sri Lanka \v Articles.
+650  4 \a Thyme \z Zanzibar \v Articles.
+650  4 \a Clove \z Zanzibar \v Articles.
+650  4 \a Oil \v Articles.
+710 2  \a Sultan Qaboos University.
+773    \t Sultan Qaboos University Medical Journal
+773    \g "Vol.6, Issue 1"
+856    \u http://www.squ.edu.om/squmj/archive-issue.asp?PubId=11
+
+Record# 63: 
+LDR 01507nam a2200337 a 4500
+041 0  \a engara
+043    \a ma----- \a a-ku---
+090    \a HD9539.A6 \b M87 1983
+111 2  \a International Arab Aluminium Conference \n (1st.: \b 1983: \c Kuwait
+       ).
+245 10 \a ARABAL 83 : \b First International Arab Aluminium Conference, 24-26 
+       October, Kuwait.
+250    \a First Edition
+260    \a Kuwait : \b Kuwait Aluminium Company, \c 1984.
+300    \a 731 pages : \b illustrations ; \c 29 cm.
+500    \a Cover title.
+500    \a Parallel title in Arabic.
+500    \a English and Arabic.
+500    \a Organized by: Kuwait Chamber of Commerce & Industry; Kuwait Aluminum
+        Company KCS; Arab Federation for Engineering Industries; United Nation
+       s Industrial Development Organization."
+650  0 \a Aluminium \x Industry and trade \z Arab countries \v Congresses.
+650  0 \a Aluminium \x Industry and trade \z Kuwait \v Congresses.
+650  0 \a Aluminium \z Arab countries \v Congresses.
+650  0 \a Aluminium \z Kuwait \v Congresses.
+650  0 \a Aluminium \x Industry and trade \z Arab countries \v Conferences.
+650  0 \a Aluminium \z Arab countries \v Conferences.
+650  0 \a Aluminium \x Industry and trade \z Kuwait \v Conferences.
+650  0 \a Aluminium \z Kuwait \v Conferences.
+710 2  \a kuwait Aluminium Company.
+710 2  \a Kuwait Chamber of Commerce and Industry.
+710 2  \a Arab Federation for Engineering Industries.
+710 2  \a United Nations Industrial Development Organization.
+930    \a 950819
+940    \a 950819
+
+Record# 64: 
+LDR 01783nam a2200337 a 4500
+041 0  \a engara
+043    \a a-ku--- \a a-iq---
+090    \a DS79.72 \b .I57 1996
+111 2  \a The International Conference on the Effects of the Iraqi Aggression 
+       on the State of Kuwait \d (1994: \c Kuwait)
+245 14 \a The International Conference on the Effects of the Iraqi Aggression 
+       on the State of Kuwait : \b April 2-6-1994, Kuwait.
+250    \a First Edition
+260    \a Kuwait : \b Centre of the Gulf and Arabian Peninsula Studies, \c 199
+       6.
+300    \a 3 volumes : \b illustrations ; \c 24 cm.
+500    \a Added title page in Arabic.
+504    \a Includes bibliographical references.
+505 0  \a volume 1. Political and economical implications -- volume 2. Psychol
+       ogical and sociological implications -- volume 3. Environmental, health
+        effects and remediation.
+546    \a English and Arabic.
+650  0 \a Persian Gulf War, 1991 \x Environmental aspects \z Kuwait \v Congres
+       ses.
+650  0 \a Persian Gulf War, 1991 \x Psychological aspects \z Kuwait \v Congres
+       ses.
+650  0 \a Persian Gulf War, 1991 \x Economic aspects \z Kuwait \v Congresse.
+650  4 \a The Iraqi Kuwaiti Crisis, 1990-1991 \v Conferences.
+650  4 \a The Iraqi agression on Kuwait 1990 \v Conferences.
+650  0 \a Persian Gulf War, 1991 \x Environmental aspects \z Kuwait \v Confere
+       nces.
+650  0 \a Persian Gulf War, 1991 \x Psychological aspects \z Kuwait \v Confere
+       nces.
+650  0 \a Persian Gulf War, 1991 \x Economic aspects \z Kuwait \v Conferences.
+650  4 \a The Iraqi Kuwaiti Crisis, 1990-1991 \v Congresses.
+650  4 \a The Iraqi agression on Kuwait 1990 \v Congresses.
+650  4 \a The Iraqi Kuwaiti Crisis, 1990-1991 \v Conferences.
+710 2  \a Centre of the Gulf and Arabian Peninsula Studies.
+930    \a 981013
+940    \a 981103
+
+Record# 65: 
+LDR 01458nam a2200277 a 4500
+041    \a engara
+043    \a a-ku---
+090 00 \a HD9018.A55 \b C660 1986
+111 2  \a Conference on the Development of Food Industries in the Arab World
+        \n (1st.: \d 1986: \c Kuwait).
+245 10 \a Advances in food industries development : \b proceedings of the Firs
+       t Conference on the Development of Food Industries in the Arab World, K
+       uwait, Oct. 13-16, 1986 / \c Edited by I. Y. Hamdan, A. Al Nawawi , M. 
+       Mameesh.
+260    \a Kuwait : \b KISR, \c [1987?].
+300    \a 349, 297 pages : \b illustrations ; \c 24 cm.
+500    \a Added title page in Arabic.
+500    \a English or Arabic.
+536    \a Co-spondored and organized by  Kuwait Institute for Scientific Resea
+       rch (KISR) and Kuwait Foundation for Advancement of Sciences (KFAS) in 
+       cooperation with Kuwait Union for Food Importers and Processors (KUFIP)
+        and Arab Federation for Food Industries (AFFI)."
+650  0 \a Food \x Industry and trade \z Arab countries \v Congresses.
+650  0 \a Food supply \z Arab countries \v Congresses.
+650  0 \a Food \x Industry and trade \z Kuwait \v Congresses.
+650  0 \a Food \x Industry and trade \z Arab countries \v Conferences.
+650  0 \a Food supply \z Arab countries \v Conferences.
+650  0 \a Food \x Industry and trade \z Kuwait \v Conferences.
+700 1  \a Hamdan, I. Y.
+700 1  \a Al Nawawi, A. S.
+700 1  \a Mameesh, M.
+710 2  \a Kuwait Institute for Scientific Research.
+930    \a 940129
+
+Record# 66: 
+LDR 01308ctm a2200289 a 4500
+010    \a 88-017466   //r91
+020    \a 044470468X (U.S.)
+043    \a s-ec---
+050 00 \a HC204.5.B38 \b K68 1988
+090 00 \a HC204.5.B38 \b K68 1988
+100 10 \a Kouwenaar, Arend, \d 1952-
+245 12 \a A Basic needs policy model : \b a general equilibrium analysis with 
+       special reference to Ecuador / \c Arend Kouwenaar.
+260 0  \a Amsterdam ; \b North-Holland ; \a New York, N.Y., U.S.A. : \b Sole d
+       istributors for the U.S.A. and Canada, Elsevier Science, \c 1988.
+300    \a xvi, 409 pages : \b illustrations ; \c 23 cm.
+440  0 \a Contributions to economic analysis ; \v 175
+500    \a Includes indexes.
+502    \a Thesis (Ph. D.)--Erasmus University, Rotterdam, Netherlands.
+504    \a Bibliography: p. 381-398.
+650  0 \a Basic needs \x Government policy \z Ecuador \v Thesis.
+650  0 \a Poor \x Government policy \z Ecuador \v Thesis.
+650  0 \a Income distribution \x Econometric models \z Ecuador \v Thesis.
+650  0 \a Basic needs \x Econometric models \z Ecuador \v Thesis.
+650  0 \a Poor \x Econometric models \z Ecuador \v Thesis.
+650  0 \a Income distribution \x Government policy \z Ecuador \v Thesis.
+650  0 \a Poverty \x Econometric models \z Ecuador \v Thesis.
+651  0 \a Ecuador \x Economic aspects \v Thesis.
+930    \a 940104
+
+Record# 67: 
+LDR 00865ntm a2200193 a 4500
+043    \a f-ua
+090 00 \a GB440.E3 \b I270 1989
+100 1  \a Ibrahim, Hani A. M.
+245 10 \a Applied geomorphology in northeast Egypt with special reference to g
+       round problems and application of remote sensing \c by Hani A. M. Ibrah
+       im.
+260    \c 1989.
+300    \a xx, 342 pages : \b illustrations, maps ; \c 23 cm.
+502    \a Thesis (Ph. D.)--University of Nottingham.
+504    \a Includes bibliographical references (p. 270-297).
+533    \a Photocopy. \b Boston Spa, West Yorkshire : \c British Library, Docum
+       ent Supply Centre, \d [1992?]. \e 27 cm. \f (British thesis). \7 s1992 
+          enkn r
+650  0 \a Geomorphology \z Egypt \v Thesis.
+650  0 \a Geomorphology \x Remote sensing \z Egypt \v Thesis.
+650  0 \a Civil engineering \z Egypt \v Thesis.
+650  0 \a Urbanization \z Egypt \v Thesis.
+930    \a 930720
+

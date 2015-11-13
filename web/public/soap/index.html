@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SOAP client side</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" charset="utf-8">
+	
+	<script src='js/jquery-1.7.2.min.js' type="text/javascript"></script>
+    <!-- jquery soap -->
+    <script src='js/jquery.soap.js' type="text/javascript"></script>
+    
+    
+    <!-- script -->
+    <script type='text/javascript'>
+    	$(function(){
+    		$.soap({
+    			url: "http://localhost:3000/proxy",
+    			method: "getQualityIndex",
+    			data: {
+    				url:"http://www.emisk.org/publish_emisk_Servicesdomain/EnvironmentNow.asmx",
+    				regDate:"8/2/2013"
+    			},
+    			appendMethodToURL: false,
+   				success: function(soapResponse){
+   					console.log(soapResponse);
+   					$("#result").html(soapResponse);
+   				},
+   				error: function(error){
+   					console.log(error);
+   					$("#result").html("ERROR"+error);
+   				}
+    		})
+    		
+    	});
+    </script>
+
+  </head>
+  
+  
+  
+  <body>
+
+  	<h1>Testing jQuery SOAP extension</h1>
+  	
+  	<h4>Result: </h4>
+  	<div id='result'></div>
+	
+  </body>
+</html>

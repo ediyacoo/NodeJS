@@ -1,0 +1,64 @@
+[
+{"RCA": {
+ 	"008": "060610s1984kua1000engd",
+ 	"040": "NSTIC",
+	"100": {
+		"$a": "Adams, Henry."
+	},
+	"111": {
+		"$a": "International Arab Aluminium Conference",
+		"$n": "1st. :", 
+		"$b": "1983", 
+		"$c": "Kuwait"
+	},
+	"245": {
+		"$a": "ARABAL 83 : ",
+		"$b": "First Int'l Arab Aluminium Conference, 24-26 October, Kuwait."
+	},
+	"260": {
+		"$a": "Kuwait : ",
+		"$b": "Kuwait Aluminium Co., ",
+		"$c": "1984."
+	},
+	"370": {
+		"$a": "Radzimyn, Poland",
+		"$b": "Surfside, Fla."
+	}, 
+	"371": {
+		"$a": "Box 1216",
+		"$b": "Barrière$dCanada",
+		"$e": "V0E1E0"
+	},
+	"372": {
+		"$a": "Assistant Professor."
+	},
+	"373": {
+		"$a": "Faculty of Biological Science, LeedUniversity",
+		"$s": "2000",
+		"$t": "2005"
+	},
+	"374": {
+		"$a": "composer",
+		"$2": "[code for controlled vocabulary]"
+	},
+	"375": {
+		"$a": "male"
+	},
+	"377": {
+		"$a": ["rus", "eng"]
+	},
+	"378": {
+		"$q": "Henry Robert Adams"
+	},
+	"650": [
+		{"$a": "Aluminum industry and trade","$z": "Arab countries","$x": "Congresses."}, 
+		{"$a": "Aluminum industry and trade","$z": "Kuwait","$x": "Congresses"},
+		{"$a": "Aluminum", "$z": "Arab countries","$x": "Congresses."}, 
+		{"$a": "Aluminum", "$z": "Kuwait","$x": "Congresses."}
+	], 
+	"710": {
+		"$a": "Kuwait  Aluminum Company."
+	} 
+ }
+}
+]

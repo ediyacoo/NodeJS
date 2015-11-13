@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Socket.io client side</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" charset="utf-8">
+	
+	<script src='js/jquery-1.7.2.min.js' type="text/javascript"></script>
+    <!-- socket.io -->
+    <script src="js/socket.io.min.js" type="text/javascript"></script>
+    
+    
+    <!-- script -->
+    <script type='text/javascript'>
+    	$(function(){
+    		//listen events from test io.workspace
+    		var socket=io.connect("http://localhost:8080/test")
+    		
+	    	socket.on("news", function(data){
+	    		console.log(data)
+	    		
+	    		//read data
+	    		var html="<ul>"
+	    		$.each(data, function(k,v){
+	    			html+="<li>"+k+": "+v+"</li>";
+	    		})
+	    		html+="</ul>";
+	    		$("#result").html(html);
+	    		
+	    		//request other event
+	    		//socket.emit("my other event", {my:"data"});
+	    	});
+	    	
+	    	
+	    	socket.on("user connected", function(data){
+	    		console.log("user connected="+data)
+	    	})
+    		
+    	});
+    </script>
+
+  </head>
+  
+  
+  
+  <body>
+
+  	<h1>Testing socket.io</h1>
+  	
+  	<h4>Result: </h4>
+  	<div id='result'></div>
+	
+  </body>
+</html>

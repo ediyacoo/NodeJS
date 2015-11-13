@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+			<kml>
+				<Folder>
+					<GroundOverlay>
+						<description>EOS-Aura OMI NO2 L3 NO2 total vertical column densities [0-1e16 moelcules / cm^2]</description>
+						<name>EOS-Aura-OMI-OMNO2-L3/2011_10_NO2TotalCS30.kml</name>
+						<visibility>1</visibility>
+						<Icon>
+							<href>http://avdc.gsfc.nasa.gov/Data2/NO2TotalCS30/global_1440x720/monthly/Jpeg_plain/2011_10_NO2TotalCS30.jpg</href>
+						</Icon>
+						<LatLonBox id="khLatLonBox751"><north>90.0</north><south>-90.0</south><east>180.0</east><west>-180.0</west><rotation>0</rotation></LatLonBox>
+					</GroundOverlay>
+					<ScreenOverlay>
+						<name>logo</name>
+						<Icon>
+							<href>http://avdc.gsfc.nasa.gov/Data/Aura/OMI/OMNO2/L3/images/nasa_omi_avdc_small_04.png</href>
+						</Icon>
+						<overlayXY x="0" y="-0.7" xunits="fraction" yunits="fraction"/>
+						<screenXY x="0" y="0.03" xunits="fraction" yunits="fraction"/>
+						<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+						<size x="0.2" y="0." xunits="fraction" yunits="fraction"/>
+					</ScreenOverlay>
+					<ScreenOverlay>
+						<name>color scale</name>
+						<Icon>
+							<href>http://avdc.gsfc.nasa.gov/Data/Aura/OMI/OMNO2/L3/images/TotalNO2ColorScale.png</href>
+						</Icon>
+						<overlayXY x="0" y="0.03" xunits="fraction" yunits="fraction"/>
+						<screenXY x="0" y="0.03" xunits="fraction" yunits="fraction"/>
+						<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+						<size x="0.8" y="0.04" xunits="fraction" yunits="fraction"/>
+					</ScreenOverlay>
+					<LookAt>
+						<longitude>-81.0</longitude>
+						<latitude>37.37</latitude>
+						<range>10000000.0</range>
+						<tilt>0.0</tilt>
+						<heading>0.0</heading>
+					</LookAt>
+				</Folder>
+			</kml>

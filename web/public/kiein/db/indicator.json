@@ -1,0 +1,211 @@
+{
+"Atmosphere": {	
+					"description":"",
+					"issue":{
+							"Climate Change": {
+									"description":"",
+									"indicators":[
+										{"metadata":{
+											"id":"1.1.2",
+											"name":"Carbon Dioxide (CO2) Emission", 
+											"description":"This indicator represents the anthropogenic emissions of the total carbon dioxide (CO2) that contribute to global warming and climate changes."
+										}},
+										{"metadata": {"id":"1.1.1","name":"Emissions of GreenHouse Gases(GHG)", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the total anthropogenic emissions of the greenhouse gases carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulphur hexafluoride (SF6), chlorofluorocarbons (CFCs) and hydrochlorofluoro-carbons (HCFCs), together with the indirect GHGs,  nitrogen oxides (NOx), carbon monoxide (CO), and non-methane volatile organic compounds (NMVOCs)."}},
+										{"metadata": {"id":"1.1.3","name":"Comsuption of Ozone Depleting Substances(ODSs)", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the consumption trends for ODSs controlled under the Montreal Protocol on Substance that Deplete the Ozone Layer, thereby allowing inference of the amounts of Ozone Depleting Substances being eliminated as a result of the protocol."}}
+									 ]
+							},
+							"Air Quality": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"1.2.1","name":"Ambient Concentration of Air Pollutants", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator describes the ambient air pollution concentrations of ozone, particulate matter (PM10, and PM2.5), sulfur dioxide, nitrogen dioxide, lead, carbon monoxide and volatile organic compounds (VOCs). This indicator is more significant in large densely populated cities such as Kuwait."}},
+										{"metadata": {"id":"1.2.2","name":"Average Visibility", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the average visibility of the atmosphere due to weather conditions and sand storms.  "}}
+									]
+							},
+							"Health": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"1.3.1","name":"Mortality Rate due to Respiratory Diseases-all ages", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the annual mortality rate due to respiratory diseases in response to air quality for all ages."}},
+										{"metadata": {"id":"1.3.2","name":"Infant Mortality due to Respiratory Diseases", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the annual infant mortality due to respiratory diseases in response to air quality."}}
+									]
+							}
+					}
+},
+"Land and Land Degradation": {			
+					"description":"",
+					"issue":{
+							"Land Use": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"2.1.1","name":"Land Use Change", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the change with time of the distribution of land uses within the state of Kuwait including the change in land allocation such as urbanization, protected areas, industrial, etc."}}
+									]
+							},
+							"Agriculture": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"2.2.1","name":"Arable and Permanent Crop Land Area", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the total arable and permanent crop land. Arable lands refer to all land generally under rotation crops whether for temporary crops or meadows, or left fallow. Land under permanent crops refer to land used for crops occupying it for a long period of time and which do not have to be planted for several years after each harvest. "}},
+										{"metadata": {"id":"2.2.2","name":"Use of Agriculture Fertilizers", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the extent of fertilizer use in agriculture per unit of agricultural land area.  "}},
+										{"metadata": {"id":"2.2.3","name":"Use of Agricultural Pesticides", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the extent use of pesticides per unit of agricultural land area, which lead to measure the pressure on groundwater resources from pesticide use in irrigated (open land) and intensive (greenhouse) agriculture."}},
+										{"metadata": {"id":"2.2.4","name":"Vegetation Cover", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the vegetated land either man-made agricultural areas or natural vegetation including forests, wood lands and rangelands that are tracked over time."}},
+										{"metadata": {"id":"2.2.5","name":"Area under Organic Farming", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the ratio of the total utilized agricultural area occupied by organic farming to total utilized agricultural area. Organic farming involves holistic production management systems, for crops and livestock, emphasizing the use of management practices in preference to the use of off-farm inputs. "}}
+									]
+							},
+							"Land Degradation and Desertification": {
+									"description":"",
+									"indicators":[
+												{"metadata": {"id":"2.3.1","name":"Surface Albedo (Land Reflectance)", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the land surface reflected from the Earth’s surface to the incident flux. It is a key forcing parameter controlling the planetary radiative energy budget and partitioning of radiative energy between the atmospheric and surface."}},
+												{"metadata": {"id":"2.3.2","name":"Area Affected by Erosion", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the land affected by wind and water erosion which can be measured as net loss."}},
+												{"metadata": {"id":"2.3.3","name":"Area Affected by Salinization", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the net increase of the salt concentration in the top soil leading to declining productivity or biodiversity. Salinization can be a result of the clearing of natural vegetation, the overuse of irrigation, or the evaporation of saline groundwater"}},
+												{"metadata": {"id":"2.3.4","name":"Land Affected by Desertification", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the land affected by desertification, which is mostly controlled in arid regions by climatic variations (e.g. drought) as well as direct and indirect human activities (e.g., overgrazing)."}},
+												{"metadata": {"id":"2.3.5","name":"Population Living below Poverty Line in Dry Land Areas", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator measures the number of persons as percentage of the total population that are classified as living below the nationally defined poverty line in dry land area."}}
+									]
+							}
+					}
+},
+"Costal and Marine Environment": {
+					"description":"",
+					"issue":{			
+							"Coastal Degradation": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"3.1.1","name":"Percentage of Total Population Living in the Coastal Area", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the percent of total population living within proximity of few kilometers of the coastline (up to 10 km or more)."}}
+									]
+							},
+							"Fisheries": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"3.2.1","name":"Annual Fish Catch", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the annual catch of major species in relation to the spawning biomass or the maximum catches in the time series. It also provides indication on the productivity performance of the fisheries sectors."}},
+										{"metadata": {"id":"3.2.2","name":"Maximum Sustainable Yield for Fish (MSY)", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the maximum equilibrium yield that can be continuously taken from the stock under existing environmental conditions without significantly affecting reproduction process.  "}},
+										{"metadata": {"id":"3.2.3","name":"Spawning Stock Biomass (SSBMSY)", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the minimum biomass of the mature fish capable to produce MSY under existing environmental conditions.  "}},
+										{"metadata": {"id":"3.2.4","name":"Fishing Mortality (F)", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the mortality imposed by the fishery industry on the stock. "}},
+										{"metadata": {"id":"3.2.5","name":"Length-at-First Maturity (Lm50)", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents length-at-first maturity at which 50% of individuals are mature. It implies the gear selectivity impact on fish stocks."}}
+									]
+							},
+							"Marine Environment": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"3.3.1","name":"Proportion of marine areas protected", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the percentage of marine protected area of total surface area of national waters. It can also be expressed as the percentage protected of marine ecological region."}},
+										{"metadata": {"id":"3.3.2","name":"Area of Coral Reef Ecosystems and Percentage Live Cover", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the trends in the extant area of coral reefs and the percentage live cover of those reefs, to assess the relative effectiveness of measures for conserving coral reef biodiversity at the ecosystem level and as a tool to estimate the need for specific conservation measures to maintain the coral reef biodiversity in the state of Kuwait and Gulf region."}},
+										{"metadata": {"id":"3.3.3","name":"Algae concentration in coastal waters", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the concentration of algae growing in coastal waters to determine the health of the coastal zone ecosystem, and the effectiveness of measures aimed at reducing nutrient inputs from runoff and discharge."}}
+									]
+							},
+							"Marine Pollution": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"3.4.1","name":"Release of Nitrogen and Phosphorus to Marine Water", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the average annual load of nitrogen (N) and phosphorus (P) from land sources discharged into the coastal waters."}},
+										{"metadata": {"id":"3.4.2","name":"Oil and Hydrocarbons Pollution", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the total illegal disposal of mineral oil to the coastal and marine environment in metric tons per year, or estimates of the total oil discharge to the coastal marine environment from land-based activities, maritime transportation, offshore exploration and exploitation as well as natural seepages."}}
+									]
+							}
+					}
+},
+"Water Resources": {	
+					"description":"",
+					"issue":{	
+							"Availability of Water": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"4.1.1","name":"Annual Availability of Conventional Water", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator assesses the conventional freshwater resources and their availability in Kuwait including surface water runoff (Mm3) and groundwater (Mm3). Groundwater includes the shallow aquifers, developed in the alluvial deposits along the main wadi channels and the flood plains of drainage basins (renewable water source) and the deep groundwater reserves are nonrenewable fossil groundwater stored in the sedimentary deep aquifers."}},
+										{"metadata": {"id":"4.1.2","name":"Annual Availability of Non-Conventional Water", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator assesses the nonconventional water resources and their availability in the state of Kuwait including desalination, treated water (wastewater, irrigation, and industrial)."}},
+										{"metadata": {"id":"4.1.3","name":"Annual Withdrawals of Ground and Surface Water as of a Percent of Available Water", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator illustrates the total annual volume of groundwater and surface water withdrawn for human use (e,g, agricultural, domestic and industrial), expressed as a percentage of the total volume of water available annually through the hydrological cycle (total renewable water resources)."}},
+										{"metadata": {"id":"4.1.4","name":"Aquifer Water Level", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator assesses and monitors the groundwater aquifer level as a main water source in the state of Kuwait."}}
+									]
+							},
+							"Access to Domestic Water": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"4.2.1","name":"Access to Safe Drinking Water", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the percentage of population with access to an adequate amount of safe drinking water."}}
+									]
+							},
+							"Water Utilization": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"4.3.1","name":"Area Irrigated with Treated Wastewater", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the total area of agricultural land irrigated with treated waste water compared with the total irrigated land."}},
+										{"metadata": {"id":"4.3.2","name":"Annual Utilization or Withdrawals of Water by Type (Agriculture, Industry)", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the total annual volume of water (ground and surface water) abstracted for water uses (Agriculture Domestic Industrial Commercial Others demand)."}},
+										{"metadata": {"id":"4.3.3","name":"Irrigation Water Use Efficiency", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator illustrates the volume of water used for irrigation compared to amount of crop production"}},
+										{"metadata": {"id":"4.3.4","name":"Intensity of Domestic Water Quality Monitoring", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the total number of domestic water quality monitoring stations and frequency of monitoring."}},
+										{"metadata": {"id":"4.3.5","name":"Waste Water Treatment by Category (Primary, Secondary, Tertiary)", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator illustrates the proportion of wastewater that is treated, in order to reduce pollutants before being discharged to the environment."}}
+									]
+							},
+							"Water Management": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"4.4.1","name":"Biochemical Oxygen Demand (BOD) in Water ", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator measures the amount of BOD required or consumed for the microbiological decomposition (oxidation) of organic material in water."}},
+										{"metadata": {"id":"4.4.2","name":"Waste Water Treatment Coverage", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the percentage of treated wastewater by a waste water treatment facility, which is re-used or discharged to the environment without adverse impact on public health and the ecosystem."}},
+										{"metadata": {"id":"4.4.3","name":"Number of Water Professionals per Served Population", "image":"images/1351075640_gear.png", "url":"", "description":"This indicators represents and take into consideration the number of water professionals in each institution as well as the geographical location of these professionals. As such, these data would indicate the proper level of capacity building needed and the areas or geographic locations that need such capacity building."}}
+									]
+							}
+					}
+},
+"Biodiversity": {		
+					"description":"",
+					"issue":{
+							"Species": {
+											"description":"",
+											"indicators":[
+												{"metadata": {"id":"5.1.1","name":"Percentage of Endangered Species", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the number of species at risk of extinction in proportion to the total number of native species. "}},
+												{"metadata": {"id":"5.1.2","name":"Abundance of Selected Key Species", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator estimates the population and trends of selected species to represent changes in biodiversity, which aid for relative effectiveness of measures to maintain biodiversity."}},
+												{"metadata": {"id":"5.1.3","name":"Abundance of Invasive Alien Species", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the monitoring trends of invasive alien species (IAS) at the national scale of the state of Kuwait and measure the impact of invasions of such species."}},
+												{"metadata": {"id":"5.1.4","name":"Number of Migratory Species", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the number of migratory birds per season that stop by, during their migration season, the Kuwait environment."}}
+											]
+							},
+							"Ecosystems": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"5.2.1","name":"Proportion of Protected Area by Total Ecological Area", "image":"images/1351075640_gear.png", "url":"", "description":"This  indicator measures  the area of protected  land  ecosystems,  inland water  ecosystems, and marine ecosystems expressed as a percentage of the total area of land ecosystems, inland water ecosystems  and  marine  ecosystems  respectively.   Protected  Area  refers  to  all  or  partially protected  areas  of  at  least  1000  hectares  that  are  designated  as  national  parks,  natural monuments,  natural  reserves  or  wildlife  reservations.  "}},
+										{"metadata": {"id":"5.2.2","name":"Area of Selected Key Ecosystems", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator assesses the relative effectiveness of measures for conserving biodiversity at ecosystem level and as a tool to estimate the need for specific conservation measures to maintain the biological diversity in a country or region."}},
+										{"metadata": {"id":"5.2.3","name":"Percent Covered with Greenery Area", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the percent of area covered by different urban greenery such as tree or any other vegetation cover."}}
+									]
+							},
+							"Management of Biodiversity": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"5.3.1","name":"Management of Effectiveness of Protected areas", "image":"images/1351075640_gear.png", "url":"", "description":""}},
+										{"metadata": {"id":"5.3.2","name":"Number of Specialist in Biodiversity Conservation per Area of Selected Key Ecosystems", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the number of specialist in biodiversity conservation per area of selected key ecosystems."}},
+										{"metadata": {"id":"5.3.3","name":"Number of Biodiversity Awareness Activities per Year", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the number of specialist in biodiversity conservation per area of selected key ecosystems."}}
+									]
+							}
+					}
+},
+"Waste and Waste Management": {			
+					"description":"",
+					"issue":{
+							"Sanitation": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"6.1.1","name":"Percent of Population with Adequate Sewage Disposal Facilities", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the percentage of population with access to a sanitary facility for human disposal in the dwelling zone or/and immediate vicinity."}}
+									]
+							},
+							"Solid Waste": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"6.2.1","name":"Generation of Waste", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator measures the amount of all solid wastes generated by the main groups of industries or sectors of the economy and expressed per capita or/and per unit of GDP."}},
+										{"metadata": {"id":"6.2.2","name":"Municipal Waste Disposal", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the total volume of solid waste disposal disposed or/and collected by municipal waste management services by any official means, either land filling, burning or other processing."}},
+										{"metadata": {"id":"6.2.3","name":"Municipal Waste Collection", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the percentage of households served by regular solid waste collection services. Municipal waste collected by or on behalf of municipalities, as well as municipal waste collected by the private sector. It includes mixed household waste and fractions collected separately for recovery operations (through door-to-door collection and/or through voluntary deposits)."}}
+									]
+							},
+							"Hazardous Waste": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"6.3.1","name":"Hazardous Waste Policies", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the effectiveness of hazardous waste policies and regulations on the emission or discharge of hazardous wastes."}},
+										{"metadata": {"id":"6.3.2","name":"Generation of Hazardous Wastes", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the generation of hazardous wastes through industrial or other waste generating activities."}}
+									]
+							},
+							"Waste Management": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"6.4.1","name":"Waste Treatment and Disposal", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the percentage of total treated waste including recycled, composted, burnt and landfilled on a controlled site."}},
+										{"metadata": {"id":"6.4.2","name":"Management of Radioactive Waste", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the management of radioactive waste arising from various sources such as nuclear power generation and other nuclear fuel cycle-related activities, radioisotope production and use for applications in medicine, agriculture, industry, and research. "}},
+										{"metadata": {"id":"6.4.3","name":"Rate of Waste Recycling and Reuse", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the volume of waste which is reused or recycled based on the actual volume of generated waste at source per capita."}}
+									]
+							},
+							"Health": {
+									"description":"",
+									"indicators":[
+										{"metadata": {"id":"6.5.1","name":"Diarrhea Mortality in Children", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the number of incidences of diarrhea morbidity in children under the age of five years. "}},
+										{"metadata": {"id":"6.5.2","name":"Mortality rate in children", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the annual death rate due to intestinal infectious diseases due to sanitation (including cholera, salmonella infections, shigellosis) in children under five years of age."}},
+										{"metadata": {"id":"6.5.3","name":"Mortality Due to Poisoning", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator measures the mortality rate due to poisoning from hazardous wastes."}},
+										{"metadata": {"id":"6.5.4","name":"Blood lead levels in children", "image":"images/1351075640_gear.png", "url":"", "description":"This indicator represents the percentage of children with blood lead levels greater than 10 g/dl due to exposure to lead in the environment."}}
+									]
+							}
+					}
+}
+}

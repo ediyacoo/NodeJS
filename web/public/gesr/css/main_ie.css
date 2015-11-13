@@ -1,0 +1,267 @@
+html, body, #div_map {
+        margin: 0px;
+        padding: 0px;
+        height: 100%;
+        width: 100%;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size:90%;
+        overflow:hidden;
+}
+      
+
+/** menuWidget */
+#menuWidget {width:315px; height:100%; top:0px; right:0px; z-index:1001; position:absolute;-moz-border-radius:2px; -webkit-border-radius:2px;border-radius:2px; }
+
+/** menuContent */
+#menuContent {float:left;font-size:90%; top:0px; width:279px; height:100%;padding:2px;background:transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#80000000,endColorstr=#80000000); zoom: 1; }	
+#menuContent #layers img {width:15px; height:15px}
+#menuContent #layers ul li {padding:2.5px 0px 2.5px 0px;}
+#menuContent #layers ul li label:hover {color:#000000;}
+#menuContent #legend ul li {padding:5px 3px 5px 3px; margin:3px; border:1px solid #cccccc;-moz-border-radius:2px; -webkit-border-radius:2px;border-radius:2px;}
+#menuContent .ui-tabs-panel {padding:5px;}
+#menuContent .ui-widget-content {border:1px solid #222222;}
+#menuContent #legend table {border:0px;}
+#menuContent #legend table td {border:0px;}
+
+/** toolbox */
+#toolboxContent {float:left; width:32px; overflow:hidden; margin-top:40px;  color:#000000; background:transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#80000000,endColorstr=#80000000); zoom: 1;-moz-border-radius:2px; -webkit-border-radius:2px;border-radius:2px; }
+#toolboxContent ul li {padding:5px 0px 5px 0px;  border:0px solid #eeeeee; text-align:center; -moz-border-radius:2px; -webkit-border-radius:2px;border-radius:2px;}
+#toolboxContent ul li:hover {color:#ffffff; background-color:#222222;-moz-border-radius:2px; -webkit-border-radius:2px;border-radius:2px;cursor:pointer}
+/**
+#toolboxContent ul li:hover {filter:alpha(opacity =  90); opacity: 0.90;  color:#000000;
+  background-color: #e6e6e6;
+  background-repeat: no-repeat;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), color-stop(25%, #ffffff), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -ms-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -o-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);}
+*/
+#toolboxContent ul li img {width:20px; height:20px; cursor:pointer;}
+/**
+#toolboxWindow {display:none; top:50%; right:30px; z-index:1000; position:absolute; height:120px; width:500px; filter: alpha(opacity =  20); opacity: 0.2; -moz-border-radius:2px; -webkit-border-radius:2px;border-radius:2px;
+  background-color: #e6e6e6;
+  background-repeat: no-repeat;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), color-stop(25%, #ffffff), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -ms-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -o-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+}
+#toolboxWindow:hover{filter: alpha(opacity =  90); opacity: 0.9;
+  background-color: #e6e6e6;
+  background-repeat: no-repeat;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), color-stop(25%, #ffffff), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -ms-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -o-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+}
+*/
+#toolboxWindow_title {font-weight:bold;padding:5px 5px 2px 5px;}
+#toolboxWindow_content{padding:5px;width:98%;overflow:auto;height:70px;}
+#tbx_geocodeAddress_status {color:#ff0000; font-size:80%;}
+
+
+/** toolbox submenu */
+#toolboxSubmenu {display:none; position:absolute; padding:1px 10px 1px 10px; z-index:1001; top:0px; color:#ffffff; height:25px; line-height:25px; width:200px; background:transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#80000000,endColorstr=#80000000); zoom: 1;-moz-border-radius:4px; -webkit-border-radius:4px;border-radius:4px;}
+#toolboxSubmenu ul {list-style:none; padding:0px; margin:0px;}
+#toolboxSubmenu ul li {float:left; padding:1px 12px 1px 12px ;  border:0px solid #eeeeee; -moz-border-radius:2px; -webkit-border-radius:2px;border-radius:2px;}
+#toolboxSubmenu ul li:hover {color:#ffffff; background-color:#222222;-moz-border-radius:2px; -webkit-border-radius:2px;border-radius:2px;cursor:pointer}
+
+
+/**layers accordion */
+#layersAccordion div {height:auto; overflow:auto; background:#ffffff;}
+#layersAccordion div ul {list-style:none;padding:0px; maring:0px; margin-top:10px; background: rgba(255, 255, 255, 0.4);-moz-border-radius:2px; -webkit-border-radius:2px;border-radius:2px; margin-top:50px;}
+#layersAccordion div ul li {color:#555555; }
+#layersAccordion .ui-accordion-content {padding:20px;}
+#layersAccordion h3 {
+
+}
+
+
+/** statusWidget */
+#statusWidget {position:absolute; float:right; top:0px; left:45%; width:250px; height:23px; display:none; z-index:1100;}
+
+
+/** titleContent */
+#titleContent ul li {float:left; padding:0px 15px 0px 15px; text-alignt:center; color:#bbbbbb;}
+#titleContent ul li:hover {color:#ffffff; background-color:#222222;-moz-border-radius:2px; -webkit-border-radius:2px;border-radius:2px;cursor:pointer}
+
+
+/** infoWidget */
+#infoWidget {width:80%; height:20px; bottom:0px; left:0px; z-index:1001; position:absolute;-moz-border-radius:2px; -webkit-border-radius:2px;border-radius:2px;}
+/** infoWindowButton */
+#infoPanelButton {position:relative; top:0px; left:45%; font-size:90%;z-index:1000; color:#cccccc; cursor:pointer; width:100px; height:20px; line-height:20px;  text-align:center;font-weight:bold; filter: alpha(opacity =  20); opacity: 0.20;
+  background-color: #000000;
+  /**
+  background-repeat: no-repeat;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), color-stop(25%, #ffffff), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -ms-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -o-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  */
+}
+
+/** infoPanel */
+#infoPanel {padding:2px; width:99.5%; height:90%; border:1px solid #cccccc;display:none; overflow:auto; position:absolute;z-index:1000;bottom:0px; left:0px;background:transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#80000000,endColorstr=#80000000); zoom: 1;overflow:hidden;-moz-border-radius:5px; -webkit-border-radius:5px;border-radius:5px;}
+
+
+/** timeslider */
+#layersliderWidget {-moz-border-radius:5px; -webkit-border-radius:5px;border-radius:5px;  display:none; }
+#layerslider_label ul {list-style:none; width:100%;padding:0px; margin:0px;}
+#layerslider_label ul li {float:left;text-align:center;}
+#layerslider_label ul li:first-child {text-align:left;}
+#layerslider_label ul li:last-child {text-align:right;}
+
+
+/** rightclick menu*/
+.contextMenu {position:absolute; font-size:90%; z-index:1000;  width:150px; padding-left:5px; overflow:hidden;background-color:#000000; color:#cccccc; filter: alpha(opacity =  85); opacity: 0.85;-moz-border-radius:5px; -webkit-border-radius:5px;border-radius:5px; box-shadow: 3px 3px 3px #cccccc;}
+.contextMenu ul {list-style:none; padding:0px; margin:0px;}
+.contextMenu hr {border-color:#cccccc;}
+.contextMenu ul li {padding:3px 10px 3px 10px; cursor:pointer;
+  /**
+  background-color: #e6e6e6;
+  background-repeat: no-repeat;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), color-stop(25%, #ffffff), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -ms-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -o-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+	*/
+}
+.contextMenu ul li:hover {color: #ffffff;}
+.contextMenu ul li img {width:25px}
+.contextMenu ul li span {width:55px; display: inline-block;}
+.contextMenu ul li hr {margin:0px; padding:0px;}
+
+/** accordion */
+.accordion div {overflow:auto; height:80px;}
+.accordion ul {list-style:none; margin:5px; padding:0px;}
+.accordion ul li {padding:1px 0px 1px 0px;}
+
+
+
+/** popup */
+#popup_div ul {list-style:none;margin:0px; padding:0px;}
+#popup_div ul li {padding:10px; }	
+#popup_div ul li table {font-size:90%;border-collapse:collapse;}
+#popup_div ul li table, th, td {border:1px solid #cccccc; }
+#popup_div ul li table tr:first-child {background-color:#eeeeee; font-weight:bolder;}
+
+
+/** objToHtml */
+.objToHtml {list-style:none; margin:0px; padding:0px}
+.objToHtml li {padding:5px;}
+.objToHtml li:nth-child(even) {background-color:#dddddd;}
+
+/** vectorLayerAttribute */
+.vectorLayerAttribute {width:97%;height:90%; overflow:auto;}
+.vectorLayerAttribute table {width:100%; font-size:90%;border-collapse:collapse;}
+.vectorLayerAttribute table, th, td {border:1px solid #cccccc; }
+.vectorLayerAttribute table tr:first-child {background-color:#dddddd; font-weight:bolder;}
+.vectorLayerAttribute table tr:not(:first-child):hover {cursor:pointer;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#B9E0F5), color-stop(100%,#92BDD6));
+  background: -webkit-linear-gradient(top, #B9E0F5 0%,#92BDD6 100%);
+  background: -moz-linear-gradient(top, #B9E0F5 0%, #92BDD6 100%);
+  background: -ms-linear-gradient(top, #B9E0F5 0%,#92BDD6 100%);
+  background: -o-linear-gradient(top, #B9E0F5 0%,#92BDD6 100%);
+  background: linear-gradient(top, #B9E0F5 0%,#92BDD6 100%);
+}
+
+
+
+
+/** Layer Properties */
+#layerProperties #layerProperties_image {float:left;margin-top:20px;}
+#layerProperties #layerProperties_image img {}
+#layerProperties #layerProperties_metadata {float:right; border-left:1px solid #eeeeee; padding:5px; }
+#layerProperties #layerProperties_metadata ul {padding:0px; margin:0px; list-style:none;}
+#layerProperties #layerProperties_metadata ul li {padding:5px; margin:0px;}
+#layerProperties #layerProperties_metadata ul li:nth-child(odd) {background-color:#eeeeee;}
+#layerProperties #layerProperties_metadata ul li span {width:80px; display: inline-block; font-weight:bold;}
+#layerProperties #layerProperties_legend {float:left;margin-top:20px;}
+
+
+
+
+
+/** lab */
+#lab ul {list-style:none; padding:0px; margin:0px;}
+#lab ul li {padding:5px; border-bottom:1px solid #cccccc; float:left; width:100%;}
+#lab ul li div {float:left; padding:10px;}
+#lab ul li div:nth-child(1) {width:20%;}	
+#lab ul li div:nth-child(2) {width:50%;color:#777777;}
+#lab ul li div:nth-child(3) {width:15%;}
+
+
+/** spatial query **/
+#spatialquery ul {list-style:none; padding:0px; margin:0px}
+#spatialquery ul li {padding:5px;}
+#spatialquery ul li span {width:100px; display: inline-block; font-weight:bold;}
+#spatialquery ul li img {width:25px;padding:0px 2px 0px 2px; cursor:pointer;}
+
+
+
+
+/** infoContent **/
+#infoContent {height:100%; width:99%; margin:5px; background:rgb(255,255,255);}
+#infoContent #infoContent_vmenu {list-style:none; padding:0px; margin:0px; float:left}
+#infoContent #infoContent_vmenu li {padding:2px; border:1px solid #cccccc;cursor:pointer;}
+#infoContent #infoContent_vmenu li:hover {background-color:#cccccc}
+#infoContent #infoContent_vmenu li img {width:25px;}	
+#infoContent .infoWindowContent {float:left;height:96%; width:95.5%;padding:0px 10px 0px 10px;border-left:1px solid #cccccc;}	
+#infoContent #infoContent_spatialquery .chart div {border:1px solid #cccccc;}
+#infoContent #infoContent_spatialquery #infoContent_spatialquery_control {padding:0px 10px 0px 10px;}
+#infoContent #infoContent_spatialquery #infoContent_spatialquery_control ul {list-style:none;padding:0px; margin:0px}
+#infoContent #infoContent_spatialquery #infoContent_spatialquery_control ul li {float:left; padding:0px 20px 0px 20px;}
+#infoContent #infoContent_spatialquery #infoContent_spatialquery_control td {border:0px; padding:5px;}
+
+
+/** version */
+#version div {border-bottom:1px solid #cccccc; padding:10px;}
+
+
+/** map popup */
+.mapPopup_table {border-collapse:collapse;font-size:85%;}
+.mapPopup_table caption {float:left;font-weight:bold}
+.mapPopup_table tr:nth-child(odd) {background-color:#eeeeee;}
+
+
+/** openlayer */
+.olControlAttribution {z-index:1000 !important; }	
+.olImageLoadError { 
+    /* when OL encounters a 404, don't display the pink image */
+    display: none !important;
+} 
+
+	
+/** basic */
+.widget{filter: alpha(opacity =  90); opacity: 0.90; background-color:#cccccc;color:#000000;-moz-border-radius:5px; -webkit-border-radius:5px;border-radius:5px; box-shadow: 3px 3px 3px #cccccc; }
+
+.ui-corner-all{-moz-border-radius:5px; -webkit-border-radius:5px;border-radius:5px;}
+
+.alpha{filter: alpha(opacity =  95); opacity: 0.95;}
+
+.imgHover img:hover {box-shadow: 3px 3px 3px #cccccc;}
+
+.toolboxHover{
+  background-color: #e6e6e6;
+  background-repeat: no-repeat;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), color-stop(25%, #ffffff), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -ms-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: -o-linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+  background-image: linear-gradient(#ffffff, #ffffff 25%, #e6e6e6);
+}
+
+
+.opacity_mouseover {filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=90); opacity: 0.9}
+.opacity_mouseout {filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=20); opacity: 0.20}
